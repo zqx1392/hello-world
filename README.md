@@ -8,3 +8,5 @@ my first repository
 ・SiNDYサーバ環境構築
 ・SiNDYに関する資料の読書
 ・コーディングなどの自習
+
+　https://www.zf1.tohoku-epco.co.jp/F4HA/f4hd/ca/F4HCAW060Prmt.jsp?ku=ISM8h3r3B9dZO6ZuvMeW63xm9JE%3D&hj=02
