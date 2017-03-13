@@ -1,11 +1,24 @@
-・【完了】SiNDYインスタンスの再インストール
-・【対応中】第4プログラミング課題：歩行者NWが存在するメッシュリストを抽出するツール
-　－　【待機中】実装ツールはレビュー中です。
-　－　【予定】レビューの後、ソフトウェア開発文書の修正を進めます。
-・【対応中】Aｒｃ10.4.1環境動作検証：36件検証済み。そのうち34件はOK、2件はNGです。
-・【予定】Oracleバックアップリカバリトレーニングの課題：再インストールSiNDYインスタンスを検証した後再開する予定です。
-・【予定】SDEコネクションの仕組みの課題：来週に行う予定です。
+It's been a long time since I've posted anything in this thread due to the tide of fate spirals my petty life throughout last 6 months. Currently I've found my way and settled down in northern part of Japan during this winter. It’s quite cold compared to my homeland but overall happy to be able to be here. Still, While working my ass off in order to feed more VNs and surviving daily blizzard I asked myself "Why don't ya prick pick a appreciate VN for this season?" Well, without any objection against that thought I salvaged my dusty snowy mountainous pile of backlog. When my eyes fixed upon AstralAir I knew this gonna be the most suitable choice for this winter.
 
-Aｒｃ10.4.1環境動作検証に若干の問題がありつつ、全体的な作業は順調で以前より動作の行いを理解できるようになりました。SiNDYインスタンスの再インストールのおかげで作業の内容を身に付けてきました。
-Oracleバックアップリカバリにおいてウォームさんはとっくに作業を完成したから追いかけるのは大変だと思います。できるだけ早めに完成したいが先週の失敗は肝に銘じたので安全第一で慎重に進めます。
-水道料金支払いと家賃支払いを方付けた？
+Story
+The beginning gave me a good chill  they protrayed the winter atmosphere quite well enough Though, with ESP/Magic or superpower struck me a weird feeling of how the story will unfold since I know Favorite is good with moege stuff but not sure how they will handle Combat part as well as that. And with a few action scenes during the common route involving helping other people I can't help but "expectant" when real combat begins. But as far as mystery part go smoothly and moege runs beautifuly I was having fun nonetheless.
+
+It also surprised me a bit when the common route end abruptly after 3 action encounters without any intimacy scenes between Riku and Yuuki. In my opinion I just want more scenes for the two so I could feel their feeling better before entering true route.
+
+Ochiba, her route is quite vanilla and has steady development throughout the route. Personally I found the climax decent enough which make the aftermath [ero] romance feels pretty good. The chemistry between the two is not too bad either and it makes their sweetness relationship lingers in my mind for a while.
+
+Kotori&Ichika, not my favorite routes since they focus more on family matters and contribute almost less to none for the overall story. In fact I dislike the way they use superpower mainly for romantic propose rather than creating an intense, serious fight. Nonetheless, their relationship flows feels natural enough to convey the feeling that Riku and the girl love each other well.
+
+Corona, is the best wild ride route in which it fucked my expectation up every ways. Since I've disappointed in the use of power in Kotori&Ichika routes I didn’t anticipate at all when Corona is reveal not to be robot and went full Godmode. At that time I just went from inactive retard reader mode to WTF mode real quick. And when they decide to go full space exploration it unexpectedly knocked me off the chair. Finally, when Riku releases himself and go full Saiyan at the end it just made me flipped my notebook 360. Bravo.
+
+Rinne, definitely my most favorite from the beginning to the end. Although her route is nothing as wild as Corona or as sweet as Ochiba I’m very happy as the way Rinne has become as the end.(perverted half sister, but why not?)
+
+True route(Yuuki). I neither like the way they wrapped thing up for other heroines in early part nor the way they smoothen things a bit too far in the middle. But the climax was excuted too well(and I can't deny the last song gave me standing facial hair). All in all, I’m glad to finish the long journey in this winter.
+My Affection for each route and heroines are as follows,
+Character : Rinne > Ochiba > Corona > Yuuki > Kotori > Ichika
+Story : Yuuki > Corona > Ochiba > Rinne > Kotori > Ichika
+
+
+One letdown thing though, Action. I could described it as being a Jedi but instead of fighting against Sith Lord they instead use Lightsabers to giraffe the wall saying I luv you babe and then use the force to hold each other. Couldn't help but felt my expectation  somehow got backlashed. 
+
+Still, this VN is pretty good for this time of the year and fulfilled my feeling of first snow in my life. I might as well return reading Clannad after getting off tracked for half a year or go on to Oukasabaki.
