@@ -12,6 +12,8 @@ Mail to KE about 5/1 is freaking holiday for company
 
 jdrama
 
+Kitakami and another tohoku place
+
 VN discord
 
 NieR:Automata
