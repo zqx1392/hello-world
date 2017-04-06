@@ -1,17 +1,17 @@
-reserve , boat and train
+ouka(practice) -> rance quest -> rokushimai -> SEなれる
+
+reserve boat and train, check concise date and credit card usage on each Hotel
+
+Confirm Auto payment
 
 Mail from mihoichi san
-
-Mail from House Renting
 
 Mail to KE about 5/1 is freaking holiday for company
 
 jdrama
 
-check meister trial
-
-ouka(practice) -> rance quest -> rokushimai -> SEなれる
-
 VN discord
 
 NieR:Automata
+
+Let Fallout 4 Sim settlements grows for a month at least.
