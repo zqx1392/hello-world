@@ -1,8 +1,10 @@
-ouka(practice) -> rance quest -> rokushimai -> SEなれる
+Clean cloth TODAY
 
 reserve boat and train, check concise date and credit card usage on each Hotel
 
 Confirm Auto payment
+
+ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
 Mail from mihoichi san
 
