@@ -12,6 +12,8 @@ NieR:Automata
 
 Let Fallout 4 Sim settlements grows for a month at least.
 
+clear ear wax
+
 ・【完了】増田さんへの1～3月の作業・研修の報告発表
 ・【完了】BL向け最高速度サンプルFIXユーザの作成
 ・【完了】セキュリティパッチ適用作業
