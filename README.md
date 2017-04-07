@@ -1,5 +1,7 @@
 reserve boat and train, check concise date and credit card usage on each Hotel
 
+好きな人がいること
+
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
 jdrama
