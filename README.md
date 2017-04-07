@@ -1,20 +1,10 @@
-Clean cloth TODAY
-
 reserve boat and train, check concise date and credit card usage on each Hotel
 
-Confirm Auto payment
-
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
-
-Mail from mihoichi san
-
-Mail to KE about 5/1 is freaking holiday for company
 
 jdrama
 
 Kitakami and another tohoku place
-
-VN discord
 
 NieR:Automata
 
