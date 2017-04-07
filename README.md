@@ -2,6 +2,8 @@ reserve boat and train, check concise date and credit card usage on each Hotel
 
 好きな人がいること
 
+CLEAN SHIRT AND CLEAN FLOOR AND SLEEP THE FUCK OUT. focus on jap too.
+
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
 jdrama
