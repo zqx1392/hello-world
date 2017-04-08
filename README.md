@@ -1,14 +1,10 @@
-reserve boat and train, check concise date and credit card usage on each Hotel
-
-好きな人がいること
-
-CLEAN SHIRT AND CLEAN FLOOR AND SLEEP THE FUCK OUT. SORT UNUsED CLOTH. focus on jap too.
+check boat and train, check concise date and credit card usage on each Hotel
 
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
 jdrama
 
-Kitakami and another tohoku place
+Kitakami and fukushima
 
 NieR:Automata
 
