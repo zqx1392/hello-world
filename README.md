@@ -1,4 +1,4 @@
-check boat and train, check concise date and credit card usage on each Hotel
+check concise date and credit card usage on each Hotel
 
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
