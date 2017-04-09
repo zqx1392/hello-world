@@ -1,5 +1,7 @@
 check concise date and credit card usage on each Hotel
 
+send report
+
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
 jdrama
