@@ -11,3 +11,8 @@ NieR:Automata
 Let Fallout 4 Sim settlements grows for a month at least.
 
 clear ear wax
+
+time for 
+bb;
+doom;
+mk; spring
