@@ -1,5 +1,7 @@
 check concise date and credit card usage on each Hotel
 
+DOWNLOAD ALL THE QUEEN!
+
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
 
 jdrama
