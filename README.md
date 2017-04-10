@@ -1,7 +1,5 @@
 check concise date and credit card usage on each Hotel
 
-answer irei mail with false information.
-
 DOWNLOAD ALL THE QUEEN!
 
 ouka(practice) -> rance quest -> rokushimai -> SEなれる
