@@ -1,3 +1,8 @@
+fix baggage corner
+clean bathroom
+
+change train timetable
+prepare ticket, evidence for each train, bus, and hotel
 check concise date and credit card usage on each Hotel
 
 jdrama
@@ -11,7 +16,7 @@ clear ear wax
 time for 
 bb;
 doom;
-mk; spring																															
+mk; spring																												
 																																		
 																																		
 																																		
