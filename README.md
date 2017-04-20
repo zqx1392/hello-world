@@ -1,5 +1,7 @@
 今宵の月のように
 
+あなたの好きなところ
+
 1.fix baggage corner
 
 2.clean bathroom
