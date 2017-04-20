@@ -1,8 +1,12 @@
-fix baggage corner
-clean bathroom
+1.fix baggage corner
 
-change train timetable
-prepare ticket, evidence for each train, bus, and hotel
+2.clean bathroom
+
+
+change train timetable -> watch weather first, if Onuma is okay just change to pre 10
+
+prepare ticket, evidence for each train, bus, and hotel -> 4/29 bus, 4/30 boat, aomori hotel, hokkaido
+
 check concise date and credit card usage on each Hotel
 
 jdrama
