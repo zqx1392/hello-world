@@ -2,6 +2,9 @@
 
 2.clean bathroom
 
+3.dry cloth
+
+clear ouka -> read nareru -> fox -> find new
 
 change train timetable -> watch weather first, if Onuma is okay just change to pre 10
 
