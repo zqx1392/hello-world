@@ -6,11 +6,9 @@ jdrama
 
 NieR:Automata
 
-Let Fallout 4 Sim settlements grows for a month at least. Search on FALLOUT 4 site too.
-
 clear ear wax
 
 time for 
 bb;
 doom;
-mk; spring
+mk;
