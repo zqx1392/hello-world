@@ -1,6 +1,12 @@
-1.fix baggage corner
+fix baggage corner
 
 ミルクティー
+
+what for tonight?
+-watch dota 2
+-play rance for hours
+-play the same thing -> go 2 more char and quit plz to cg
+-end up not choosing next candidate
 
 Find lovable artist (hasshu)
 
