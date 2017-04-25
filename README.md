@@ -1,5 +1,7 @@
 1.fix baggage corner
 
+ミルクティー
+
 Find lovable artist (hasshu)
 
 change train timetable -> watch weather first, if Onuma is okay just change to pre 10
