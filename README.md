@@ -1,6 +1,7 @@
 fix baggage corner
 
 ミルクティー
+あなたの好きなところ
 
 Find lovable artist (hasshu)
 
