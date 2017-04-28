@@ -1,11 +1,16 @@
+check the hotel
+decide train schedule
+crammed up the bag
+close the fridge
+record lovable hsshu via phone
+charge laptop?
+get more song into phone
+etc etc
+
 fix baggage corner
 
 ミルクティー
 あなたの好きなところ
-
-Find lovable artist (hasshu)
-
-change train timetable -> watch weather first, if Onuma is okay just change to pre 10
 
 jdrama
 
