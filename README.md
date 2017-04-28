@@ -1,10 +1,4 @@
-confirmed amayui payment(wtf)
-check the hotel
-decide train schedule
-crammed up the bag
-close the fridge
-record lovable hsshu via phone
-charge laptop?
+
 get more song into phone
 etc etc
 
