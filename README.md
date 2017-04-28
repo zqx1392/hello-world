@@ -1,3 +1,4 @@
+confirmed amayui payment(wtf)
 check the hotel
 decide train schedule
 crammed up the bag
