@@ -1,6 +1,7 @@
-
-get more song into phone
-etc etc
+Clean fucking house
+Sort Song
+Find new VN
+Process photo
 
 fix baggage corner
 
