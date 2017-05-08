@@ -3,6 +3,7 @@ tokyo planning
 -matsuri
 -akiba -> another manga?, tinker sensei's pastries
 -musuem + asakusa
+-anime fes somewhere
 
 
 jdrama
