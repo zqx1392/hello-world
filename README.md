@@ -4,6 +4,9 @@ tokyo planning
 -akiba -> another manga?, tinker sensei's pastries
 -musuem + asakusa
 -anime fes somewhere
+-buy more cloth for running and working 
+
+check rance quest character history
 
 download teamvierwe
 
