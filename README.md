@@ -6,10 +6,10 @@ tokyo planning
 -anime fes somewhere
 -buy more cloth for running and working 
 
-check rance quest character history
-
-download teamvierwe
-
+wtd
+- wolf and spice
+- clear chibi comp
+- find new inspiration in vn story
 
 jdrama
 
