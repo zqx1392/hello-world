@@ -9,7 +9,9 @@ tokyo planning
 wtd
 - wolf and spice
 - clear chibi comp
-- find new inspiration in vn story
+- find new inspiration in vn story 
+- >Finish neko,mikite first
+- >Than go on Rance9, a fated vn
 
 jdrama
 
