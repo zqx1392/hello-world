@@ -1,9 +1,9 @@
 wtd
+- dot for "fun"
 - wolf and spice
-- clear chibi comp
-- find new inspiration in vn story 
-- >Finish neko,mikite first
-- >Than go on Rance9, a fated vn
+- clear chibi comp 
+- >Finish neko
+- >Than go on　Amayui,　and a fated vn
 
 jdrama
 
