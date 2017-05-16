@@ -1,3 +1,6 @@
+ck <--
+pudge <-- 
+
 wtd
 - dot for "fun"
 - wolf and spice
@@ -14,4 +17,3 @@ clear ear wax
 time for 
 bb;
 doom;
-mk;
