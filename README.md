@@ -1,6 +1,8 @@
 ck <--
 pudge <-- 
 
+白滝、ほんだし、酒、みりん
+
 wtd
 - wolf and spice
 - clear chibi comp 
