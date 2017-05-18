@@ -3,6 +3,8 @@ pudge <--
 
 白滝、ほんだし、酒、みりん
 
+TEAMVIEWER FOR PHONE
+
 wtd
 - wolf and spice
 - clear chibi comp 
