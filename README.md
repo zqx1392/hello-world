@@ -1,7 +1,7 @@
 ck <--
 pudge <-- 
 
-白滝、ほんだし、酒、みりん
+change prizepool prediction
 
 TEAMVIEWER FOR PHONE
 
@@ -20,9 +20,3 @@ clear ear wax
 time for 
 bb;
 doom;
-
-tonight
-wolf,
-neko,
-sukiyaki,
-dota for lyfe
