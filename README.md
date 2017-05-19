@@ -1,3 +1,8 @@
+TEL：09029698875
+LINEID：elle1031
+LINEアカウント名：うらべゆうすけ
+
+
 ck <--
 pudge <-- 
 
