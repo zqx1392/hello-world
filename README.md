@@ -1,12 +1,12 @@
-TEL：09029698875
-LINEID：elle1031
-LINEアカウント名：うらべゆうすけ
-
 空芯菜
 しめじ
 にんじん
+young corn
 
-
+cancel
+house
+phone
+water
 
 ck <--
 pudge <-- 
