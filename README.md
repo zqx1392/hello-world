@@ -3,12 +3,13 @@
 にんじん
 young corn
 
+contact mom about return date
 
 cancel
-house
-phone
-water
-NET
+house　「X」
+phone　「」
+water　「」
+NET　「」
 
 ck <--
 pudge <-- 
