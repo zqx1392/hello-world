@@ -3,6 +3,8 @@
 にんじん
 young corn
 
+find airplane promotion via ar-pae
+
 cancel
 house　「X」
 phone　「」
