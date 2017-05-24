@@ -3,15 +3,15 @@
 にんじん
 young corn
 
-find airplane promotion via ar-pae
+airplane and house
 
 cancel
 house　「X」
+denki []
 phone　「」
 water　「」
 NET　「」
 
-ck <--
 pudge <-- 
 
 change prizepool prediction
