@@ -3,8 +3,6 @@
 にんじん
 young corn
 
-contact mom about return date
-
 cancel
 house　「X」
 phone　「」
@@ -21,7 +19,6 @@ TEAMVIEWER FOR PHONE
 wtd
 - wolf and spice
 - clear chibi comp 
-- >Finish neko
 - >Than go on　Amayui
 
 jdrama
