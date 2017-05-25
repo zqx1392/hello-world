@@ -3,6 +3,8 @@
 にんじん
 young corn
 
+http://www.flyscoot.com/jp/promo-fares-jp?utm_source=adara&utm_medium=display&utm_campaign=jp-scootou&dclid=CMSW4qazitQCFYZpvQodTKQA8A
+
 半月の家賃ですか。。
 できれば6/30に退居する希望ございますが、6月26-30日には毎日出勤しなければなりませんので掃除や片づけ時間は必要です。
 7月3日は無理でしょうが7月1日退去したら家賃を免除していただけませんか？
