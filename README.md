@@ -10,16 +10,17 @@ young corn
 
 話し合いに関しては、今週末でもよろしいでしょうか？
 
+8 wards, probably pudge, treant, ck, shadown shaman
+
 airplane and house
 
 cancel
-house　「X」
-denki []
-phone　「」
-water　「」
-NET　「」
+house　「X」 <-- 1, contact agreement and discuss date.
+denki [] <-- Search by web or talk directly(fuck)
+phone　「」 <-- 3
+water　「」 <-- Find chance to speak to water girl
+NET　「」 <-- 2
 
-pudge <-- 
 
 change prizepool prediction
 
