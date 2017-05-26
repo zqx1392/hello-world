@@ -1,7 +1,10 @@
 空芯菜
 しめじ
 にんじん
-young corn
+
+- clean towel and bed
+- go buy bagcase
+
 
 http://www.flyscoot.com/jp/promo-fares-jp?utm_source=adara&utm_medium=display&utm_campaign=jp-scootou&dclid=CMSW4qazitQCFYZpvQodTKQA8A
 
