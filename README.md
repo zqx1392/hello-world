@@ -7,6 +7,7 @@ http://www.flyscoot.com/jp/promo-fares-jp?utm_source=adara&utm_medium=display&ut
 
 airplane and house
 
+buy another bag and another vacuum
 cancel
 house　「X」 <-- 1, contact agreement and discuss date.
 denki [] <-- Search by web or talk directly(fuck)
@@ -21,11 +22,9 @@ TEAMVIEWER FOR PHONE
 wtd
 - wolf and spice
 - clear chibi comp 
-- >Than go on　Amayui
 
 jdrama
 
 NieR:Automata
 
 clear ear wax
-
