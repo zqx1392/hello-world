@@ -4,7 +4,7 @@
 - go buy bagcase
 - fix fucking adware from my com
 
-http://www.flyscoot.com/jp/promo-fares-jp?utm_source=adara&utm_medium=display&utm_campaign=jp-scootou&dclid=CMSW4qazitQCFYZpvQodTKQA8A
+春風
 
 cancel
 house　「X」 
