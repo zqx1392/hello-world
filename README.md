@@ -12,6 +12,7 @@ sort most important job
 6. make plan for last july (hotel, fri list, dest)
 
 春風
+Passepied
 
 cancel
 house　「X」 
