@@ -1,5 +1,8 @@
 search　絵師 on nyaa
 
+0120-483-550
+03-6408-2650
+
 - go buy bagcase
 - fix fucking adware from my com
 
