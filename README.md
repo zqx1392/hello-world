@@ -1,5 +1,3 @@
-change prizepool prediction
-
 search　絵師 on nyaa
 
 - go buy bagcase
