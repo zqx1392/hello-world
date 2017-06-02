@@ -3,6 +3,8 @@ search　絵師 on nyaa
 0120-483-550
 03-6408-2650
 
+- clean aircon
+- contact all
 - go buy bagcase
 - fix fucking adware from my com
 
@@ -22,7 +24,6 @@ fallout newvegas soundtrack
 cancel
 house　「X」 
 denki [] <-- 5/30
-phone　「」 <-- 6/1
 water　「」 <-- Find chance to speak to water girl
 NET　「」 <-- talk directly (fuck)
 
