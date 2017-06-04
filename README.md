@@ -1,3 +1,5 @@
+ask bonus, petch, what they want
+
 search　絵師 on nyaa
 - fix fucking adware from my com
 
