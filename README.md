@@ -12,8 +12,9 @@ golliwogg cakewalk
 fallout newvegas soundtrack
 
 cancel
-house　「X」 
-denki [X] <-- 5/30
+Suitcase 「」 <-- 6/15
+residence　「」 <-- 6/17 
+denki [X] <-- next contact
 water　「」 <-- Find chance to speak to water girl
 NET　「X」
 
