@@ -1,9 +1,6 @@
-ask bonus, petch, what they want
-
 search　絵師 on nyaa
 
-3. make slide for end month
-6. make plan for last july (hotel, fri list, dest)
+make slide for end month
 
 春風
 Passepied
@@ -33,19 +30,3 @@ list for all directories
 - PIP
 - SVN
 - PUKIWIKI
-
-list for cleaning
-- usual (floor and etc)
-- air con(try search product via web)
-- door (both corridor and inside)
-- fridge
-- closet
-- showerroom (under sink, around waste hole)
-- toilet(floor and the toilet itself)
-- footlocker
-- pot heater
-- microwave
-- sink
-- under bed
-- corridor
-- 玄関
