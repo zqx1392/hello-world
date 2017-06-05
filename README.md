@@ -1,9 +1,7 @@
 ask bonus, petch, what they want
 
 search　絵師 on nyaa
-- fix fucking adware from my com
 
-2. get vital information from wiki and import into pgtestp
 3. make slide for end month
 5. make house cleaning list (air conditioner, hidden spot, etc)
 6. make plan for last july (hotel, fri list, dest)
@@ -30,3 +28,9 @@ jdrama
 NieR:Automata
 
 clear ear wax
+
+list for all directories
+- Studier
+- PIP
+- SVN
+- PUKIWIKI
