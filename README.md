@@ -10,9 +10,10 @@ fallout newvegas soundtrack
 cancel
 - Suitcase 「」 <-- 6/15
 - residence　「」 <-- 6/17 
-- denki [X] <-- next contact
-- water　「」 <-- Find chance to speak to water girl
+- denki [x] <-- next contact
+- water　「X」
 - NET　「X」
+- phone [] <-- after i go back to thai
 
 TEAMVIEWER FOR PHONE
 
