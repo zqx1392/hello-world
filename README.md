@@ -8,6 +8,7 @@ golliwogg cakewalk
 fallout newvegas soundtrack
 
 cancel
+- health card「」 <-- soon
 - Suitcase 「」 <-- 6/15
 - residence　「」 <-- 6/17 
 - denki [x] <-- next contact
