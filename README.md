@@ -2,11 +2,6 @@ search　絵師 on nyaa
 
 stardew valley
 
-春風
-Passepied
-golliwogg cakewalk
-fallout newvegas soundtrack
-
 cancel
 - health card「」 <-- soon
 - Suitcase 「」 <-- 6/15
