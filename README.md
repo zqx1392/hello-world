@@ -4,8 +4,6 @@ stardew valley
 
 cancel
 - health card「」 <-- tmr
-- Suitcase 「」 <-- 6/15
-- residence　「」 <-- 6/17 
 - denki [x] <-- next contact
 - water　「X」
 - NET　「X」
