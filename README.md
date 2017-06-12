@@ -2,6 +2,8 @@ go to Malios 1F and send health card
 
 check bank account usage
 
+answer irei mail in full
+
 【業務】
 今週は大体の作業を先週から引き続いて行っています。資料の収集とまとめは、ほとんどの内容を決めたので現在翻訳しているだけです。今月末の発表資料には話題、内容などを大ざっぱに決めましたが、簡潔でわかりやすく見えるように努力しています。ASEANについての作業が注記作成のやり直しを除いて順調に進んでいます。
 【個人】
