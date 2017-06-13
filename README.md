@@ -1,7 +1,5 @@
 report sent card to irei and ask for update
 
-ask bonus, tarm; how are they.
-
 search　絵師 on nyaa
 
 stardew valley
