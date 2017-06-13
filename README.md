@@ -1,8 +1,10 @@
-go to Malios 1F and send health card
+report sent card to irei and ask for update
 
 search　絵師 on nyaa
 
 stardew valley
+
+E3 games (shit I need ps4...)
 
 cancel
 - health card「」 <-- tmr
