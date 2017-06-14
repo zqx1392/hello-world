@@ -4,6 +4,8 @@ search　絵師 on nyaa
 
 stardew valley
 
+NieR:Automata
+
 E3 games (shit I need ps4...)
 
 cancel
@@ -16,8 +18,6 @@ TEAMVIEWER FOR PHONE
 - clear chibi comp 
 
 jdrama
-
-NieR:Automata
 
 clear ear wax
 
