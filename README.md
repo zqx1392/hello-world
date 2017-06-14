@@ -7,9 +7,7 @@ stardew valley
 E3 games (shit I need ps4...)
 
 cancel
-- health card「x」 <-- tmr
 - denki [] <-- next contact
-- water　「X」
 - NET　「X」
 - phone [] <-- after i go back to thai
 
