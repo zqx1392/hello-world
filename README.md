@@ -1,5 +1,7 @@
 report sent card to irei and ask for update
 
+search more aero, tapestry 
+
 search　絵師 on nyaa
 
 stardew valley
