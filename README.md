@@ -1,6 +1,9 @@
 report sent card to irei and ask for update
 
 search more aero, tapestry 
+- return to the 2nd floor place again... (good shit)
+- go watch some more tinker
+- search some good ol 中古
 
 search　絵師 on nyaa
 
