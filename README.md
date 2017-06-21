@@ -2,6 +2,13 @@ contact electric again
 
 buy omiyake now
 
+start the ladies
+
+do it now
+- TEAMVIEWER FOR PHONE
+- clear chibi comp 
+- jdrama
+
 1. make list what to bring home from mom, bro, mark&fri, petch, etc
 2. contact tokyo fri in advance (tarm gank, kyo, peko)
 
@@ -10,12 +17,8 @@ search more aero, tapestry
 - go watch some more tinker
 - search some good ol 中古
 
-search　絵師 on nyaa
-
-stardew valley
-
-NieR:Automata
-
+stardew valley, 
+NieR:Automata,
 E3 games (shit I need ps4...)
 
 cancel
@@ -23,11 +26,7 @@ cancel
 - NET　「X」
 - phone [] <-- after i go back to thai
 
-TEAMVIEWER FOR PHONE
 
-- clear chibi comp 
-
-jdrama
 
 clear ear wax
 
