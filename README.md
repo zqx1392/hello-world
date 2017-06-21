@@ -5,12 +5,11 @@ buy omiyake now
 start the ladies
 
 do it now
-- TEAMVIEWER FOR PHONE
 - clear chibi comp 
 - jdrama
 
-1. make list what to bring home from mom, bro, mark&fri, petch, etc
-2. contact tokyo fri in advance (tarm gank, kyo, peko)
+1. make list what to bring home from  mark&fri, petch, etc
+2. contact tokyo fri in advance (tarm gank, kyo)
 
 search more aero, tapestry 
 - return to the 2nd floor place again... (good shit)
