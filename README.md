@@ -1,3 +1,7 @@
+contact electric again
+
+buy omiyake now
+
 search more aero, tapestry 
 - return to the 2nd floor place again... (good shit)
 - go watch some more tinker
