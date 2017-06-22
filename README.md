@@ -6,6 +6,7 @@ start clannad, again.
 
 do it now
 - 3 -> clear chibi comp 
+- 時をかける少女
 - jdrama
 
 1. make list what to bring home from  mark&fri, petch, etc
