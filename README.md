@@ -1,11 +1,11 @@
-contact electric again
+2 -> contact electric again
 
-buy omiyake now
+1 -> buy omiyake now
 
-start the ladies
+start clannad, again.
 
 do it now
-- clear chibi comp 
+- 3 -> clear chibi comp 
 - jdrama
 
 1. make list what to bring home from  mark&fri, petch, etc
