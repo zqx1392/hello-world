@@ -1,3 +1,7 @@
+delete pic from triangle, rectangle
+add more flow to tougouDB (+ customer and us)
+make pukiwiki less flashy
+
 2 -> contact electric again
 
 1 -> buy omiyake now
