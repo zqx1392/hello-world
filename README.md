@@ -4,7 +4,6 @@
 start clannad, again.
 
 do it now
-- 3 -> clear chibi comp 
 - 時をかける少女
 - jdrama
 
