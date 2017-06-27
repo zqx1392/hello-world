@@ -1,5 +1,9 @@
+- buy omiyake now
+- check credit card usage
+- withdraw more from bank
+- contact tokyo fri in advance (tarm gank, kyo)
 2 -> contact electric again
-1 -> buy omiyake now
+
 
 what the fuck is kegel
 
@@ -10,7 +14,6 @@ do it now
 - jdrama
 
 1. make list what to bring home from  mark&fri, petch, etc
-2. contact tokyo fri in advance (tarm gank, kyo)
 
 search more aero, tapestry 
 - return to the 2nd floor place again... (good shit)
@@ -25,8 +28,6 @@ cancel
 - denki [] <-- next contact
 - NET　「X」
 - phone [] <-- after i go back to thai
-
-
 
 clear ear wax
 
