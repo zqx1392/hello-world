@@ -1,6 +1,8 @@
 2 -> contact electric again
 1 -> buy omiyake now
 
+what the fuck is kegel
+
 start clannad, again.
 
 do it now
