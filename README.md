@@ -1,8 +1,3 @@
-- buy omiyake now
-- check credit card usage
-- pay bill
-- withdraw more from bank
-- contact tokyo fri in advance (tarm gank, kyo)
 2 -> contact electric again
 
 
