@@ -1,0 +1,577 @@
+前提条件：
+
+    DBにはOracle Textがインストールされていること
+        確認方法
+
+        SQL> SELECT owner, object_name
+             FROM all_objects
+             WHERE object_type = 'PACKAGE' AND object_name = 'CTX_DDL';
+
+        レコードが返ってきたらOK
+
+0. 事前準備 † Edit
+
+    ArcGIS for Desktop 10.4.1に最新のサービスパックまたはパッチを適用しておく
+    Oracle Clientをインストールしておく
+
+▲ ▼
+1. ArcGIS10.4.1ジオデータベースの作成 † Edit
+
+ArcGIS for Desktop を使用して、Oracle データベースにエンタープライズ ジオデータベースを作成する
+
+    SDE表領域の作成
+
+    SQL> create tablespace sde
+         datafile '/home1/oradata/sde.dbf' size 500M
+         autoextend on next 250M maxsize 10000M
+         extent management local segment space management manual;
+
+    クライアントマシンで、ArcCatalogを起動
+    ツールバーから[ArcToolbox] を選択して表示し、[データ管理 ツール] → [ジオデータベース管理] を展開して [エンタープライズ ジオデータベースの作成 (Create Enterprise Geodatabase)] をダブルクリック
+    [エンタープライズ ジオデータベースの作成 (Create Enterprise Geodatabase)] ツールが起動
+        データベース プラットフォーム ：Oracleを選択
+        サービス :<サーバ名>/<グローバル・データベース名>
+
+        例：momiji.mr.ipc.pioneer.co.jp/momiji
+
+        データベース管理者パスワード(オプション) ：sys ユーザのパスワード
+        ジオデータベース管理者(オプション) ：sde
+        ジオデータベース管理者のパスワード：sde
+        表領域名(sdeユーザのデフォルト表領域)：sde
+        認証ファイル：ArcGIS for Server の認証ファイルを選択
+
+        \\win\tdc\SiNDY\INSTALL_CDROM\ArcGIS10.4.1\ArcGIS for Desktop\keycodes
+
+        認証ファイルがない場合は下記Tipsを参照
+
+        1.4 ジオデータベースの作成.png
+    エンタープライズ ジオデータベースが正常に作成された場合は [完了] が表示される
+    ※ST_Geometry シェープ ライブラリの警告が表示されるが、こちらはこの手順で対応を行う
+
+▲ ▼
+2. ArcSDE10.2.2のインストール † Edit
+▲ ▼
+2.1. 事前作業 † Edit
+
+    OSのSDEユーザ作成
+
+    # useradd -c "ArcSDE Administrator" -g oinstall -s /usr/bin/bash sde
+    # passwd sde
+
+    環境変数を設定
+        .bashrcに追記
+
+        # For Oracle
+        export ORACLE_BASE=/opt/oracle
+        export ORACLE_SID=sindy
+
+        # For ArcSDE v10.2.2
+        export SDEHOME=/opt/arcsde/sdeexe102
+        export PATH=$PATH:$SDEHOME/bin
+        export SDEINSTANCE=sde:oracle11g
+        #export SDEUSER=sde
+        #export SDEPASSWORD=sde
+
+        # For Oracle 12c
+        export ORACLE_HOME=$ORACLE_BASE/product/12.1.0/db_1
+        export NLS_LANG=Japanese_Japan.AL32UTF8
+        export ORA_NLS10=$ORACLE_HOME/nls/data
+        export ORACLE_DOC=$ORACLE_HOME/doc
+
+        export PATH=$PATH:$ORACLE_HOME/bin:.
+        export LD_LIBRARY_PATH=./:$SDEHOME/lib:/usr/lib:/lib:$ORACLE_HOME/lib:$ORACLE_HOME/ctx/lib:$ORACLE_HOME/jdoc/lib
+
+SDEINSTANCEを設定することでダイレクトコネクションの -i オプションを省略できるようになる
+SDEINSTANCE=sde:oracle11gとなっているが、ArcSDEのコマンドはOracle11g用までがリリースされており、
+Oracle12c用のライブラリを参照できないためである
+▲ ▼
+2.2. ArcSDE10.2.2のインストール † Edit
+
+    ディレクトリ準備(rootで作業)
+
+    # mkdir /opt/arcsde
+    # chown sde.oinstall /opt/arcsde
+
+    ArcSDEのインストール(インストーラ実行ユーザはsde)
+
+    インストーラ格納ディレクトリ：\\magi1\sysmaster\03_software\ArcSDE\10.2.2\ArcSDE_for_Oracle11g_on_Linux_1022_140624.tar.gz
+
+    $ tar zxvf ArcSDE_for_Oracle11g_on_Linux_1022_140624.tar.gz
+    $ cd ArcSDE_Oracle11g_Linux/oracle11g_64
+    $ chmod 755 *
+    インストーラの説明がEUCで表示されるため、Teratermの文字コードをEUCに変更する
+    $ ./install -load
+
+        インストール先ディレクトリは/opt/arcsde
+        ロードされるパッケージの数：2 (Command Line Tools)
+    SDEパラメータ設定
+        ArcSDEのログファイルの設定変更
+        /opt/arcsde/sdeexe102/etc/dbinit.sdeに以下を追記
+
+        set SDELOGAPPEND=TRUE
+
+        sdeコマンドで下記パラメータを変更する
+
+        CONNECTIONS 450     # 最大接続数
+        TCPKEEPALIVE TRUE   # TCPのKEEPALIVE機能をONにするかどうか
+        TLMINTERVAL 9999    # SDE.SDE_TABLES_MODIFIEDにクエリを発行する間隔
+
+            現在の設定値を確認
+
+            SQL> select * from sde.server_config where prop_name in ('CONNECTIONS','TCPKEEPALIVE','TLMINTERVAL');
+
+            パラメータの変更
+
+            $ sdeconfig -o alter -v CONNECTIONS=450 -u sde -p sde -N
+            $ sdeconfig -o alter -v TCPKEEPALIVE=TRUE -u sde -p sde -N
+            $ sdeconfig -o alter -v TLMINTERVAL=9999 -u sde -p sde -N
+
+            変更後の設定値を確認
+
+            SQL> select * from sde.server_config where prop_name in ('CONNECTIONS','TCPKEEPALIVE','TLMINTERVAL');
+            CONNECTIONS 450   
+            TCPKEEPALIVE 1(TRUE)
+            TLMINTERVAL 9999
+
+    Oracle権限付与
+        /home/oracle/SQL/SDE/grant_sde_sysprivs.sqlを実行
+        さらに以下を実行
+
+        SQL> GRANT EXECUTE ON dbms_lob TO public;
+        SQL> GRANT EXECUTE ON dbms_utility TO public;
+        SQL> GRANT EXECUTE ON dbms_sql TO public;
+        SQL> GRANT EXECUTE ON utl_raw TO public;
+        SQL> GRANT EXECUTE ON DBMS_CRYPTO TO SDE;
+        SQL> GRANT SELECT ON v_$parameter TO PUBLIC;
+
+    openmotifをインストール
+    sdeが動作するにはopenmotifに同梱されているlibXp-1.0.2-2.1.el7.x86_64.rpmが必要になる
+
+    # yum install openmotif
+    # yum install openmotif-devel
+
+    SDE_IDXの表領域作成
+
+    SQL> create tablespace SDE_IDX datafile '/home1/oradata/sde_idx.dbf' size 500M autoextend on next 250M maxsize 10000M
+         extent management local segment space management manual;
+
+    デフォルトでSDE表領域に作成されているインデックスをSDE_IDX表領域に移動
+        S1$_IX1で『ORA-28650: IOTの主索引は再構築できません。』のエラーが出るので、このインデックスを除外した状態で実行する
+        SYSユーザで/home/oracle/SQL/SDE/move_sde_index.sqlを実行
+
+        Standard Editionでインストールした場合、Online Rebuild機能が使えなくなるためONLINE句を削除する必要がある。
+        Online Rebuildが使えない場合、当該表領域への処理中は更新ができなくなる。
+    SDE.DEFAULTバージョンの権限をプロテクトに変更 (onyx, spinel2以外)
+        ArcCatalogで空間DB名を選択し右クリックメニューから[管理]→[ジオデータベースの管理]でDEFAULTバージョンを選択する
+        名前：DEFAULT、アクセス：パブリックになっているのでプロパティ＞アクセス権をプロテクトに変更する
+    エクスポートデータ格納用フォルダの作成
+
+    # mkdir -p /home1/sde_export
+    # cd /home1
+    # chown sde.oinstall sde_export/
+
+▲ ▼
+2.3. ST_Geometryシェープライブラリの設定 † Edit
+
+    /opt/oracle/product/12.1.0/db_1/hs/admin/extproc.oraにlibst_shapelib.soのパスファイル名を追加
+
+    $ cd /opt/oracle/product/12.1.0/db_1/hs/admin
+    $ vi extproc.ora
+    SET EXTPROC_DLLS=ANY と記入すればOK
+
+    OSのOracleユーザに/opt/arcsde/sdeexe102/lib/libst_shapelib.soへのパーミッションがあることを確認
+    OSのOracleユーザにLD_LIBRARY_PATHにlibst_shapelib.soライブラリパスを追加
+
+    $ vi .bashrc
+    LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/arcsde/sdeexe102/lib/libst_shapelib.so
+
+    libst_shapelib.soパスの変更
+        sdeユーザで接続し設定値の確認
+
+        SQL> select * from user_libraries;
+
+        sdeユーザで接続し下記SQL実行
+
+        SQL> CREATE OR REPLACE LIBRARY st_shapelib AS 
+             '/opt/arcsde/sdeexe102/lib/libst_shapelib.so';
+             /
+
+        パスが追加されたか確認
+
+        SQL> select * from user_libraries;
+
+        以下のSQLを実行してST関数が正常に使用できることを確認
+
+        SQL> select sde.st_point(1,1,0) from dual;
+
+▲ ▼
+2.4. 事後作業 † Edit
+▲ ▼
+2.4.1. リポジトリから各種スクリプトをチェックアウト † Edit
+
+
+ArcSDE10.2.2に移行するためスクリプト改修が必要なものがあるので仮置き
+
+    SVN
+        svnをインストール（インストールされていなければ）
+
+        # yum install subversion
+
+            sdeユーザ
+
+            $ su - sde
+            $ svn checkout http://preon.mr.ipc.pioneer.co.jp/svn/release/trunk/public/SiNDY-b/SiNDY-Server/sde/svn/
+
+            setting2.iniの修正
+
+            $ vi /home/sde/svn/datacopy/setting2.ini
+            EXP_BASE_DIR=<ホスト名>,/home1/sde_export/work
+
+    mon.cshのシンボリックリンクをホームディレクトリ上に作成
+
+    $ su - sde
+    $ ln -s svn/maintenance/mon.csh mon.csh
+
+    Maintenance.cshのシンボリックリンクをホームディレクトリ上に作成
+
+    $ ln -s /home/sde/svn/maintenance/Maintenance.csh Maintenance.csh
+
+▲ ▼
+2.4.2. Oracle12c・ArcSDE10.2.2用のdboraを作成 † Edit
+
+    他Arc10.4.1サーバから/etc/init.d/dboraをコピーもしくは SVNからダウンロード
+        実行権限付与を忘れずに
+    正しく起動・停止するか確認
+        起動の確認
+
+        # /etc/init.d/dbora start
+
+        停止の確認
+
+        # /etc/init.d/dbora stop
+
+    chkconfigの代わりにシンボリックリンクで自動起動を設定する
+
+    # ln -s /etc/init.d/dbora /etc/rc.d/rc0.d/K01dbora
+    # ln -s /etc/init.d/dbora /etc/rc.d/rc3.d/S99dbora
+    # ln -s /etc/init.d/dbora /etc/rc.d/rc5.d/S99dbora
+
+▲ ▼
+2.4.3. logrotateの設定変更 † Edit
+
+    /etc/logrotate.d 以下のファイルを作成
+        oracle
+
+        /opt/oracle/diag/rdbms/<DBNAME>/sindy/trace/alert_sindy.log /opt/oracle/product/12.1.0/db_1/listener.log {
+         monthly
+        }
+
+    ローテーションのテスト（-dオプションをつけると実際にはローテートされない）
+
+    # logrotate -dv /etc/logrotate.d/oracle
+
+▲ ▼
+2.4.4. dbtuneファイルのマスタを適用 † Edit
+
+    EDT,FIX,ETCの表領域で運用しているためこちらを使用すること
+    SVN:release/trunk/public/SiNDY-b/setting_file/dbtune.master_newを/opt/arcsde/sdeexe102/etc/にチェックアウト
+    dbtuneファイルを適用
+
+    $ sdedbtune -o import -f dbtune.master_new -u sde -p sde
+
+▲ ▼
+2.4.5. SiNDY-bユーザセットアップ † Edit
+
+    メール送付パッケージをインストール(sysユーザで以下SQLを実行)
+
+    @?/rdbms/admin/utlmail.sql
+    @?/rdbms/admin/prvtmail.plb
+
+    sindybユーザを作成(sysユーザで以下SQLを実行)
+        SVN:release/trunk/public/SiNDY-b/SQL/SiNDY-b/create_user_sindyb.sql
+        ※自分のPCのローカル上にチェックアウトして実行すること(サーバ上でやると文字化けします。)
+        → コード値ドメインファンクションインストール時にdrop type sde_codeddomain_object force と drop type sde_codeddomain_tableのエラーが出るが、特に問題ない。
+
+▲ ▼
+2.4.6. ジョブセットアップ † Edit
+
+    ジョブを作成(sindybユーザで以下SQLを実行)
+        SVN:release/trunk/public/SiNDY-b/SQL/SiNDY-b/SiNDY-job/INSTALL.sql
+        ※同フォルダ内のSQLを次々と呼び出すので(自分のPCのローカル上に)すべてチェックアウトした状態で実行すること
+
+        UTF-8環境を構築する場合はメールが文字化けするので下記の箇所を修正してからSQLを実行する。
+
+        CREATE_PROCEDURE_STATS_ALL_DIFF_JOB.sql (mime_typeのコメントアウトを修正)
+        [124]            mime_type => 'text/plain; charset=iso-2022-jp'
+        [125]      --    mime_type => 'text/plain; charset=utf-8'
+        　　　　↓
+        [124]      --    mime_type => 'text/plain; charset=iso-2022-jp'
+        [125]            mime_type => 'text/plain; charset=utf-8' 
+
+        インストールに成功すると以下のようにジョブリストが出力される
+
+              JOB NEXT_DATE           WHAT
+        --------- ------------------- ------------------------------------
+               27 2010/07/09 14:30:44 sindyb.delete_stats_all_ad;
+               28 2010/07/11 02:00:00 sindyb.stats_all_diff_job('sindymaster@mr.ipc.pioneer.co.jp');
+
+        mime_typeの変更を忘れた場合はObject Browserでインストールしたジョブに対してソースを書き換えて再コンパイルすれば良い。
+    STATES/STATE_LINEAGES統計情報削除プロシージャを手動実行
+
+    SQL> EXECUTE sindyb.delete_stats_sde;
+
+    プロシージャをテスト実行
+
+    SQL> EXECUTE sindyb.delete_stats_all_ad;
+    SQL> EXECUTE sindyb.stats_all_diff_job('sindymaster@mr.ipc.pioneer.co.jp');
+
+▲ ▼
+2.4.7. UserListの配信設定 † Edit
+
+preonで
+
+# cd /var/www/html/SystemAdmini/syncUserList
+
+    自ホスト追加
+
+    # vi syncTargetHost.dat
+
+    編集したのでcommit
+
+    # svn commit -m "<任意のコメント>" --username <アカウント名>
+
+▲ ▼
+2.4.8. EDT/FIX/ETC/REFERENCE表領域、RONLY/REFERENCEユーザの作成 † Edit
+
+忘れないように、EDT, FIX, ETC, REFERENCE表領域と、RONLY, REFERENCEユーザを作成する
+下記手順を参考
+nagiosの表領域容量のしきい値をCDSに合わせて80GBにするため、各表領域は以下の通りに作成する。
+
+    初期値：1000MB、自動拡張増分：1000MB、最大値：50000MB
+    上記設定のdbfファイルを2つずつ
+
+    表領域作成
+    ユーザ作成
+
+▲ ▼
+2.4.9. HTTPサービス起動設定 † Edit
+
+Arcserveバックアップ環境用にHTTPサービス起動し、Nagios監視できる状態にしておく。
+
+    Firewall停止確認
+    rootユーザで下記コマンドを実行し、サービスが「inactive」であることを確認する。
+
+    # systemctl status firewalld
+    ● firewalld.service - firewalld - dynamic firewall daemon
+       Loaded: loaded (/usr/lib/systemd/system/firewalld.service; disabled; 
+    vendor preset: enabled)
+       Active: inactive (dead)
+         Docs: man:firewalld(1)
+
+    「inactive」ではなかった場合、以下のコマンドで停止する。
+
+    # systemctl stop firewalld             -->停止
+    # systemctl disable firewalld.service  -->自動起動無効化
+    # systemctl is-enabled firewalld       -->自動起動無効化確認
+
+    /var/www/html以下に空のindex.htmlファイルを配置
+    rootユーザでtouchコマンドを利用し以下のように作成（もちろん別手法でも可）
+
+    # touch /var/www/html/index.html
+
+▲ ▼
+2.4.10. 雑多な作業 † Edit
+
+    必要に応じて
+
+    oracleをアーカイブモードにする
+    /etc/cron.d以下を他サーバからコピーする
+        CompLogRotate : 毎月1日にメンテナンスログをお引越しする
+        bug8938_ora4031 : 5分おきにPGA、SGAの監視を行う
+        sindyb.memory_logテーブル、sindyb.shared_pool_clusterテーブルを作成すること
+    編集差分記録（sindydiff）への追加
+        sindyb.a_countテーブルを作成する。
+        preonのsindydiffにホストを追加する。
+
+        [root@preon ~]# cd /var/www/html/sindydiff/scripts/
+        [root@preon scripts]# vi setting.ini
+
+        readonly rHOSTS="onyx eris plum arion spinel2"    ← ここにホスト追加
+
+▲ ▼
+3.各種対応 † Edit
+
+Nagios、MRTG、バックアップの設定等は後程追記
+▲ ▼
+3.1. Nagios設定 † Edit
+
+構築したSiNDYサーバにNagiosでの監視設定を行う。
+▲ ▼
+3.1.1 sindyサーバ側の設定 † Edit
+
+    epel のリポジトリを準備
+    　RPMforge が終了したため、epel から取得する。
+
+    # export http_proxy=http://proxy.ipc.pioneer.co.jp:8080/
+    # wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-9.noarch.rpm 
+    # rpm -ivh epel-release-7-9.noarch.rpm
+
+    epel.repo の編集
+
+    # vi /etc/yum.repos.d/epel.repo
+
+        epel リポジトリの無効化
+
+          enabled=0　← 0に変更
+
+        epel 接続先変更（ミラー → 本家）
+
+         baseurl=http://download.fedoraproject.org/pub/epel/7/$basearch　← コメント解除
+         #mirrorlist=http://mirrors.fedoraproject.org/～…　← コメントアウト
+
+        proxy 設定追記
+        ・proxy_password
+        ・proxy_username
+        ・metadata_expire
+        ・proxy
+        を各々追加する。
+
+        例：
+        [epel-debuginfo]
+        name=Extra Packages for Enterprise Linux 7 - $basearch - Debug
+        baseurl=http://download.fedoraproject.org/pub/epel/7/$basearch/debug
+        #mirrorlist=http://mirrors.fedoraproject.org/metalink?repo=epel～…
+        failovermethod=priority
+        enabled=0
+        gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+        gpgcheck=1
+        proxy_password = sindy_dev
+        proxy_username = sindy-dev
+        metadata_expire = 86400
+        proxy = https://proxy.ipc.pioneer.co.jp:8080
+
+    NRPE インストール
+
+    # yum --enablerepo=epel install nagios-nrpe
+
+    Plugins インストール（ALL）
+
+    # yum --enablerepo=epel,rhel-7-server-extras-rpms,rhel-7-server-optional-rpms install nagios-plugins-*
+
+    ※Plugin を全て入れようとすると依存性関連で以下のファイルを更新しようとするが公式からのアップデートなので問題はないはず。
+    　除外したい場合は次のコマンドでインストールすれば回避可能。[2017.6 時点]
+
+    # yum --enablerepo=epel,rhel-7-server-extras-rpms,rhel-7-server-optional-rpms --exclude=*disk_smb,*all,*ntp-perl install nagios-plugins-*
+
+    　依存性関連で更新対象となるファイルは次のとおり
+        libsmbclient
+        libwbclient
+        ntpdate
+        samba-client-libs
+        samba-common
+    /usr/lib64/nagios/plugins に下記の独自スクリプトを配置する（パーミッションに注意！）
+    スクリプト置き場 ： SVN:release/trunk/public/SiNDY-b/Nagios/Plugins/
+        check_sde_connection (SDEのコネクション数を監視するスクリプト)
+        check_tablespace_volume (テーブルスペースの残容量を監視するスクリプト)
+        check_tablespace_volume.lst
+        check_tablespace_volume.sql
+        check_tablespace.sql
+    スクリプトに実行権限をつける。
+
+    # chmod 755 check_sde_connection 
+    # chmod 755 check_tablespace_volume
+
+    ポート番号の設定
+        /etc/services に追記
+
+        nrpe            5666/tcp   # NRPE
+
+    /etc/nagios/nrpe.cfg の編集
+        編集内容
+
+        ～
+        #allowed_hosts=127.0.0.1 ← コメントアウト
+        ～
+        dont_blame_nrpe=1   ← 1に変更
+
+        下記を追加
+        ※`hostname`は編集しないでください。そのままでＯＫです。
+
+        # For Oracle Ping
+        command[check_oracle_login]=/usr/lib64/nagios/plugins/check_oracle --login `hostname`
+
+        # For Load Average Check
+        command[check_load]=/usr/lib64/nagios/plugins/check_load -w $ARG1$ -c $ARG2$
+
+        # For Oracle Disk Space Check
+        command[check_ora_disk]=/usr/lib64/nagios/plugins/check_disk -w $ARG1$ -c $ARG2$ -p $ARG3$ -w $ARG4$ -c $ARG5$ -p $ARG6$ -w $ARG7$ -c $ARG8$ -p $ARG9$
+
+        # For Oracle Disk Space Check (/home1 のみはこちらを追記)
+        command[check_ora_disk_home1]=/usr/lib64/nagios/plugins/check_disk -w $ARG1$ -c $ARG2$ -p $ARG3$ -w $ARG4$ -c $ARG5$ -p $ARG6$
+
+        # For SDE Connection
+        command[check_sde_connection]=/usr/lib64/nagios/plugins/check_sde_connection $ARG1$ $ARG2$
+
+        # For Oracle Tablespace Check
+        command[check_tablespace_volume]=/usr/lib64/nagios/plugins/check_tablespace_volume $ARG1$ $ARG2$
+
+    nrpe サービス起動と自動起動設定
+
+    # systemctl restart nrpe.service
+    # systemctl enable nrpe.service
+
+    /opt/oracle/product/12.1.0/db_1/network/admin/tnsnames.ora のアクセス権の確認
+        全ユーザに参照権限以上が付与されていることを確認する。（ -rw-r--r-- 以上であればOK）
+
+        # ls -l /opt/oracle/product/12.1.0/db_1/network/admin/ | grep tnsnames.ora
+
+
+        【補足】
+        　nrpe ユーザ経由で OracleDB にアクセスし死活監視等をする際に、tnsnames.ora に参照権限が付与されていない場合、
+        　OracleDB アクセスエラーとなり正常に監視が実施されない。
+        　※nrpe.cfg にて設定した [For Oracle Ping] がこれに該当する。
+    nrpe経由でのoracle_login_checkとcheck_tablespace_volumeを試す。
+
+    # sudo -u nrpe /usr/lib64/nagios/plugins/check_oracle --login `hostname`
+    # sudo -u nrpe /usr/lib64/nagios/plugins/check_tablespace_volume 2000 1000
+
+▲ ▼
+3.1.2 preon側の設定 † Edit
+
+    nrpe経由でコマンドが動くか念の為確認
+
+    # sudo -u nagios /usr/lib64/nagios/plugins/check_nrpe -H  <ホスト名> -c check_oracle_login
+    # sudo -u nagios /usr/lib64/nagios/plugins/check_nrpe -H  <ホスト名> -c check_tablespace_volume -t 30 -a 40000 10000
+
+    設定ファイル/etc/nagios/objects/hosts.cfg に以下を追記
+
+    define host{
+           use                     generic-host
+           host_name               <ホスト名>
+           hostgroups              main-servers, sindy-servers, http-servers
+           }
+
+    /home1 のみのときはこちら
+
+    define host{
+           use                     generic-host
+           host_name               <ホスト名>
+           hostgroups              main-servers, sindy-servers-home1, http-servers
+           }
+
+    設定ファイルの構文エラーチェックコマンド
+
+    # /usr/bin/nagios -v /etc/nagios/nagios.cfg
+    ～
+    Total Warnings: 1
+    Total Errors:   0　← 0であればOK
+
+    nagios を再起動
+    　※再起動時に通知メールが飛ぶ可能性があるので、関係者に事前周知しておくと良い。
+
+    # /etc/init.d/nagios restart
+
+        /var/log/messageにエラーが出ていないかチェック
+        イントラのページに反映されているかチェック
+        　[Current Status] > [Hosts] > 《追加したホスト名》
+        設定したメールアドレスにアラート通知が届いているかチェック
