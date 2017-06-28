@@ -20,11 +20,6 @@ stardew valley,
 NieR:Automata,
 E3 games (shit I need ps4...)
 
-cancel
-- denki [] <-- next contact
-- NET　「X」
-- phone [] <-- after i go back to thai
-
 clear ear wax
 
 list for all directories
