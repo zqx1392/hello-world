@@ -1,9 +1,10 @@
 2 -> contact electric again
 
+3 -> contact kyo
 
 what the fuck is kegel
 
-start clannad, again.
+start clannad. again.
 
 do it now
 - 時をかける少女
