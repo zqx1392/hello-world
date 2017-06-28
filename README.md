@@ -1,5 +1,3 @@
-2 -> contact electric again
-
 3 -> contact kyo
 
 what the fuck is kegel
