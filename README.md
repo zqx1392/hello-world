@@ -20,9 +20,3 @@ NieR:Automata,
 E3 games (shit I need ps4...)
 
 clear ear wax
-
-list for all directories
-- Studier
-- PIP
-- SVN
-- PUKIWIKI
