@@ -1,5 +1,3 @@
-3 -> contact kyo
-
 what the fuck is kegel
 
 start clannad. again.
