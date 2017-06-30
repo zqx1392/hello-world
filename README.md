@@ -1,3 +1,6 @@
+
+1. make list what to bring home from  mark&fri, petch, etc
+
 what the fuck is kegel
 
 start clannad. again.
@@ -5,8 +8,6 @@ start clannad. again.
 do it now
 - 時をかける少女
 - jdrama
-
-1. make list what to bring home from  mark&fri, petch, etc
 
 search more aero, tapestry 
 - return to the 2nd floor place again... (good shit)
