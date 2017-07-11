@@ -1,3 +1,6 @@
+- Matome current work
+- Contact poor fella who want Eushully goods
+
 what the fuck is kegel
 
 start clannad. again.
