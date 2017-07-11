@@ -1,6 +1,4 @@
 - Matome current work
-- Contact poor fella who want Eushully goods
-- Matome last set of photos
 - Contract Nutz or Peiko for August release?
 
 what the fuck is kegel
