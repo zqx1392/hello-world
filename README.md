@@ -1,5 +1,7 @@
 - Think something for Chinen and Ohta san
 - Contract Nutz or Peiko for July release?
+- Find new cabinet with key to hide things
+- Calculate Monthly expense.
 
 what the fuck is kegel
 
