@@ -1,3 +1,4 @@
+- Think something for Chinen and Ohta san
 - Contract Nutz or Peiko for July release?
 
 what the fuck is kegel
