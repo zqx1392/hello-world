@@ -1,5 +1,4 @@
-- Matome current work
-- Contract Nutz or Peiko for August release?
+- Contract Nutz or Peiko for July release?
 
 what the fuck is kegel
 
