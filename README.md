@@ -1,3 +1,4 @@
+- Send email to request leaving for next month, also for 不動産や
 - Think something for Chinen and Ohta san
 - Contract Nutz or Peiko for July release?
 - Find new cabinet with key to hide things
