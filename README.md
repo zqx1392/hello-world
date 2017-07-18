@@ -1,3 +1,5 @@
+- find good reminder app
+- find good thai-eng app
 - send all need information to ben for payroll
 - Think something for Chinen and Ohta san -> BNK48 and BOZZE
 - Find new cabinet with key to hide things
