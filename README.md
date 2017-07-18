@@ -1,4 +1,4 @@
-- find appropriate spec for drive log computer. (16GB, 4TB+)
+- send all need information to ben for payroll
 - Think something for Chinen and Ohta san -> BNK48 and BOZZE
 - Find new cabinet with key to hide things
 
