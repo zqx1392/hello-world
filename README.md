@@ -1,3 +1,4 @@
+- 日報
 - find good reminder app
 - find good thai-eng app
 - send all need information to ben for payroll
