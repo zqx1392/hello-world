@@ -1,5 +1,6 @@
 - keyboard facebook
 - picture print
+- FUCK JUST CLEAN OUT THE TOWEL
 - find new smartphone for net and lolz
 - ask masuda to join our feast
 
@@ -17,9 +18,6 @@ Exercise
 
 Programming
 - Soon
-
-
-- Think something for Chinen and Ohta san -> BOOZE and BNK48 goods
 - Find new cabinet with key to hide things
 
 what the fuck is kegel
