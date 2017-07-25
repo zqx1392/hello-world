@@ -1,7 +1,9 @@
 - keyboard facebook
 - picture print
 - FUCK JUST CLEAN OUT THE TOWEL
+- go friday and buy snack, booze, bnk48
 - find new smartphone for net and lolz
+- find hotel now
 - ask masuda to join our feast
 
 do it now
