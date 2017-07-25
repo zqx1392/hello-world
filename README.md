@@ -1,7 +1,5 @@
 - keyboard facebook
 - picture print
-- get document
-- fix phone
 
 do it now
 - 時をかける少女
