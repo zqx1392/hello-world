@@ -19,7 +19,6 @@ Programming
 - Soon
 
 
-- 日報
 - Think something for Chinen and Ohta san -> BOOZE and BNK48 goods
 - Find new cabinet with key to hide things
 
