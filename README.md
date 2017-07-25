@@ -1,4 +1,3 @@
-- keyboard facebook
 - picture print
 - FUCK JUST CLEAN OUT THE TOWEL
 - cancel japan phone contact
