@@ -1,5 +1,7 @@
 - keyboard facebook
 - picture print
+- find new smartphone for net and lolz
+- ask masuda to join our feast
 
 do it now
 - 時をかける少女
