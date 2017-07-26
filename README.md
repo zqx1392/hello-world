@@ -2,11 +2,11 @@
 - cancel japan phone contact -> find portable wifi
 - find hotel now -> research 11th night
 - FUCK JUST CLEAN OUT THE TOWEL -> buy hyer
+- 時をかける少女
 - go friday and buy snack, booze, powerbank and showerware
 - ask masuda to join our feast
 
 do it now
-- 時をかける少女
 - jdrama
 
 Japan
