@@ -1,8 +1,8 @@
 - picture print
-- FUCK JUST CLEAN OUT THE TOWEL
-- cancel japan phone contact
-- go friday and buy snack, booze, bnk48, and showerware
-- find hotel now
+- cancel japan phone contact -> find portable wifi
+- find hotel now -> research 11th night
+- FUCK JUST CLEAN OUT THE TOWEL -> buy hyer
+- go friday and buy snack, booze, powerbank and showerware
 - ask masuda to join our feast
 
 do it now
