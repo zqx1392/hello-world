@@ -1,6 +1,7 @@
 - picture print
 - cancel japan phone contact -> find portable wifi
 - find hotel now -> research 11th night
+- ask thaiairways; can push back flight a bit?
 - FUCK JUST CLEAN OUT THE TOWEL -> buy hyer
 - 時をかける少女
 - go friday and buy snack, booze, powerbank and showerware
