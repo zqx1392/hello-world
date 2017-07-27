@@ -1,6 +1,8 @@
 - picture print
 - cancel japan phone contact -> find portable wifi
+- Choose between netcafe or sentou
 - http://www.sakura-2005.com/
+- http://www.rakutenchi.co.jp/spa/hoten/facility/restaurant.html
 - ask thaiairways; can push back flight a bit?
 - FUCK JUST CLEAN OUT THE TOWEL -> buy hyer
 - 時をかける少女
