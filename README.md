@@ -1,5 +1,5 @@
 - picture print
-- cancel japan phone contact -> find portable wifi
+- cancel japan phone contact -> ais sim2fly
 - Choose between netcafe or sentou
 - http://www.sakura-2005.com/
 - http://www.rakutenchi.co.jp/spa/hoten/facility/restaurant.html
