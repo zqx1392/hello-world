@@ -1,5 +1,6 @@
 - picture print
 - cancel japan phone contact -> find portable wifi
+- http://www.sakura-2005.com/
 - ask thaiairways; can push back flight a bit?
 - FUCK JUST CLEAN OUT THE TOWEL -> buy hyer
 - 時をかける少女
