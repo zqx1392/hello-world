@@ -1,9 +1,8 @@
+- so powerbank from where
 - picture print
 - ais sim2fly
 - print out coupon for oyu
-- FUCK JUST CLEAN OUT THE TOWEL -> buy hyer
 - 時をかける少女
-- go friday and buy snack, booze, powerbank and showerware
 - ask masuda to join our feast
 
 do it now
