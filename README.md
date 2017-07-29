@@ -2,7 +2,6 @@
 - picture print
 - ais sim2fly
 - print out coupon for oyu
-- 時をかける少女
 - ask masuda to join our feast
 
 do it now
