@@ -8,8 +8,6 @@ do it now
 - jdrama
 
 Japan
-- find voice reflector app
-- practice speak
 - write more
 
 Exercise
