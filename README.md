@@ -1,7 +1,5 @@
 http://www.nta.co.jp/aso/detail/575
 
-- so powerbank from where
-- picture print
 - ais sim2fly
 - print out coupon for oyu
 - ask masuda to join our feast
