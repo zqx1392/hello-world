@@ -1,3 +1,4 @@
+- contact my bro for more info
 - ais sim2fly
 - ask masuda to join our feast
 
