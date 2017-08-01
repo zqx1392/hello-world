@@ -1,5 +1,3 @@
-http://www.nta.co.jp/aso/detail/575
-
 Although I'm fine giving kids ice cream and trick them into my trunk
 but I must say this Nukige really make me question my morality regarding my loliconlity so much.
 Why? Because the main theme is all about being a teacher who exploits 
@@ -15,7 +13,6 @@ fat, bald, smelly, evil pedophile or whatever in the beginning I wouldn't care t
 But it is sad to see once a great guy touch the child body once and dick can't stand down after that
 
 - ais sim2fly
-- print out coupon for oyu
 - ask masuda to join our feast
 
 do it now
