@@ -29,7 +29,7 @@ Kiriya
 The best in term of story. 
 
 
-- contact my bro for more info
+- compile 3rd day list for yodthong, also look what he want
 - ais sim2fly
 - ask masuda to join our feast
 
