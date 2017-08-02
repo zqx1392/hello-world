@@ -1,12 +1,12 @@
 Tsuushinbo
 
-Although I'm fine giving kids ice cream and trick them into my trunk, but I must say this Nukige really make me question my morality regarding my loliconlity. Why? Because It's not a silly Nukige where kids act like horny teenager and invade your crouch for morning blowjob. You can laugh and fap to that. In fact, this one is all about exploiting those sweet child's innocent and curiosity to make them satisfy the teacher’s lust. Honestly it is one of a few Nukige that I can’t bear fapping to.
+Although I'm fine giving lovely young ladies some delicious aphrodisiac ice creams and allure them into my enormous trunk, I must hereby say this Nukige really question my morality regarding my loliconlity greatly. The reason? It's quite hard to address this one as an orthodox Nukige in which our adorable minors represent themselve as passionate adolescents who love to inquire our crouch in the morning for relaxing blowjob. I often humour those and happily entertain my tender organ in return. However, this particular one mainly spotlight on exploiting those sweet child's innocent, curiosity, and affection by utilizing those trait into satisfying the teacher’s lust. Truth be told, Tsuushinbo is currently considered as one of a few Nukige that I can’t bearing commit till the end.
 
-Surprisingly the thing that make me angry the most is the very decent prologue; it tell the story how the teacher overcome the struggles and find his true peace both in life and career. You can see the improvement in his attitude, from being the selfish human to the great teacher who care his students deeply. 
+Surprisingly the thing which mostly displeased me appears to be the very decent prologue; The tales told how our ambitious teacher, XXX who overcome the struggles and discover the true peace both in his life and career, with noticable improvement in his attitude: Being from the selfish individual to the great teacher whom he care his students education and well being deeply. 
 
-Sadly the fate has been decided from the beginning; he has to be a child molester. 
+Sadly the fate has been settled since the beginning; he has to reborn as a child molester. 
 
-I mean if the story have the teacher be fat, bald, smelly, evil pedophile or whatever I wouldn't care that much. Instead they portrayed the teacher once as a great man which is sad to see when he accidentally touch the child once and his dick can't stand down after that because of “plot”. 
+I might overlook this unsightly part if the teacher start out by being meaty, baldy, smelly, salty pedophile or such. Instead the story portrayed he once as a great man which is truly a sad sight to see when he accidentally touch the child once and his dick can't stand down after that because of “plot”. 
 
 I must admit the H-scenes are pretty nice and arousing, especially in the beginning where a lot of foreplay happened. However, the deeper it go the clearer I get about the tone of H-scenes. It is serious molestations. The story also went down conflict itself. At the morning he help teaching the student with high pride then blow all white pride into her throat without much thought in the evening. The teacher’s charcter is truly baffling.
 
