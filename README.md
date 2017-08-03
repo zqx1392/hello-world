@@ -1,3 +1,4 @@
+- create new atm, make new password, request new one.
 - find cup box, ask that guy what to do with tax and order
 - write shuuhou
 - ais sim2fly
