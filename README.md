@@ -1,4 +1,5 @@
 - find cup box, ask that guy what to do with tax and order
+- write shuuhou
 - ais sim2fly
 - ask masuda to join our feast
 
