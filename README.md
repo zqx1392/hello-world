@@ -1,3 +1,7 @@
+- find cup box, ask that guy what to do with tax and order
+- ais sim2fly
+- ask masuda to join our feast
+
 
 
 Uhou Renka
@@ -15,9 +19,6 @@ Onii-chan
 Great way to explore myself what kind of Imouto do I truly like most. Know their personality, pick’em, H’em. Now I discover myself and find Oyuka the best type of Imouto. Period. Tsundere Imouto is not my type at all.
 Kiriya
 The best in term of story. 
-
-- ais sim2fly
-- ask masuda to join our feast
 
 do it now
 - jdrama
