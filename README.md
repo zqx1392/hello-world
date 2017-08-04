@@ -1,4 +1,5 @@
-- create paypal
+- create paypal, find maepronorm.
+- search mashiro, golden hour, aiperia with "actually usable" tapestry again.
 - create new atm, make new password, request new one.
 - find cup box, ask that guy what to do with tax and order
 - write shuuhou
