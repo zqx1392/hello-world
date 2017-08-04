@@ -1,8 +1,6 @@
-- create paypal, find maepronorm.
-- create new atm, make new password, request new one.
-- search mashiro, golden hour, aiperia with "actually usable" tapestry again.
+find maepronorm.
 - compile omiyage list from everyone
-- find cup box, ask that guy what to do with tax and order
+- find cup box
 - write shuuhou
 - ais sim2fly
 - ask masuda to join our feast
