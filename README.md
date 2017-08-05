@@ -1,6 +1,7 @@
+- write shuuhou
 find maepronorm.
 - compile omiyage list from everyone
-- write shuuhou
+- pack bag
 - ais sim2fly
 - ask masuda to join our feast
 
