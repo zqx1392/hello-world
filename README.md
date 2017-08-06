@@ -1,5 +1,5 @@
-- write shuuhou
-find maepronorm.
+
+find maepronorm, polytar
 - compile omiyage list from everyone
 - pack bag
 - ais sim2fly
