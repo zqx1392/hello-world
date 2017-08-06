@@ -1,5 +1,6 @@
 
 find maepronorm, polytar
+- go buy forpeiko
 - compile omiyage list from everyone
 - pack bag
 - ais sim2fly
