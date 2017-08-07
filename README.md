@@ -1,7 +1,6 @@
-polytar
-- compile omiyage list from everyone
+- print holy map
 - pack bag
-- ais sim2fly
+
 - ask masuda to join our feast
 
 
