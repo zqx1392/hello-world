@@ -1,25 +1,11 @@
-- print holy map
+to get
+- mom's make-up and royce snack
+- bonus doll
+- P'nin daiso phonecase, chopstick, and slipper
+
+- print holy map (企業)
+
 - pack bag
-
-- ask masuda to join our feast
-
-
-
-Uhou Renka
-
-Summary: The guy lost his job in the city, come back to hometown and find 2 women who’s ready to fuck his aphrodisiac dick.
-
-Pro: Ex-girlfriend’s sister is the best. The other is big boob and horny constantly so it’s nice. Also have optional anal fetish.
-
-Con: Protagonist is the real man + heroine is always horny = sex every 15 mins. Really tired and dried.
-
-Oyako Rankan
-Can’t denied the reason I was attracted to this because of the art. And sure enough I’m not disappointed by it. The premise is also promising as well.
-Essentially it boils down to “let them NTR” or “I will fucking (literally) protect them all” Good if you can find the balance between the two taste.
-Onii-chan
-Great way to explore myself what kind of Imouto do I truly like most. Know their personality, pick’em, H’em. Now I discover myself and find Oyuka the best type of Imouto. Period. Tsundere Imouto is not my type at all.
-Kiriya
-The best in term of story. 
 
 do it now
 - jdrama
