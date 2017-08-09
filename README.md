@@ -2,10 +2,7 @@ to get
 - mom's make-up and royce snack
 - bonus doll
 - P'nin daiso phonecase, chopstick, and slipper
-
-- print holy map (企業)
-
-- pack bag
+- P'auan Koibito
 
 do it now
 - jdrama
