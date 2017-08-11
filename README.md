@@ -1,9 +1,8 @@
 to get
 - mom's make-up and royce snack
-- bonus doll
-- P'nin daiso phonecase, chopstick, and slipper
 - P'auan Koibito (1500 yen)
-- P'hug มันฝรั่ง 2 กล่อง
+- P'hug มันฝรั่ง 2 กล่อง, tokyo banana 
+- P'jab Nama Royce
 
 do it now
 - jdrama
