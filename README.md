@@ -1,3 +1,6 @@
+- yiruma
+- midnight oasis
+
 to get
 - mom's make-up and royce snack
 - P'auan Koibito (1500 yen)
