@@ -1,7 +1,4 @@
-- yiruma
 - midnight oasis
-- add tracking number to paypal
-- check 買収 if visa can do, which store best.
 
 do it now
 - jdrama
