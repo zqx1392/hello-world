@@ -1,12 +1,7 @@
 - yiruma
 - midnight oasis
 - add tracking number to paypal
-
-to get
-- mom's make-up and royce snack
-- P'auan Koibito (1500 yen)
-- P'hug มันฝรั่ง 2 กล่อง, tokyo banana 
-- P'jab Nama Royce
+- check 買収 if visa can do, which store best.
 
 do it now
 - jdrama
