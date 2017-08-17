@@ -1,5 +1,6 @@
 - midnight oasis
 - check current WNB and tinkerbell price
+- try using new usb boot?
 
 do it now
 - jdrama
