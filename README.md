@@ -1,4 +1,5 @@
 - midnight oasis
+- check current WNB and tinkerbell price
 
 do it now
 - jdrama
