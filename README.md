@@ -1,3 +1,4 @@
+0. ask ufj for feeble hope
 1. ask masuda-san to help with this.
 2. contact Tarm-tachi or Ben-tachi for 10200-thai + 34000-japan swapping.
 
