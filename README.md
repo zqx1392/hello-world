@@ -1,3 +1,6 @@
+1. ask masuda-san to help with this.
+2. contact Tarm-tachi or Ben-tachi for 10200-thai + 34000-japan swapping.
+
 - midnight oasis
 - try using new usb boot?
 - ask fucking nut first for transferring?
