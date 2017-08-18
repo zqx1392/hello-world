@@ -1,9 +1,11 @@
 - contact japanpost via email. also search information about urd
 - midnight oasis
 
-. ask ufj for feeble hope
-1. ask masuda-san to help with this.
-2. contact Tarm-tachi or Ben-tachi for 10200-thai + 34000-japan swapping.
+あいにく、先週日本の口座にほとんどのお金を引き出してタイに帰ったため、現在にはすぐに振込めません。
+よって、勤めている会社に頼んで私の代わりに振り込みます。
+すみませんが、EKITOの指定口座情報をお願いします。
+
+後ほど私の会社の口座情報を送ります。
 
 - try using new usb boot?
 
