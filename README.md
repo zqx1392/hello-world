@@ -1,5 +1,4 @@
 - midnight oasis
-- check current WNB and tinkerbell price
 - try using new usb boot?
 - ask fucking nut first for transferring?
 
