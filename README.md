@@ -1,4 +1,4 @@
-- contact japanpost via email. also search information about urd
+- contact japanpost via call
 - midnight oasis
 - try using new usb boot?
 
