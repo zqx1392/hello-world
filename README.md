@@ -1,6 +1,5 @@
 - contact japanpost via call
 - midnight oasis
-- try using new usb boot?
 
 do it now
 - jdrama
