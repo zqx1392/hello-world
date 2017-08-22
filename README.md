@@ -1,19 +1,17 @@
 - contact japanpost via call
 - buy fucking gaming chair for ultimate 180 incline
+- Find new cabinet with key to hide things
 - midnight oasis
-
-do it now
-- jdrama
 
 Japan
 - write more
+- jdrama
 
 Exercise
 - running or self weight
 
 Programming
 - Soon
-- Find new cabinet with key to hide things
 
 what the fuck is kegel
 
