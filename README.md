@@ -1,4 +1,5 @@
 - contact japanpost via call
+- find old requirement doc
 - buy fucking gaming chair for ultimate 180 incline
 - Find new cabinet with key to hide things
 - midnight oasis
