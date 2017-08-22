@@ -1,4 +1,5 @@
 - contact japanpost via call
+- buy fucking gaming chair for ultimate 180 incline
 - midnight oasis
 
 do it now
