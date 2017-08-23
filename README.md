@@ -1,3 +1,4 @@
+- research summer comiket average date and do reserve plane.
 - contact japanpost via call
 - buy fucking gaming chair for ultimate 180 incline
 - Find new cabinet with key to hide things
