@@ -2,7 +2,7 @@ SOUL WILL NOT REST EASY FOR ME.
 - EVANGILE : ETA TODAY
 - AMAYUI : KILL THEM ALL
 - AKUMA : DUE TO ALTERNATIVE SOURCE, PICKLE IT
-- ??? : NEXT FATE. (Hoshiori, Adam, Chaos)
+- CHAOS : NEXT FATE. (Hoshiori, Adam, Chaos)
 
 For now.
 - research summer comiket average date and do reserve plane.
