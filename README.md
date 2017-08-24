@@ -5,7 +5,7 @@ SOUL WILL NOT REST EASY FOR ME.
 - CHAOS : NEXT FATE. (Hoshiori, Adam, Chaos)
 
 For now.
-- research summer comiket average date and do reserve plane.
+- do reserve plane.
 - contact japanpost via call
 - buy fucking gaming chair for ultimate 180 incline
 - Find new cabinet with key to hide things
