@@ -5,6 +5,7 @@ SOUL WILL NOT REST EASY FOR ME.
 - CHAOS : NEXT FATE. (Hoshiori, Adam, Chaos)
 
 For now.
+- send mail to fudou and confirm this shit.
 - do reserve plane.
 - contact japanpost via call
 - buy fucking gaming chair for ultimate 180 incline
