@@ -1,7 +1,8 @@
 SOUL WILL NOT REST EASY FOR ME.
+- ADAM
 - AMAYUI : KILL THEM ALL
 - AKUMA : DUE TO ALTERNATIVE SOURCE, PICKLE IT
-- CHAOS : NEXT FATE. (Hoshiori, Adam, Chaos)
+- CHAOS : DOWNLOAD
 
 For now.
 - do reserve plane.
