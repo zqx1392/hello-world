@@ -1,7 +1,7 @@
 https://geonet.esri.com/thread/22696
 
 SOUL WILL NOT REST EASY FOR ME.
-- ADAM
+- ADAM : download eve burst
 - AMAYUI : KILL THEM ALL
 - AKUMA : DUE TO ALTERNATIVE SOURCE, PICKLE IT
 - CHAOS : DOWNLOAD
