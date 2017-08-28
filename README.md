@@ -7,6 +7,7 @@ SOUL WILL NOT REST EASY FOR ME.
 - CHAOS : DOWNLOAD
 
 For now.
+- write report to yasuki
 - do reserve plane.
 - contact japanpost via call
 - buy fucking gaming chair for ultimate 180 incline
