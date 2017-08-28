@@ -1,5 +1,3 @@
-https://geonet.esri.com/thread/22696
-
 SOUL WILL NOT REST EASY FOR ME.
 - ADAM : download eve burst
 - AMAYUI : KILL THEM ALL
