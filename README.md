@@ -1,7 +1,3 @@
-https://www.dropbox.com/s/b2k3o0xr5q1ztbz/VSE880MLRP9.Zip?dl=0
-
-Can order from getchu?
-
 SOUL WILL NOT REST EASY FOR ME.
 - ADAM : download eve burst
 - AMAYUI : KILL THEM ALL
