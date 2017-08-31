@@ -1,14 +1,12 @@
 SOUL WILL NOT REST EASY FOR ME.
-- amiami
 - ADAM : download eve burst
 - AMAYUI : KILL THEM ALL
-- AKUMA : DUE TO ALTERNATIVE SOURCE, PICKLE IT
-- CHAOS : DOWNLOAD
+- AKUMA : play when free?
+- CHAOS : AFTER EVE
 
 For now.
 - write report to yasuki
-- do reserve plane.
-- contact japanpost via call
+- do reserve plane, and hotel
 - buy fucking gaming chair for ultimate 180 incline
 - Find new cabinet with key to hide things
 - call thaiairways for royal orchid account
