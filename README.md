@@ -1,5 +1,5 @@
 SOUL WILL NOT REST EASY FOR ME.
-- ADAM : download eve burst
+- EVE : QUITE TORTURE 
 - AMAYUI : KILL THEM ALL
 - AKUMA : play when free?
 - CHAOS : AFTER EVE
