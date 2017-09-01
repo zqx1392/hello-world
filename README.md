@@ -5,7 +5,6 @@ SOUL WILL NOT REST EASY FOR ME.
 - CHAOS : AFTER EVE
 
 For now.
-- write report to yasuki
 - do reserve plane, and hotel
 - buy fucking gaming chair for ultimate 180 incline
 - Find new cabinet with key to hide things
