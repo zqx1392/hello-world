@@ -1,10 +1,8 @@
 - do reserve plane, and hotel
 
 SOUL WILL NOT REST EASY FOR ME.
-- EVE : QUITE TORTURE 
 - AKUMA : play when free?
-- CHAOS : AFTER EVE
-- Grisaia : both with CHAOS
+- Grisaia or nora : both with CHAOS
 
 For now.
 - buy fucking gaming chair for ultimate 180 incline
