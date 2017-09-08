@@ -1,4 +1,5 @@
 - do reserve plane, and hotel
+- reserve, postpone and cancel trick
 
 SOUL WILL NOT REST EASY FOR ME.
 - AKUMA : play when free?
