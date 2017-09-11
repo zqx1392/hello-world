@@ -1,9 +1,16 @@
 - do reserve plane, and hotel
 - reserve, postpone and cancel trick
 
+につれて　に加える　てから→て以来　やら
+
+ぎみ（気味）
+
+決まったら　＝　決まり次第
+
+をきっかけに
+
 SOUL WILL NOT REST EASY FOR ME.
 - AKUMA : play when free?
-- Grisaia or nora : both with CHAOS
 
 For now.
 - buy fucking gaming chair for ultimate 180 incline
