@@ -9,7 +9,6 @@
 
 をきっかけに
 
-SOUL WILL NOT REST EASY FOR ME.
 - AKUMA : play when free?
 
 For now.
@@ -30,9 +29,6 @@ Programming
 - Soon
 
 what the fuck is kegel
-
-
-
 stardew valley, 
 NieR:Automata,
 E3 games (shit I need ps4...)
