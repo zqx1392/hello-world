@@ -1,5 +1,5 @@
 - do reserve plane, and hotel
-- reserve, postpone and cancel trick
+- reserve, postpone and cancel trick -> go to sotetsu site directly
 - summer or winter...
 
 につれて　に加える　てから→て以来　やら
