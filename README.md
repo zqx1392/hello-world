@@ -1,5 +1,6 @@
 - do reserve plane, and hotel
 - reserve, postpone and cancel trick
+- summer or winter...
 
 につれて　に加える　てから→て以来　やら
 
