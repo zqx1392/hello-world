@@ -1,3 +1,5 @@
+- buy fucking gaming chair for ultimate 180 incline
+
 - do reserve plane
 - summer or winter...
 
@@ -10,7 +12,6 @@
 をきっかけに
 
 For now.
-- buy fucking gaming chair for ultimate 180 incline
 - Find new cabinet with key to hide things
 - call thaiairways for royal orchid account
 - start clannad. again.
