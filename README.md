@@ -1,5 +1,4 @@
-- do reserve plane, and hotel
-- reserve, postpone and cancel trick -> go to sotetsu site directly
+- do reserve plane
 - summer or winter...
 
 につれて　に加える　てから→て以来　やら
@@ -9,8 +8,6 @@
 決まったら　＝　決まり次第
 
 をきっかけに
-
-- AKUMA : play when free?
 
 For now.
 - buy fucking gaming chair for ultimate 180 incline
