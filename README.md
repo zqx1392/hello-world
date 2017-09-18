@@ -1,6 +1,4 @@
 - buy fucking gaming chair for ultimate 180 incline
-
-- do reserve plane
 - summer or winter...
 
 につれて　に加える　てから→て以来　やら
@@ -12,7 +10,6 @@
 をきっかけに
 
 For now.
-- Find new cabinet with key to hide things
 - call thaiairways for royal orchid account
 - start clannad. again.
 - clear ear wax
