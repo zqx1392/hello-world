@@ -2,8 +2,6 @@ When you do pullups, try to imagine yourself pulling your elbows down, not pulli
 
 - onikuru and hoshifuru
 - what the fuck is kegel
-- try lower computer chair
-- ergonomic chair recline
 - summer or winter...
 
 につれて　に加える　てから→て以来　やら
