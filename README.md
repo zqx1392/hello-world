@@ -4,6 +4,7 @@ When you do pullups, try to imagine yourself pulling your elbows down, not pulli
 - upload desk to work
 - change phone promotion
 - onikuru and hoshifuru
+- credit accumulate score
 - play the phone
 - summer or winter...
 
