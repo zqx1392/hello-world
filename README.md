@@ -2,6 +2,7 @@ When you do pullups, try to imagine yourself pulling your elbows down, not pulli
 
 - stack book under com moniter
 - upload desk to work
+- change phone promotion
 - onikuru and hoshifuru
 - play the phone
 - summer or winter...
