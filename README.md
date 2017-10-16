@@ -1,10 +1,4 @@
- Current situation
- Other candidate : Hoshifuru(Messy?), HinshiPinchi(Good?)
- In conclusion:::
- - long slice/comedy -> Grisaia + Hoshifuru ✓
- - ecchi -> Akuma + Dorei ✓
- - Gameplay -> Rance9 ✓
- - Intense???
+search ED composer for favorite company
 
 - play the phone (other left setting + radio)
 
