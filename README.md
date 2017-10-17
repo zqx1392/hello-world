@@ -1,6 +1,6 @@
 Hanako Oku
 
-search ED composer for favorite company
+https://noscript.net/faq#qa2_1
 
 - play the phone (other left setting + radio)
 
