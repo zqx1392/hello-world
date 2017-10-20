@@ -1,4 +1,4 @@
-tell peiko again, serach sapporo gyuya, send money to boom
+tell peiko again, serach sapporo gyuya
 
 https://noscript.net/faq#qa2_1
 
