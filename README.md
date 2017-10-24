@@ -1,3 +1,5 @@
+reserve plane?
+
 tell peiko again, serach sapporo gyuya, search sapporo for p'hug
 
 make website. post pantip
