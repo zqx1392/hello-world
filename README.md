@@ -1,4 +1,4 @@
-tell peiko again, serach sapporo gyuya
+tell peiko again, serach sapporo gyuya, search sapporo for p'hug
 
 make website. post pantip
 
