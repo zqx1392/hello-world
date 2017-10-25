@@ -1,10 +1,6 @@
-reserve plane?
-
-tell peiko again, serach sapporo gyuya, search sapporo for p'hug
+serach sapporo gyuya, search sapporo for p'hug
 
 make website. post pantip
-
-https://noscript.net/faq#qa2_1
 
 - play the phone (other left setting + radio)
 
