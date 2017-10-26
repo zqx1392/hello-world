@@ -1,8 +1,8 @@
 serach sapporo gyuya, search sapporo for p'hug
 
-make website. post pantip
+1. post guitar to pantip, kaidee
+2. copy website, get their weakness.
 
-- play the phone (other left setting + radio)
 
 ぎみ（気味） につれて　に加える　てから→て以来
 
