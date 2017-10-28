@@ -1,6 +1,7 @@
 serach sapporo gyuya, search sapporo for p'hug
 
 1. post guitar to pantip, kaidee
+2. search page for hongsorm, kariru
 2. copy website, get their weakness.
 
 
