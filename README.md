@@ -1,8 +1,9 @@
 serach sapporo gyuya, search sapporo for p'hug
 
-1. post guitar to pantip, kaidee
-2. search page for hongsorm, kariru
-2. copy website, get their weakness.
+1. post all hongsorm, kariru into pantip, kaidee, and upgrade facebook to add shop and service (also advert?)
+2. post to other facebook page
+3. post guitar to pantip, kaidee
+4. copy website, get their weakness.
 
 
 ぎみ（気味） につれて　に加える　てから→て以来
