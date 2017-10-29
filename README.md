@@ -1,6 +1,8 @@
 serach sapporo gyuya, search sapporo for p'hug
 
-1. post all hongsorm, kariru into pantip, kaidee, and upgrade facebook to add shop and service (also advert?)
+download rance 9 song
+
+1. upgrade facebook to add shop and service (also advert?)
 2. post to other facebook page
 3. post guitar to pantip, kaidee
 4. copy website, get their weakness.
