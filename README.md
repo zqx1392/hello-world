@@ -1,7 +1,5 @@
 serach sapporo gyuya, search sapporo for p'hug
 
-download rance 9 song
-
 1. upgrade facebook to add shop and service (also advert?)
 2. post to other facebook page
 3. post guitar to pantip, kaidee
