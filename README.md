@@ -1,3 +1,7 @@
+IOManager
+template <typename T> void print_output(const T output);
+const CString errorSource = _T(""));
+
 serach sapporo gyuya, search sapporo for p'hug
 
 This week I've finished Rance9 in correspond to the announcement of RanceX.
