@@ -1,4 +1,4 @@
-pangolin : javelin instead of fury (for now)
+pangolin : javelin instead of fury (for now) + find more mana regen (bottle?)
 
 serach sapporo gyuya, search sapporo for p'hug
 
