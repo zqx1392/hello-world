@@ -1,6 +1,4 @@
-IOManager
-template <typename T> void print_output(const T output);
-const CString errorSource = _T(""));
+pangolin : javelin instead of fury (for now)
 
 serach sapporo gyuya, search sapporo for p'hug
 
