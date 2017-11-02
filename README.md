@@ -1,7 +1,18 @@
 pangolin : javelin instead of fury (for now) + find more mana regen (bottle?) aether len??? + try blink
 
 
+Consist of 15 chapters + 8 routes. and have steady pace. how lowly Helman empire brain has become. Even though they have excellent generals but mismanagement let it fall ahead.
+Focus on more stragic and fighting than environment. and value character interaction rather high.
+The thing I like? how epic the fight can be. and the tempo was really dazzling. Serious fight, great sex, nice lore discussion. revolve around advancing but other help keep thing balance. 
+I couldn't deny that the ending chapter felted a bit rushed and boss fight reason felt forced. However, the momemtum they built throughout the game won over the skeptical feeling
+and help Rance9 to reached its final line with satsifying note and left great impression on me. 
 
+
+Still, the story won't stand by itself without reinforcement of attractive characters. 
+The story launch forward steady and make great care to introduce each charcter tenderly.
+And no matter how much new characters roles are Rance9 gave sufficient cast time to prove themselve in their own way regardless of their morality. which in turn give memoriable scenes. 
+And that's the reason why even though there's rather huge cast of characters (40+), most of their face and action still vivid in my mind.  .
+Meanwhile, you can see the development from main chacters (perhaps except Rance); from unlucky to lovely, from angrily to tenderly. and from weak royal to true ruler.
 
 
 
