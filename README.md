@@ -1,6 +1,4 @@
-pangolin : javelin instead of fury (for now) + find more mana regen (bottle?) aether len??? + try blink
-
-learn how to get country polygon area correctly on arcgis 
+learn how to get country polygon area correctly on arcgis -> use clip 
 
 create test doc for yaki-san tool
 
