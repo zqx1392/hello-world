@@ -4,11 +4,10 @@ learn how to get country polygon area correctly on arcgis
 
 create test doc for yaki-san tool
 
-Consist of 15 chapters + 8 routes. and have steady pace. how lowly Helman empire brain has become. Even though they have excellent generals but mismanagement let it fall ahead.
-Focus on more stragic and fighting than environment. and value character interaction rather high.
-The thing I like? how epic the fight can be. and the tempo was really dazzling. Serious fight, great sex, nice lore discussion. revolve around advancing but other help keep thing balance. 
-I couldn't deny that the ending chapter felted a bit rushed and boss fight reason felt forced. However, the momemtum they built throughout the game won over the skeptical feeling
-and help Rance9 to reached its final line with satsifying note and left great impression on me. 
+The thing which impress me most is the straight-forwardness. 
+Unlike previous journeys where Rance would literally fuck around and roaming half of the time before the main stories moved forward,
+This one has concise startup and never miss a beat to make the story jump toward the goal.
+Every chapter is about how Rance marched his trusty companions toward the capital.
 
 
 Still, the story won't stand by itself without reinforcement of attractive characters. 
