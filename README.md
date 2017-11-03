@@ -2,6 +2,8 @@ pangolin : javelin instead of fury (for now) + find more mana regen (bottle?) ae
 
 learn how to get country polygon area correctly on arcgis 
 
+create test doc for yaki-san tool
+
 Consist of 15 chapters + 8 routes. and have steady pace. how lowly Helman empire brain has become. Even though they have excellent generals but mismanagement let it fall ahead.
 Focus on more stragic and fighting than environment. and value character interaction rather high.
 The thing I like? how epic the fight can be. and the tempo was really dazzling. Serious fight, great sex, nice lore discussion. revolve around advancing but other help keep thing balance. 
