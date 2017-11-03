@@ -1,0 +1,18 @@
+what to test
+Åúinput
+--DB
+	correct vs false db
+	incompleted input (lack db, user, or version)
+	do it again with db2
+--File
+	different format (not txt log or config)
+	incompleted input (table lack field, lack db user 1, etc)
+	add false field, table name, etc.
+--Output
+	to config file successfully in accordance to command?
+	to TSV file successfully in accordance to command?
+	tsv data is correct?
+--Interface
+	Successfully remember previous db
+	selected all, selected none button work
+	click everything
