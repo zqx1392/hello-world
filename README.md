@@ -4,6 +4,10 @@ learn how to get country polygon area correctly on arcgis
 
 create test doc for yaki-san tool
 
+write rance
+
+sell on shopee, facebookmarket
+
 The thing which impress me most is the straight-forwardness. 
 Unlike previous journeys where Rance would literally fuck around and roaming half of the time before the main stories moved forward,
 This one has concise startup and never miss a beat to make the story jump toward the goal.
