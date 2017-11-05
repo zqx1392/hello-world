@@ -1,6 +1,4 @@
-highlight false condition
-
-create test doc for yaki-san tool
+highlight false condition　after click get data
 
 sell on shopee, facebookmarket
 
