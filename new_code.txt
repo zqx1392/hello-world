@@ -1,0 +1,75 @@
+46
+WGS84 Bounds: 90.0000, 0.0000, 96.0000, 84.0000
+Projected Bounds: 166021.4431, 0.0000, 833978.5569, 9329005.1825
+
+47n
+WGS84 Bounds: 96.0000, 0.0000, 102.0000, 84.0000
+Projected Bounds: 166021.4431, 0.0000, 833978.5569, 9329005.1825
+
+48s
+WGS84 Bounds: 102.0000, -80.0000, 108.0000, 0.0000
+Projected Bounds: 166021.4431, 1116915.0440, 833978.5569, 10000000.0000
+
+54n
+WGS84 Bounds: 138.0000, 0.0000, 144.0000, 84.0000
+Projected Bounds: 166021.4431, 0.0000, 833978.5569, 9329005.1825
+
+CASE FOR POLYLINE, POLYGON
+if (THA, IDN, ETC)
+double y1 = 0, y2 = 84, y3= -80 y4=0
+totalarea = 0;
+//for N
+for (90 < 144 ; 90+=6){
+	IEnvelope.PutCoords(90,0,96,84);
+	Igeometry -> IPolygon
+	ITopologicalOperator(IPolygon).QueryClipped(Ienvelope, Igeometry);
+	Igeometry -> IPolygon -> IArea -> find area
+	total_area += thisarea
+}
+//for S
+for (90 < 144 ; 90+=6){
+	IEnvelope.PutCoords(90,0,96,84);
+	Igeometry -> IPolygon
+	ITopologicalOperator(IPolygon).QueryClipped(Ienvelope, Igeometry);
+	Igeometry -> IPolygon -> IArea -> find area
+	total_area += thisarea
+}
+
+CASE FOR LINE
+total_length = 0;
+//for N
+for (90 < 144 ; 90+=6){
+	Point x,y;
+	ILine.QueryCoord(x,y);
+	if (x.x > y.x ) swap;
+	if (x.x<90 && y.x>90){
+		x.y = (y.y - x.y/y.x - x.x)*(90-x.x) + x.y;
+		x.x = 90;
+	}
+	if (x.x<96 && y.x>96){
+		y.y = (y.y - x.y/y.x - x.x)*(96-y.x) + y.y;
+		y.x = 96;
+	}
+	if (x.y < y1 && y.y > y1){
+		x.x = (y.x - x.x)/(y.y - x.y)*(y1-x.y) + x.x;
+		x.y = y1;
+	}
+	else if (y.y < y1 && x.y > y1){
+		y.x = (y.x - x.x)/(y.y - x.y)*(y1-y.y) + y.x;
+		y.y = y1;
+	}
+	if (x.y < y2 && y.y > y2){
+		y.x = (y.x - x.x)/(y.y - x.y)*(y2-y.y) + y.x;
+		y.y = y2;
+	}
+	else if (y.y < y2 && x.y > y2){
+		x.x = (y.x - x.x)/(y.y - x.y)*(y2-x.y) + x.x;
+		x.y = y2;
+	}
+	if (x.x>=90 && y.x <=96 && x.y>=y1 && y.y<=y2){
+		new ILine.putcoord(x,y);
+		ILine.project(47N) 
+		total_length += root((y.y-x.y)*(y.y-x.y) + (y.x-x.x)*(y.x-x.x))
+	}
+}
+
