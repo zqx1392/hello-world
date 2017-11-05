@@ -1,4 +1,4 @@
-learn how to get country polygon area correctly on arcgis -> use clip 
+highlight false condition
 
 create test doc for yaki-san tool
 
