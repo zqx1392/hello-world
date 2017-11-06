@@ -1,5 +1,3 @@
-highlight false condition　after click get data
-
 sell on shopee, facebookmarket
 
 
