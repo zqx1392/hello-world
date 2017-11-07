@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
@@ -125,6 +125,10 @@ public class IOManager
 							return false;
 						}
 						conditionTxt += lines[j] + " ";
+					}
+					if (String.IsNullOrWhiteSpace(conditionTxt)){
+						System.Windows.MessageBox.Show("Found incorrect config file format while reading where clause", "File Error");
+						return false;
 					}
 					i = j;
 					m_interfaceData.setDatasetCondition(DB1Variable, user1Variable, version1Variable, datasetName, conditionTxt);
