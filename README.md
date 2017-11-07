@@ -1,5 +1,7 @@
 sell on shopee, facebookmarket
 
+ijnspect animate thailand
+
 Last week I've finished [Rance9](https://vndb.org/v13802) due to the recent announcement of RanceX.
 If Rance7 is held in high regard by its engaging gameplay with some interesting dialogs inbetween, 
 Rance9 takes the opposite direction and drives the story gallantly with its simple yet fitting gameplay to keep active brain in touch.
