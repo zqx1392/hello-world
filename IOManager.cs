@@ -78,115 +78,116 @@ public class IOManager
             // Open document 
             String filename = dlg.FileName;
             String datasetName = "";
-            bool isReadingLayerOrTableName = false;
-            bool isReadingField = false;
-            bool hasReadAnyField = false;
-            List<String> textLine = new List<String>(File.ReadAllLines(filename));
-            //proceed to read line by line
-            foreach (String line in File.ReadLines(filename))
-            {   
-                String editedLine = excludeCommentandTrim(line);
-                //get DBuser info
-                getDBUserInfo(editedLine);
-                //while reading field...
-                if (editedLine == "%TABLE" || editedLine == "%LAYER")
-                {
-                    isReadingLayerOrTableName = true;
-                    //end of field list
-                    if (isReadingField == true)
-                    {
-                        if (hasReadAnyField == false)
-                        {
-                            System.Windows.MessageBox.Show("Found incorrect config file format while reading field list", "File Error");
-                            return false;
-                        }
-                        isReadingField = false;
-                        hasReadAnyField = false;
-                    }
-                    else if (datasetName != "")
-                    {
-                        System.Windows.MessageBox.Show("Found incorrect config file format while reading field list", "File Error");
+			bool isGettingTableOrLayer = true;
+			bool isGettingWhereOrField = false;
+			bool isGettingField = false;
+            List<String> lines = new List<String>();
+            //clear comment
+			foreach (String line in File.ReadLines(filename))
+            { 
+				String editedLine = excludeCommentandTrim(line);
+				//get DBuser info line, if not then add to processing lines
+                if (!getDBUserInfo(editedLine)){
+					lines.Add(editedLine);
+				}
+			}
+			for( int i = 0 ;i < lines.Count; i++)
+            { 
+				//get dataset name and create record into m_interfaceData 
+				if ((lines[i] == "%TABLE" || lines[i] == "%LAYER") && isGettingTableOrLayer){
+					if (i+1>=lines.Count){
+						System.Windows.MessageBox.Show("Found incorrect config file format while reading layer or table name", "File Error");
                         return false;
-
-                    }
-                }
-                if (isReadingLayerOrTableName)
-                {
-
-                    isReadingLayerOrTableName = false;
-                }
-                //when find %FIELD, proceed to read a dataset's condition and dataset name, then start reading fields
-                else if (editedLine == "%FIELD")
-                {
-                    //if reading field list but found field header again
-                    if (isReadingField == true)
-                    {
-                        System.Windows.MessageBox.Show("Found incorrect config file format while reading field list", "File Error");
+					}
+					datasetName = lines[i + 1];
+					if (lines[i] == "%TABLE") 
+						m_interfaceData.setNewDataset(DB1Variable, user1Variable, version1Variable, datasetName, true, true);	//create new dataset
+					else
+						m_interfaceData.setNewDataset(DB1Variable, user1Variable, version1Variable, datasetName, false, true);	//create new dataset
+					m_interfaceData.setDatasetSelected(DB1Variable, user1Variable, version1Variable, datasetName, true);		//set new dataset as selected
+					isGettingTableOrLayer = false;
+					isGettingWhereOrField = true;
+					i++;
+				}
+				//get where clause (if available) and record into m_interfaceDAta
+				else if (lines[i] == "%WHERE" && isGettingWhereOrField){
+					if (i+1>=lines.Count){
+						System.Windows.MessageBox.Show("Found incorrect config file format while reading where clause", "File Error");
                         return false;
-                    }
-                    //Acquire a dataset's condition and dataset name
-                    String conditionTxt = "";
-                    for (int i = previousLine.Count - 1; i >= 0; i--)
-                    {
-                        //have condition
-                        if (previousLine[i] == "%WHERE")
-                        {
-                            datasetName = previousLine[i - 1];
-                            if (previousLine[i - 2] == "%TABLE") m_interfaceData.setNewDataset(DB1Variable, user1Variable, version1Variable, datasetName, true, true);
-                            else
-                            {
-                                m_interfaceData.setNewDataset(DB1Variable, user1Variable, version1Variable, datasetName, false, true);
-                            }
-                            m_interfaceData.setDatasetSelected(DB1Variable, user1Variable, version1Variable, datasetName, true);
-                            m_interfaceData.setDatasetCondition(DB1Variable, user1Variable, version1Variable, datasetName, conditionTxt);
-                            break;
-                        }
-                        //not have condition
-                        else if (previousLine[i] == "%TABLE" || previousLine[i] == "%LAYER")
-                        {
-                            datasetName = previousLine[i + 1].Trim();
-                            if (previousLine[i] == "%TABLE") m_interfaceData.setNewDataset(DB1Variable, user1Variable, version1Variable, datasetName, true, true);
-                            else
-                            {
-                                m_interfaceData.setNewDataset(DB1Variable, user1Variable, version1Variable, datasetName, false, true);
-                            }
-                            m_interfaceData.setDatasetSelected(DB1Variable, user1Variable, version1Variable, datasetName, true);
-                            break;
-                        }
-                        //read till very first line == error
-                        else if (i == 0)
-                        {
-                            System.Windows.MessageBox.Show("Config file format is incorrect while reading condition of " + datasetName, "File Error");
-                            return false;
-                        }
-                        //concat condition string
-                        conditionTxt = previousLine[i] + " " + conditionTxt;
-                    }
-                    //start reading field list
-                    isReadingField = true;
-                }
-                //reading field list
-                else if (isReadingField)
-                {
-                    if( setField(editedLine.Trim(), datasetName))
-                    {
-                        hasReadAnyField = true;
-                    }
-                }
-                previousLine.Add(editedLine);
-            }
-            if (isReadingField == true && hasReadAnyField == false)
+					}
+					String conditionTxt = "";
+					int j;
+					for (j=i+1;j<lines.Count;j++){
+						if (lines[j] == "%FIELD")
+							break;
+						if (lines[j] == "%WHERE" || lines[j] == "%TABLE" || lines[j] == "%LAYER" || j+1 >= lines.Count){
+							System.Windows.MessageBox.Show("Found incorrect config file format while reading where clause", "File Error");
+							return false;
+						}
+						conditionTxt += lines[j] + " ";
+					}
+					i = j;
+					m_interfaceData.setDatasetCondition(DB1Variable, user1Variable, version1Variable, datasetName, conditionTxt);
+					isGettingWhereOrField = false;
+					isGettingField = true;
+				}
+				//get fields and record into m_interfaceDAta
+				else if (lines[i] == "%FIELD" && (isGettingWhereOrField || isGettingField)){
+					if (i+1>=lines.Count){
+						System.Windows.MessageBox.Show("Found incorrect config file format while reading field", "File Error");
+                        return false;
+					}
+					if (lines[i+1] == "-"){
+						i++;
+					}
+					else if (lines[i+1] == "*"){
+						m_interfaceData.setAllFieldSelected(DB1Variable, user1Variable, version1Variable, datasetName, true);
+						i++;
+					}
+					else {
+						int j = i;
+						for (j=i+1;j<lines.Count;j++){
+							if (lines[j] = "*" || lines[j] == "-" || lines[j] == "%WHERE" || lines[j] == "%FIELD" ){
+								System.Windows.MessageBox.Show("Found incorrect config file format while reading field", "File Error");
+								return false;
+							}
+							if (lines[j] == "%TABLE" || lines[j] == "%LAYER" ){
+								j--;
+								break;
+							}
+							if (j+1>=lines.Count){
+								break;
+							}
+							if (!String.IsNullOrWhiteSpace(lines[j])){
+								String fieldName = lines[j];
+								m_interfaceData.setDatasetFieldSelected(DB1Variable, user1Variable, version1Variable, datasetName, fieldName, true);
+							}
+						}
+						i = j;
+					}
+					isGettingWhereOrField = false;
+					isGettingField = false;
+					isGettingTableOrLayer = true;
+				}
+				//if line is not empty and has incorrect format
+				else if (!String.IsNullOrWhiteSpace(lines[i])) {
+					System.Windows.MessageBox.Show("Config file format is incorrect", "File Error");
+					return false;
+				}
+			}
+			//should set to reading table or layer when finish last line
+			if (!isGettingTableOrLayer)
             {
                 System.Windows.MessageBox.Show("Config file format is incorrect", "File Error");
                 return false;
             }
             return true;
         }
+		//cancel read
         else
         {
             return false;
         }
-        
     }
     /**
     * @brief Get a string line, delete comment (#...) and trim whitespace
@@ -204,23 +205,27 @@ public class IOManager
     * @brief Get a string line, detect if a line is related to DBuser information and copy to a class variable
     * @param userInfo		    [in]	input string line
     */
-    public void getDBUserInfo(String userInfo)
+    public bool getDBUserInfo(String userInfo)
     {
         if (userInfo.Contains("user_1"))
         {
             user1Variable = getLineVariable(userInfo);
+			return true;
         }
         else if (userInfo.Contains("user_2"))
         {
             user2Variable = getLineVariable(userInfo);
+			return true;
         }
         else if (userInfo.Contains("server_1"))
         {
             DB1Variable = getLineVariable(userInfo);
+			return true;
         }
         else if (userInfo.Contains("server_2"))
         {
             DB2Variable = getLineVariable(userInfo);
+			return true;
         }
         else if (userInfo.Contains("version_1"))
         {
@@ -229,6 +234,7 @@ public class IOManager
             {
                 version1Variable = "SDE.DEFAULT";
             }
+			return true;
         }
         else if (userInfo.Contains("version_2"))
         {
@@ -237,7 +243,9 @@ public class IOManager
             {
                 version2Variable = "SDE.DEFAULT";
             }
+			return true;
         }
+		return false;
     }
     /**
     * @brief Get variable value from a line in config file [ex. user_1 = TEST2017, get TEST2017]
