@@ -1,3 +1,8 @@
+- send review request reinforcement to chinen-san
+- install RHEL
+- find UPS
+- do it support ticket
+
 sell on shopee, facebookmarket
 
 
