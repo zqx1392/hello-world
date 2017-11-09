@@ -1,6 +1,5 @@
 sell on shopee, facebookmarket
 
-ijnspect animate thailand
 
 1. upgrade facebook to add shop and service (also advert?)
 2. post to other facebook page
