@@ -1,7 +1,6 @@
-- send review request reinforcement to chinen-san
+
 - install RHEL
-- find UPS
-- do it support ticket
+- find 2 tools bugs
 
 sell on shopee, facebookmarket
 
