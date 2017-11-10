@@ -41,8 +41,13 @@ inline IWorkspaceName2Ptr create_workspace_name_oracle_dc(const CComVariant& tns
 	return ipWorkspaceName;
 }
 
-- install RHEL
+-> https://www.google.co.th/search?q=rhel+boot+only+grub+console&rlz=1C1ASUC_enTH585TH585&oq=rhel+boot+only+grub+console&aqs=chrome..69i57.12023j0j4&sourceid=chrome&ie=UTF-8
 - find 2 tools bugs
+-> use code to fix
+-> let  warm build too
+-> build at v140
+-> find how edit gone wrong
+
 
 sell on shopee, facebookmarket
 
