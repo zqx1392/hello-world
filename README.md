@@ -1,3 +1,5 @@
+promote via multiple facebook page
+
 -> https://www.google.co.th/search?q=rhel+boot+only+grub+console&rlz=1C1ASUC_enTH585TH585&oq=rhel+boot+only+grub+console&aqs=chrome..69i57.12023j0j4&sourceid=chrome&ie=UTF-8
 
 http://resources.esri.com/help/9.3/ArcGISDesktop/ArcObjects/ao_start.htm#esriGeodatabase/IWorkspaceEdit.htm
