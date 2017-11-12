@@ -1,7 +1,7 @@
 new webpage
 - add more content, fix content, find our strong points (compare to other web)
+- post setA-E to facebook
 - promote via multiple facebook page
-- to kaidee, pantipmarket, etc
 - buy ad on google, facebook.
 
 -> https://www.google.co.th/search?q=rhel+boot+only+grub+console&rlz=1C1ASUC_enTH585TH585&oq=rhel+boot+only+grub+console&aqs=chrome..69i57.12023j0j4&sourceid=chrome&ie=UTF-8
