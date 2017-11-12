@@ -1,24 +1,19 @@
-promote via multiple facebook page
+new webpage
+- add more content, fix content, find our strong points (compare to other web)
+- promote via multiple facebook page
+- to kaidee, pantipmarket, etc
+- buy ad on google, facebook.
 
 -> https://www.google.co.th/search?q=rhel+boot+only+grub+console&rlz=1C1ASUC_enTH585TH585&oq=rhel+boot+only+grub+console&aqs=chrome..69i57.12023j0j4&sourceid=chrome&ie=UTF-8
 
 http://resources.esri.com/help/9.3/ArcGISDesktop/ArcObjects/ao_start.htm#esriGeodatabase/IWorkspaceEdit.htm
 
 http://resources.esri.com/help/9.3/arcgisengine/arcobjects/esriGeodatabase/IWorkspaceEdit_Example.htm
+
 -> use code to fix
 -> let  warm build too
 -> build at v140
 -> find how edit gone wrong
-
-
-sell on shopee, facebookmarket
-
-
-1. upgrade facebook to add shop and service (also advert?)
-2. post to other facebook page
-3. post guitar to pantip, kaidee
-4. copy website, get their weakness.
-
 
 ぎみ（気味） につれて　に加える　てから→て以来
 
