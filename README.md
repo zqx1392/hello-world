@@ -1,3 +1,5 @@
+make cute slide for tomorrow conference
+
 new webpage
 - add more content, fix content, find our strong points (compare to other web)
 - post setA-E to facebook
