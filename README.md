@@ -1,4 +1,6 @@
-make cute slide for tomorrow conference
+- !m_interfaceData.m_DBComparer.hasDomain
+- at getdatasetandupateinterface, divide into interface.cs
+
 
 new webpage
 - add more content, fix content, find our strong points (compare to other web)
