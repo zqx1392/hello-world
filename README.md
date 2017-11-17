@@ -3,22 +3,21 @@
 inspect grisaia eng release date and track all review (if comparing eng-jp exists or not)
 
 so, current situation
---- playing
-- erect
-- grisaia
 
---- just install
-- falnese
-- life with s
+--- playing
+- erect & grisaia
+
+--- installed
+- falnese & life with s
 
 --- standby
-- ane pinchi
-- small eng
+- ane pinchi & small eng
 
 --- plan
 - clear grisaia while erect (ofc going to be dry judging by high foreshadowing amount)
 - do life with s while bored
 - decide how we should treat falnese
+- choose one small thing to kill time after done with Grisaia
 
 new webpage
 - add more content, fix content, find our strong points (compare to other web)
