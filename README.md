@@ -16,7 +16,7 @@ so, current situation
 - small eng
 
 --- plan
-- clear grisaia while erect (ofc going to be dry by foreshadowing amount)
+- clear grisaia while erect (ofc going to be dry judging by high foreshadowing amount)
 - do life with s while bored
 - decide how we should treat falnese
 
