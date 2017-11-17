@@ -1,5 +1,14 @@
 ぎみ（気味） につれて　に加える　てから→て以来
 
+たとえば、以下のような書き方もできると思います。
+（これが正解とは限りませんので、じっくり考えてみてください）
+http://ufcpp.net/media/ufcpp2000/csharp/fig/asyncflow1.png
+
+GUIアプリでは画面の遷移図も、有効なアプローチのひとつです。
+（今回のアプリはここまで複雑な画面遷移をしないかと思うので、これも参考までです）
+http://crew-lab.sfc.keio.ac.jp/semi/seminar2_achievement/mirumiru/makingofmirumiru/image/coding-kishi/new-login.gif
+
+
 inspect grisaia eng release date and track all review (if comparing eng-jp exists or not)
 
 so, current situation
