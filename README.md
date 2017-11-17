@@ -1,5 +1,7 @@
 ぎみ（気味） につれて　に加える　てから→て以来
 
+inspect grisaia eng release date and track all review (if comparing eng-jp exists or not)
+
 so, current situation
 --- playing
 - erect
