@@ -1,5 +1,23 @@
 ぎみ（気味） につれて　に加える　てから→て以来
 
+so, current situation
+--- playing
+- erect
+- grisaia
+
+--- just install
+- falnese
+- life with s
+
+--- standby
+- ane pinchi
+- small eng
+
+--- plan
+- clear grisaia while erect (ofc going to be dry by foreshadowing amount)
+- do life with s while bored
+- decide how we should treat falnese
+
 new webpage
 - add more content, fix content, find our strong points (compare to other web)
 - post setA-E to facebook
