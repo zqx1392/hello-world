@@ -1,3 +1,5 @@
+ambrosia it is
+
 I made wrong move. Should've went for Yumiko first for continuous experience.
 
 ぎみ（気味） につれて　に加える　てから→て以来
