@@ -2,6 +2,8 @@ how to melt door knob
 
 change mustur -> personal fantasy
 
+talk about M and getting thrust violently, but the word "wet (panties)" butchered. Fucking ridiculous consider the fact they indulged in sex talk throughout the scene yet (barely) 18+ words omitted from our sight.
+
 ambrosia it is
 
 I made wrong move. Should've went for Yumiko first for continuous experience.
