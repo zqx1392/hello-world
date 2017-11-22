@@ -2,7 +2,7 @@ how to melt door knob
 
 change mustur -> personal fantasy
 
-talk about M and getting thrust violently, but the word "wet (panties)" butchered. Fucking ridiculous consider the fact they indulged in sex talk throughout the scene yet (barely) 18+ words omitted from our sight.
+talk about M and getting thrust violently, but the word "wet (panties)" butchered. Fucking ridiculous consider the fact they indulged in sex talk throughout the scene yet (barely) 18+ words(ex. hymen) omitted from our sight. Methaphortically, Full equipped BDSM ritual, from skin-care rope, extra linen bondage, to ultra flexible 17 inch adaptive-heated vibratable drill dildo, but dirty word is "too much". THIS TRULY DETER MY ENJOYMENT.
 
 ambrosia it is
 
