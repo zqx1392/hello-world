@@ -8,7 +8,6 @@ ambrosia it is
 
 I made wrong move. Should've went for Yumiko first for continuous experience.
 
-ぎみ（気味） につれて　に加える　てから→て以来
 so, current situation
 
 --- installed
@@ -18,7 +17,6 @@ so, current situation
 - ane pinchi & small eng
 
 --- plan
-- clear grisaia while erect (ofc going to be dry judging by high foreshadowing amount)
 - do life with s while bored
 - decide how we should treat falnese
 - choose one small thing to kill time after done with Grisaia
@@ -32,7 +30,6 @@ new webpage
 When you do pullups, try to imagine yourself pulling your elbows down, not pulling your body up. It's a mental trick that can make them feel easier, because it forces you to use the muscles in your back more.
 
 For now.
-- call thaiairways for royal orchid account
 - start clannad. again.
 - clear ear wax
 
