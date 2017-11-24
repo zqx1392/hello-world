@@ -4,6 +4,8 @@ fix auto input
 
 public void Hoge(string a="", string b = "", string c){
 	}
+	
+auto save function (save setting file when close app)
 
 
 find restuarant for p'hug
