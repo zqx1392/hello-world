@@ -1,3 +1,11 @@
+change field output in tsv file
+
+fix auto input
+
+public void Hoge(string a="", string b = "", string c){
+	}
+
+
 find restuarant for p'hug
 
 ambrosia it is
