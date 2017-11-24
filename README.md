@@ -1,4 +1,4 @@
-find restuarant from p'hug
+find restuarant for p'hug
 
 ambrosia it is
 
