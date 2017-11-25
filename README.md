@@ -1,4 +1,4 @@
-talk about originate of anappoko
+talk about originate of anappoko, panda-fucking yakata
 
 update facebook page for new 3 pictures
 
