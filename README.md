@@ -1,4 +1,4 @@
-first makina nake scene... it's different a face of shy maiden vs a face of heart pain woman
+first makina nake scene... it's different a face of shy maiden vs a face of heartbreaking woman
 
 change field output in tsv file <- write change in sofware development doc
 
