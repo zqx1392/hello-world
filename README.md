@@ -1,3 +1,5 @@
+talk about originate of anappoko
+
 update facebook page for new 3 pictures
 
 change field output in tsv file <- write change in sofware development doc
