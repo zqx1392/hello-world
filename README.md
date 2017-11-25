@@ -28,6 +28,7 @@ so, current situation
 - choose one small thing to kill time after done with Grisaia
 
 new webpage
+- let's facebook be payable?
 - add more content, fix content, find our strong points (compare to other web)
 - post setA-E to facebook
 - promote via multiple facebook page
