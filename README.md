@@ -1,5 +1,7 @@
 first makina nake scene... it's different a face of shy maiden vs a face of heartbreaking woman
 
+shitfest hotel room
+
 change field output in tsv file <- write change in sofware development doc
 
 fix auto input
