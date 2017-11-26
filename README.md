@@ -41,7 +41,18 @@ shitfest hotel room
 
 One of the most intense shit in a while. really no comment right now...
 
+Fucking choice.
+
+Also, gtfo, H-scenes.
+
+
 It's more or less the story of Yuuji, fighting against the evil, while learning his true self. 
+
+SOL part is better than Sachi, I must admit. And they really find a way to make a very unique ending.
+
+The writer made no intend to hide any knowledge and present all into each part of this route. fix motocycle, teach snipering, and lastly, bombing. awesome.
+
+In the end. All of intense source came from Yuuji, who we anticipate every action, and every decision. 
 
 A man should never repeat the mistakes again.
 
