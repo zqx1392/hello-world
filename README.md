@@ -41,6 +41,8 @@ shitfest hotel room
 
 One of the most intense shit in a while. really no comment right now...
 
+It's more or less the story of Yuuji, fighting against the evil, while learning his true self. 
+
 A man should never repeat the mistakes again.
 
 For now.
