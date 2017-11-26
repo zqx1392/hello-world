@@ -1,6 +1,3 @@
-first makina nake scene... it's different a face of shy maiden vs a face of heartbreaking woman
-
-shitfest hotel room
 
 change field output in tsv file <- write change in sofware development doc
 
@@ -37,6 +34,14 @@ new webpage
 - buy ad on google, facebook.
 
 When you do pullups, try to imagine yourself pulling your elbows down, not pulling your body up. It's a mental trick that can make them feel easier, because it forces you to use the muscles in your back more.
+
+first makina nake scene... it's different a face of shy maiden vs a face of heartbreaking woman
+
+shitfest hotel room
+
+One of the most intense shit in a while. really no comment right now...
+
+A man should never repeat the mistakes again.
 
 For now.
 - start clannad. again.
