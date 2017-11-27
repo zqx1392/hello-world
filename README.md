@@ -1,16 +1,3 @@
-
-change field output in tsv file <- write change in sofware development doc
-
-fix auto input
-
-public void Hoge(string a="", string b = "", string c){
-	}
-	
-auto save function (save setting file when close app)
-
-
-find restuarant for p'hug
-
 ambrosia it is
 
 so, current situation
