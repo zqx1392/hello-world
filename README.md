@@ -1,3 +1,5 @@
+Time to revise the old relics. Also update the new one during this previous 2-3 years
+
 ambrosia it is
 
 so, current situation
@@ -15,7 +17,7 @@ so, current situation
 
 new webpage
 - let's facebook be payable?
-- add more content, fix content, find our strong points (compare to other web)
+- add more content, fix content, copy good point from other (because we have none)
 - post setA-E to facebook
 - promote via multiple facebook page
 - buy ad on google, facebook.
