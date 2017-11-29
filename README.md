@@ -3,7 +3,7 @@ yup MGQ paradox!
 
 new webpage
 - let's facebook be payable?
-- add more content, fix content, copy good point from other (because we have none)
+- add more content, fix content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
 - promote via multiple facebook page
 - buy ad on google, facebook.
