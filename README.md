@@ -1,5 +1,7 @@
-Time to revise the old relics. Also update the new one during this previous 2-3 years, don't forget physical too you fak,
-yup MGQ paradox!
+1 kiss cg 
+cencor rape talk -> morning star???
+
+don't forget physical too you fak, yup MGQ paradox!
 
 new webpage
 - let's facebook be payable?
