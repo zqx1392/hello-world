@@ -1,5 +1,8 @@
+buy or prepare 1 gift for buddy
+
 1 kiss cg 
-cencor rape talk -> morning star???
+
+censor rape talk (when Amane scream at toy car) -> talk about morning star???
 
 don't forget physical too you fak, yup MGQ paradox!
 
