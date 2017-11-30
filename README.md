@@ -1,3 +1,10 @@
+- Try every button, interactive object.
+- delete footer contact, add facebook
+- change customer stupid reviews
+- change some false description
+- change map position a bit
+
+
 buy or prepare 1 gift for buddy
 
 1 kiss cg 
