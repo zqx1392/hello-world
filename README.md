@@ -8,8 +8,6 @@
 
 censor rape talk (when Amane scream at toy car) -> talk about morning star???
 
-don't forget physical too you fak, yup MGQ paradox!
-
 new webpage
 - let's facebook be payable?
 - add more content, fix content, copy good point from other (because we have none, we can start new!)
