@@ -4,9 +4,6 @@
 - change some false description
 - change map position a bit
 
-
-buy or prepare 1 gift for buddy
-
 1 kiss cg 
 
 censor rape talk (when Amane scream at toy car) -> talk about morning star???
