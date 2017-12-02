@@ -10,6 +10,8 @@ details
 
 - lewd cream ritual and kurage
 
+- cut kiss in detail (saliva, tongue)
+
 censor rape talk (when Amane scream at toy car) -> talk about morning star???
 
 change about that sandbed
