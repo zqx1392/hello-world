@@ -1,20 +1,10 @@
-- Try every button, interactive object.
-- delete header search button
 - change header cover link to contact -> to their own page
-- ใส่แผนที่หน้าห้องซ้อม
-- footer psmusicwork link to template
-- change copyright to 2017
-- add link to each footer topic
 - ต้องการคำแนะนำ,สอบถาม,จองคิว โทร 081-804-2424 -> ไปหน้าติดต่อ (ทั้งหน้า เช่า และห้องซ้อม)
 - แก้ปุ่มหน้าห้องซ้อม
 - disable customer comment clickable
-- delete footer contact, add facebook
 
 details
-- change customer stupid reviews
 - change some false description
-- change map position a bit
-- 
 
 + 1 kiss cg 
 
