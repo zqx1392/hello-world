@@ -4,7 +4,9 @@
 - change some false description
 - change map position a bit
 
-1 kiss cg 
++ 1 kiss cg 
+
+- lewd cream ritual and kurage
 
 censor rape talk (when Amane scream at toy car) -> talk about morning star???
 
