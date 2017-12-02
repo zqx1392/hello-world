@@ -8,6 +8,8 @@
 
 censor rape talk (when Amane scream at toy car) -> talk about morning star???
 
+change about that sandbed
+
 new webpage
 - let's facebook be payable?
 - add more content, fix content, copy good point from other (because we have none, we can start new!)
