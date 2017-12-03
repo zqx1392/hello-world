@@ -1,8 +1,3 @@
-- change header cover link to contact -> to their own page
-- ต้องการคำแนะนำ,สอบถาม,จองคิว โทร 081-804-2424 -> ไปหน้าติดต่อ (ทั้งหน้า เช่า และห้องซ้อม)
-- แก้ปุ่มหน้าห้องซ้อม
-- disable customer comment clickable
-
 details
 - change some false description
 
