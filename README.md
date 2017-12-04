@@ -1,5 +1,7 @@
 forced to eat drug, and make real last rooftop dark background, instead of explain placebo -> you gonna pee
 
++1 last kiss scene
+
 find PES patch for pao
 
 details
