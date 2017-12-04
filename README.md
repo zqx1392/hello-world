@@ -11,7 +11,15 @@ details
 
 censor rape talk (when Amane scream at toy car) -> talk about morning star???
 
-change about that sandbed
+change about that sandbed recollection talk (from simply making sandbed to building castle and collapse)
+
+make template for distance/area for sindy_stats_compare document
+
+add second confirmation to sea production sheet
+
+for release schedule document, add new section that describe every newly added settings, tool, folder, etc.
+
+copy all file to template
 
 new webpage
 - let's facebook be payable?
