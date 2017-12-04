@@ -3,15 +3,6 @@ details
 
  (ภาพความไว้วางใจจากลูกค้าที่ให้เราได้รับหน้าที่จัดหาอุปกรณ์เครื่องดนตรี เสียงสีแสง) เพื่อรังสรรค์ความสุขและเปล่งเสียงความสุขให้กึกก้องทั่วทั้งงาน
 
-+ 1 kiss cg, + 1 rooftop last 
-
-- lewd cream ritual and kurage
-
-- cut kiss in detail (saliva, tongue)
-
-censor rape talk (when Amane scream at toy car) -> talk about morning star???
-
-change about that sandbed recollection talk (from simply making sandbed to building castle and collapse)
 
 make template for distance/area for sindy_stats_compare document
 
