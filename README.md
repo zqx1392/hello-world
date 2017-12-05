@@ -1,16 +1,3 @@
-forced to eat drug, and make real last rooftop dark background, instead of explain placebo -> you gonna pee
-
-+1 last kiss scene
-
-find PES patch for pao
-
-details
-- change email address
-- change some false description
-
- (ภาพความไว้วางใจจากลูกค้าที่ให้เราได้รับหน้าที่จัดหาอุปกรณ์เครื่องดนตรี เสียงสีแสง) เพื่อรังสรรค์ความสุขและเปล่งเสียงความสุขให้กึกก้องทั่วทั้งงาน
-
-
 make template for distance/area for sindy_stats_compare document
 
 add second confirmation to sea production sheet
@@ -25,6 +12,15 @@ new webpage
 - post setA-E to facebook
 - promote via multiple facebook page
 - buy ad on google, facebook.
+
+details
+- change email address
+
+ (ภาพความไว้วางใจจากลูกค้าที่ให้เราได้รับหน้าที่จัดหาอุปกรณ์เครื่องดนตรี เสียงสีแสง) เพื่อรังสรรค์ความสุขและเปล่งเสียงความสุขให้กึกก้องทั่วทั้งงาน
+ 
+ อยากจองชุดเครื่องดนตรีจัดงาน อยากจองห้องซ้อมดนตรี อยากหาวงดนตรีออกงาน โทรหาเราเลย 081-804-2424 หรือ add Line ID: psmusic คุยกันสบายๆ หาแพ็คเกจที่ใช่ ตกลงกันได้แล้ว ก็ปล่อยให้เป็นงานของเรา รับรองผลงานเลิศ ;) 
+
+เรายินดีให้คำแนะนำปรึกษา ทั้งเรื่องเลือกชุดเช่าเครื่องดนตรี ห้องซ้อมดนตรีแบบไหนดี หรือจ้างวงดนตรีแนวไหน ให้มืออาชีพอย่างเราช่วยเหลือนะ
 
 ambrosia it is
 
