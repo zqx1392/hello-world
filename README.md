@@ -5,6 +5,7 @@ forced to eat drug, and make real last rooftop dark background, instead of expla
 find PES patch for pao
 
 details
+- change email address
 - change some false description
 
  (ภาพความไว้วางใจจากลูกค้าที่ให้เราได้รับหน้าที่จัดหาอุปกรณ์เครื่องดนตรี เสียงสีแสง) เพื่อรังสรรค์ความสุขและเปล่งเสียงความสุขให้กึกก้องทั่วทั้งงาน
@@ -19,7 +20,7 @@ for release schedule document, add new section that describe every newly added s
 copy all file to template
 
 new webpage
-- let's facebook be payable?
+- find musician group or want to learn music group
 - add more content, fix content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
 - promote via multiple facebook page
