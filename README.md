@@ -1,3 +1,5 @@
+last cg: from jp to eng (good)
+
 new webpage
 - find musician group or want to learn music group
 - add more content, copy good point from other (because we have none, we can start new!)
