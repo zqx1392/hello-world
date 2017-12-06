@@ -1,11 +1,3 @@
-make template for distance/area for sindy_stats_compare document
-
-add second confirmation to sea production sheet
-
-for release schedule document, add new section that describe every newly added settings, tool, folder, etc.
-
-copy all file to template
-
 new webpage
 - find musician group or want to learn music group
 - add more content, fix content, copy good point from other (because we have none, we can start new!)
