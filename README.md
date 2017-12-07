@@ -1,22 +1,5 @@
 search for kisaku and the kid
 
-last cg: from jp to eng (good　riddance)
-
-hmmm, michiru....
-
-Not going to judge this route harshly but... tempo is somehow off.
-The route start with some cliche and stupid things: kissed and easily hooked,
-everyone went out of dorm just for the couple convenient scenario,
-and the cat sudden death.
-I might overlooked all those parts since other routes also tell somethings
-convenient as these but the route made it too obvious and forceful to hide and
-that bugged me pretty much, at least other route try to hide them among sea of emotion...
-
-So yeah, might be the most pecuilar story (except amene which i'm going last) among all routes,
-with some heartful ending. Still rushed the execution which failed to create hype.
-
-Simply said, great idea but bad writting and execution.
-
 new webpage
 - find musician group or want to learn music group
 - add more content, copy good point from other (because we have none, we can start new!)
