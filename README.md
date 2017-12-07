@@ -1,3 +1,5 @@
+search for kisaku and the kid
+
 last cg: from jp to eng (good　riddance)
 
 hmmm, michiru....
