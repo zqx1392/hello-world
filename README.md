@@ -2,6 +2,7 @@ print recruit, post facebook recruit, room pic, and to other page
 
 +1 shower hair scene, amane half-naked as ever, cut out fela talk in details
 +1 yobai
++999 dirty conversation
 
 find good monitoring tool
 
