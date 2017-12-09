@@ -1,4 +1,4 @@
-print recruit, post facebook recruit, room pic, and to other page
+ post facebook recruit
 
 +1 shower hair scene, amane half-naked as ever, cut out fela talk in details
 +1 yobai
