@@ -1,3 +1,6 @@
++1 shower hair scene, amane half-naked as ever, cut out fela talk in details
++1 yobai
+
 find good monitoring tool
 
 new webpage
