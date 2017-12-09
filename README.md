@@ -4,6 +4,7 @@
 +1 yobai
 +999 dirty conversation
 +1 oh amane, truly lusty (shower + morning fela + paizu + midday ecc)
++1 conversation with sachi about the picture is truly suffer (no more succ, coup de joke)
 
 find good monitoring tool
 
