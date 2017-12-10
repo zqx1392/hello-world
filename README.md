@@ -1,17 +1,5 @@
  post facebook recruit
 
-+1 shower hair scene, amane half-naked as ever, cut out fela talk in details
-+1 yobai
-+1 fake kiss
-+1 cry at 5th day
-+1 after half group scene
-+666 the legendary scene
-+1 (not) last departure scene
-+1 cabbage
-+999 dirty conversation
-+1 oh amane, truly lusty (shower + morning fela + paizu + midday ecc)
-+1 conversation with sachi about the picture is truly suffer (no more succ, coup de joke)
-
 find good monitoring tool
 
 new webpage
