@@ -2,8 +2,6 @@
 
 find good monitoring tool
 
-michiru |decrease swimming | change last kid drawing to eng
-
 new webpage
 - add more content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
