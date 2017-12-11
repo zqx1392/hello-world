@@ -3,11 +3,9 @@
 find good monitoring tool
 
 new webpage
-- find musician group or want to learn music group
 - add more content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
-- promote via multiple facebook page
-- buy ad on google, facebook.
+- buy ad on google
 
  (ภาพความไว้วางใจจากลูกค้าที่ให้เราได้รับหน้าที่จัดหาอุปกรณ์เครื่องดนตรี เสียงสีแสง) เพื่อรังสรรค์ความสุขและเปล่งเสียงความสุขให้กึกก้องทั่วทั้งงาน
  
