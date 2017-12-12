@@ -1,7 +1,5 @@
  post facebook recruit
 
-find good monitoring tool
-
 new webpage
 - add more content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
