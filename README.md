@@ -1,3 +1,9 @@
+ Download Blackflag
+ 
+ Finish kajitsu conclusion
+ 
+ Finish Youkenteigisho
+ 
  post facebook recruit
 
 new webpage
