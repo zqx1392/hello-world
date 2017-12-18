@@ -3,8 +3,8 @@ let's change vndb kajitsu release description.
 To be honest, I didn't intend to start this detailed analysis at all when I bought this game
 by whimsical mood in Japan few years ago. But during the long burial under ton of backlogs 
 I have heard many good words about koestl translation so I want to try out what real
-"high quality translation" is, since I was born in shitty fan-translation,
-molded by it. I didn't see a well-composed sentence until I was already a man.
+"high quality translation" is, Being a man who was was born in shitty fan-translation,
+molded by it. This certainly interested me enough to try it via steam edition.
 
 And he impressed me much...
 
