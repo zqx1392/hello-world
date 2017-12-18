@@ -1,5 +1,7 @@
 let's change vndb kajitsu release description.
 
+write shuuhou plz
+
 To be honest, I didn't intend to start this detailed analysis at all when I bought this game
 by whimsical mood in Japan few years ago. But during the long burial under ton of backlogs 
 I have heard many good words about koestl translation so I want to try out what real
