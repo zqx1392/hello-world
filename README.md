@@ -1,24 +1,6 @@
 let's change vndb kajitsu release description.
 
-write shuuhou plz
-
-To be honest, I didn't intend to start this detailed analysis at all when I bought this game
-by whimsical mood in Japan few years ago. But during the long burial under ton of backlogs 
-I have heard many good words about koestl translation so I want to try out what real
-"high quality translation" is, Being a man who was was born in shitty fan-translation,
-molded by it. This certainly interested me enough to try it via steam edition.
-
-And he impressed me much...
-
-Still, Is steam version acceptable enough? What is the "additional content"? 
-Is it worth over cut 18+ content? 
-In order to find those answers, I have compared all content from the beginning to the end,
-and found that the differences are more than just additional/cut contents.
-So here I am, complied (almost) all differences and proudly present to you guys.
-
-Greet golf & thanat
-
-Finish kajitsu preface
+Recheck Makina's terrorist escape and Dog head smash moment.
  
  post facebook recruit
 
