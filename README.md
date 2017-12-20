@@ -1,8 +1,10 @@
-let's change vndb kajitsu release description.
+Change my phone case to another for easier photoshot, maybe research photo technic too.
 
 Recheck Makina's terrorist escape and Dog head smash moment.
  
- post facebook recruit
+post facebook recruit
+
+Research insurance, take guitar photo.
 
 new webpage
 - add more content, copy good point from other (because we have none, we can start new!)
