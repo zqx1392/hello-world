@@ -1,8 +1,6 @@
-Change my phone case to another for easier photoshot, maybe research photo technic too.
+maybe research photo technic too.
 
 miagete goran
-
-Recheck Makina's terrorist escape and Dog head smash moment.
  
 post facebook recruit
 
