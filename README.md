@@ -1,7 +1,11 @@
-maybe research photo technic too.
-
 miagete goran
- 
+
+kaerumade mashiro
+
+check comiket for next year
+
+new mouse? and possibly new pc
+
 post facebook recruit
 
 Research insurance, take guitar photo.
