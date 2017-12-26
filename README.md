@@ -1,7 +1,3 @@
-miagete goran
-
-kaerumade mashiro
-
 check comiket for next year
 
 new mouse? and possibly new pc
