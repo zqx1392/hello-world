@@ -1,6 +1,6 @@
 check comiket for next year
 
-new mouse? and possibly new pc
+new 2 mouses, new hdd, and possibly new pc
 
 post facebook recruit
 
