@@ -2,6 +2,8 @@ check comiket for next year
 
 new 2 mouses, new hdd, and possibly new pc
 
+Plan script lesson.
+
 post facebook recruit
 
 Research insurance, take guitar photo.
