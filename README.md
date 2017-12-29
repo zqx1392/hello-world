@@ -1,4 +1,4 @@
-check comiket for next year
+check comiket for next year :Mitsumi(nuki) :P;P :Sis cest
 
 new 2 mouses, new hdd, and possibly new pc
 
