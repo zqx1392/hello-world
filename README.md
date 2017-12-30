@@ -1,6 +1,5 @@
 check comiket for next year :Mitsumi(nuki) :P;P :Sis cest
 
-Plan buying new cheap PC
 
 Research insurance, take guitar photo.
 
