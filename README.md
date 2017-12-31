@@ -1,9 +1,15 @@
 check comiket for next year :Mitsumi(nuki) :P;P :Sis cest
 
+check ben about seikin
 
-Research insurance, take guitar photo.
+take guitar photo.
 
 Plan script lesson.
+- current example
+- what it can do
+- example
+- very easy step how to make
+- details...
 
 post facebook recruit
 
