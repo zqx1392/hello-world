@@ -11,6 +11,11 @@ Plan script lesson.
 
 post facebook recruit
 
+Plan for ege
+- Finish tsukiyori, meikyuu, and rance 1 quick
+- Perform rance 3 within a month
+- play small game(s) before life crashed by 10 
+
 new webpage
 - add more content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
