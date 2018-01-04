@@ -1,5 +1,9 @@
 check ben about seikin
 
+download all song from awa
+
+cut hair
+
 take guitar photo.
 
 Plan script lesson.
