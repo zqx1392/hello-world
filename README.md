@@ -1,13 +1,6 @@
 check ben about seikin
 
-download all song from awa
-
-cut hair
-
 take guitar photo.
-
-Province + Tambon = no duplicate -> create tool that easy do that
-Province + Tambon = duplicate -> also utilize taesabarn list to find the right one, if really unable to find then tell user
 
 Plan script lesson.
 - current example
