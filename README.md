@@ -12,7 +12,7 @@ Plan script lesson.
 - example
 - state clearly what we are going to teach you so you can do what
 - very easy step how to make
-- details...
+- details... -> variable, if-else, for-while, function, etc.
 
 post facebook recruit
 
