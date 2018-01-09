@@ -10,6 +10,7 @@ Plan script lesson.
 - current example
 - what it can do
 - example
+- state clearly what we are going to teach you so you can do what
 - very easy step how to make
 - details...
 
