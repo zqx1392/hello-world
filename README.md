@@ -1,5 +1,3 @@
-Recheck hotel fresa again
-
 advert webpage
 
 take guitar photo.
@@ -50,6 +48,6 @@ AC Origin
 
 เรายินดีให้คำแนะนำปรึกษา ทั้งเรื่องเลือกชุดเช่าเครื่องดนตรี ห้องซ้อมดนตรีแบบไหนดี หรือจ้างวงดนตรีแนวไหน ให้มืออาชีพอย่างเราช่วยเหลือนะ
 
-check comiket for next year :Mitsumi(nuki) :P;P :Sis cest
+check comiket for next year :Mitsumi(nuki) :P;P :Sis cest 
+Hotel (8-13 Aug)
 Kiniro Loverich
-
