@@ -13,7 +13,7 @@ Plan script lesson.
 post facebook recruit
 
 Plan for ege
-- Finish tsukiyori, and rance 1 quick
+- Finish tsukiyori 1 quick
 - Perform rance 3 within a month
 - play small game(s) before life crashed by 10 
 
