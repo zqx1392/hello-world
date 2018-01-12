@@ -1,5 +1,7 @@
 send PIP evalution doc
 
+find good maid cafe
+
 advert webpage
 
 take guitar photo.
