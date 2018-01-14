@@ -1,4 +1,4 @@
-send PIP evalution doc
+http://www.chebucto.ns.ca/~ak621/DOS/BatBasic.html
 
 do tax jap
 
