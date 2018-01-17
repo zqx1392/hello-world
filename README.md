@@ -1,4 +1,4 @@
-
+Check air asia promotion + comiket website for date
 
 http://www.chebucto.ns.ca/~ak621/DOS/BatBasic.html
 
