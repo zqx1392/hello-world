@@ -1,68 +1,18 @@
-> 1.重複郵便番号が発見した時、最新登録された件を選択する
-> 2.登録日付がない件は選択外にする
-> 3.全ては登録日付がない件の場合、一番OID値が高い件を選択する
-> 
-> それに、ログの内容を区別できて確認しやすくなるため、出力形式を変更する。
-> run_log(旧)
-> 列A                |	列B
-> 2018-01-12 10:15:19	POI_INFO OBJECTID = 79311 : has been updated successfully.
-> run_log(新)
-> 列A                |	列B		   |	列C　|	列D	
-> 2018-01-12 10:15:19	POI_INFO OBJECTID =	79311	has been updated successfully
-> 
-> error_log(旧)
-> 列A          |	列B		   |	列C　|	列D	
-> PROCESS_ERROR	2018-01-12 10:15:19	302	POI_INFO OBJECTID = 167009 : Doesn't contain actual address. cannot be acquired
-> error_log(新)
-> 列A          |	列B		   |	列C　|	列D		|	列E   |	列F
-> PROCESS_ERROR	2018-01-12 10:15:19	302	POI_INFO OBJECTID	167009	Doesn't contain actual address. cannot be acquired
+Flow chart
+- Zoom in get postalpoint and add flow details
 
-_______ERROR___________
-m_errLog << "ERROR_TYPE" << "\t" << "TIME" << "\t" << "ERROR_CODE" << "\t" << "ERROR_MSG" << std::endl;
-:
-:
-void IOManager::print_error(const ErrorManager::ECode& errorCode, const CString& errorSource){
-	if (m_errLog.is_open())
-		m_errLog << CT2A(m_errorMessageGroup[errorCode].errorType) << "\t" << CT2A(get_current_time()) << "\t" << errorCode  << "\t" << CT2A(errorSource) << " " << CT2A(m_errorMessageGroup[errorCode].errorDesc) << std::endl;
-	std::cerr << CT2A(errorSource) << " " << CT2A(m_errorMessageGroup[errorCode].errorDesc) <<   std::endl;
-}
-void IOManager::print_error_no_cerr(const ErrorManager::ECode& errorCode, const CString& errorSource) {
-	if (m_errLog.is_open())
-		m_errLog << CT2A(m_errorMessageGroup[errorCode].errorType) << "\t" << CT2A(get_current_time()) << "\t" << errorCode << "\t" << CT2A(errorSource) << " " << CT2A(m_errorMessageGroup[errorCode].errorDesc) << std::endl;
-}
-fix input parameters too
+Message list
+- change all
 
-_______POSTALCODE___________
+Output format
+- change run and err
 
-Inspect CComVariant.Date
-Need Data
-1. OID
-2. Date
-3. Postalpoint
+Send review request to Saito-san
 
-TODO:
+Do Yagi-san
 
-create new map for date + OID?
-compare to new map when shit happened?
+Send reply to Yagi-san
 
-// get column index
-	long postalCodeIndex = 0;
-	if (S_OK != ipPPCursor->Fields->FindField(m_PPFIELD, &postalCodeIndex)) {
-		CString errorMsg = _T("Postal Code field index");
-		m_IOManager->print_error(ErrorManager::ECode::E_FAILED_TO_GET_DATA, errorMsg);
-		return ErrorManager::RCode::R_FAILED_FATAL_ERROR;
-	}
-CComVariant postalCode;
-		if (S_OK != ipPPFeature->get_Value(postalCodeIndex, &postalCode)) {
-			CString errorMsg = _T("Postal Code");
-			m_IOManager->print_error(ErrorManager::ECode::E_FAILED_TO_GET_DATA, errorMsg);
-			return ErrorManager::RCode::R_FAILED_FATAL_ERROR;
-		}
-		// if postal code is already stored
-		if (PPCoordinates->insert(std::make_pair(postalCode.bstrVal, std::make_pair(orgX, orgY))).second == false) {
-			CString errorMsg = (CString)"Postal Code : " + postalCode.bstrVal + " has more than 1 record in POSTALPOINT,";
-			m_IOManager->print_error(ErrorManager::ECode::E_FAILED_TO_GET_DATA, errorMsg);
-			return ErrorManager::RCode::R_FAILED_FATAL_ERROR;
-		}
-		
-		ipPPFeature->get_OID(long);
+Send review request to Chinen-san
+
+Do partial manual for Cisco
