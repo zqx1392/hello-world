@@ -1,18 +1,5 @@
-Flow chart
-- Zoom in get postalpoint and add flow details
+Do batch
 
-Message list
-- change all
-
-Output format
-- change run and err
-
-Send review request to Saito-san
-
-Do Yagi-san
-
-Send reply to Yagi-san
-
-Send review request to Chinen-san
+Create thai pop manual
 
 Do partial manual for Cisco
