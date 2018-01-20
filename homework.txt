@@ -1,7 +1,7 @@
-do tax jap
+do tax jap - reprint passport + rewrite 1 page
 
-Create thai pop manual
+Create thai pop manual - write all text then add pic (do tool argument later)
 
 Do batch
 
-Do partial manual for Cisco
+Do partial manual for Cisco - text first
