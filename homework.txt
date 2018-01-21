@@ -5,3 +5,5 @@ Create thai pop manual - write all text then add pic (do tool argument later)
 Do batch
 
 Do partial manual for Cisco - text first
+
+Record Website-Watcher
