@@ -18,7 +18,6 @@ post facebook recruit
 
 Plan for ege
 - Finish tsukiyori 1 quick
-- Perform rance 3 within a month
 - play small game(s) before life crashed by 10 
 
 new webpage
@@ -32,9 +31,6 @@ For now.
 Japan
 - consume your mind to japanese pace.
 - jdrama
-
-Exercise
-- running or self weight
 
 Programming
 - Soon
@@ -50,6 +46,9 @@ AC Origin
 
 เรายินดีให้คำแนะนำปรึกษา ทั้งเรื่องเลือกชุดเช่าเครื่องดนตรี ห้องซ้อมดนตรีแบบไหนดี หรือจ้างวงดนตรีแนวไหน ให้มืออาชีพอย่างเราช่วยเหลือนะ
 
-check comiket for next year :Mitsumi(nuki) :P;P :Sis cest 
+check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
+
+Airplane available for night departure/arrival : AirAsiaX(20.40 return), ANA + JAL(perfect) 
+
 Hotel (8-13 Aug)
 Kiniro Loverich
