@@ -1,18 +1,8 @@
-http://www.chebucto.ns.ca/~ak621/DOS/BatBasic.html
-
 Inspect JCB
 
 advert webpage
 
 take guitar photo.
-
-Plan script lesson.
-- current example
-- what it can do
-- example
-- state clearly what we are going to teach you so you can do what
-- very easy step how to make
-- details... -> variable, if-else, for-while, function, etc.
 
 post facebook recruit
 
