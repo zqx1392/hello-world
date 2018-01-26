@@ -2,8 +2,6 @@ Inspect JCB
 
 advert webpage
 
-take guitar photo.
-
 post facebook recruit
 
 Plan for ege
