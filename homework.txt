@@ -1,6 +1,12 @@
 do tax jap - reprint passport + rewrite 1 page
 
 web scraping tool inspection
+Current candidate
+- Content Grabber (visual)
+- WebHarvy (visual)
+- Octoparse (?)
+- Connotate
+- import.io
 
 Edit first half content to be more dream selling
 -you can memo
