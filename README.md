@@ -37,6 +37,7 @@ AC Origin
 check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
 
 Airplane available for night departure/arrival : AirAsiaX(20.40 return), ANA + JAL(perfect) 
+If airplane < 10000 go, else if full service <15500, go
 
 Hotel (8-13 Aug)
 Kiniro Loverich
