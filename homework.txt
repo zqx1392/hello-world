@@ -2,11 +2,11 @@ do tax jap - reprint passport + rewrite 1 page
 
 web scraping tool inspection
 Current candidate
-- Content Grabber (visual)
-- WebHarvy (visual)
-- Octoparse (?)
+- Content Grabber (visual + good)
+- WebHarvy (visual + good)
+- Octoparse (visul + good)
 - Connotate
-- import.io
+- import.io : seem to be very easy but limited function
 
 Edit first half content to be more dream selling
 -you can memo
