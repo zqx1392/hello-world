@@ -14,6 +14,10 @@ test example
 -starbuck
 
 Edit first half content to be more dream selling
+- you can edit file
+- you can let it run successtively
+- you can schedule it!
+
 -you can memo
 -you can repeat for infinity
 -no spelling mistake
