@@ -8,6 +8,11 @@ Current candidate
 - Connotate
 - import.io : seem to be very easy but limited function
 
+test example
+-wongnai
+-mk restaurant
+-starbuck
+
 Edit first half content to be more dream selling
 -you can memo
 -you can repeat for infinity
