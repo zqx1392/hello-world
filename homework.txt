@@ -1,5 +1,3 @@
-do tax jap - reprint passport + rewrite 1 page
-
 web scraping tool inspection
 Current candidate
 - Content Grabber (visual + good)
