@@ -4,8 +4,6 @@ check health and check ear wax
 
 advert webpage
 
-post facebook recruit
-
 Plan for ege
 - Finish tsukiyori 1 quick
 - play small game(s) before life crashed by 10 
