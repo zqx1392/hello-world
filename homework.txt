@@ -1,12 +1,1 @@
-web scraping tool inspection
-Current candidate
-- Content Grabber (visual + good)
-- WebHarvy (visual + good)
-- Octoparse (visul + good)
-- Connotate
-- import.io : seem to be very easy but limited function
-
-test example
--wongnai
--mk restaurant
--starbuck
+do lesson 2 completly
