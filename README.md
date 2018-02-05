@@ -5,7 +5,7 @@ check health and check ear wax - param 9 or camilian
 advert webpage
 
 Plan for ege
-- Finish tsukiyori 2.2 quick
+- Finish tsukiyori 2.2 quick, and chill with yozora
 - Pick one (short) Nuki for listening practice?
 - Watch Jdrama or Ghibli? before life crashed by 10 
 
