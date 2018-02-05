@@ -5,8 +5,9 @@ check health and check ear wax - param 9 or camilian
 advert webpage
 
 Plan for ege
-- Finish tsukiyori 1 quick
-- play small game(s) before life crashed by 10 
+- Finish tsukiyori 2.2 quick
+- Pick one (short) Nuki for listening practice?
+- Watch Jdrama or Ghibli? before life crashed by 10 
 
 new webpage
 - add more content, copy good point from other (because we have none, we can start new!)
