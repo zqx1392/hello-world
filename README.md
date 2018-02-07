@@ -1,5 +1,3 @@
-https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree
-
 Inspect JCB - to submit evidence
 
 check health and check ear wax - param 9 or camilian
