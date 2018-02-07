@@ -1,5 +1,7 @@
 Inspect JCB - to submit evidence
 
+ask salapao to access mile
+
 check health and check ear wax - param 9 or camilian
 
 advert webpage
