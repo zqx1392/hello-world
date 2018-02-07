@@ -1,7 +1,3 @@
-https://pantip.com/profile/375741
-
-ask salapao to access mile
-
 check health and check ear wax - param 9 or camilian
 
 advert webpage
