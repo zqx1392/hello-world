@@ -1,7 +1,5 @@
 recontract DTAC TO EXTRACT MONEY FROM MY CREDIT
 
-self registration thai airways to inspect the case <- call center to recover my id
-
 get ktc credit infor
 
 call arms to watch black panther
@@ -43,7 +41,8 @@ AC Origin
 check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
 
 Airplane available for night departure/arrival : AirAsiaX(20.40 return), ANA + JAL(perfect) 
-If airplane < 11000 go, else if full service <16000, go
+If airplane < 11000 go, else if full service <16000, go GR33100
 
 Hotel (8-13 Aug)
 Kiniro Loverich
+
