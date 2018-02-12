@@ -1,6 +1,6 @@
 recontract DTAC TO EXTRACT MONEY FROM MY CREDIT
 
-self registration thai airways to inspect the case
+self registration thai airways to inspect the case <- call center to recover my id
 
 call arms to watch black panther
 
