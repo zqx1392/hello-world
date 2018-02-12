@@ -1,9 +1,11 @@
-buy shoes and bag?
+call arms to watch black panther
+
+call arms to holy august
+
+buy shoes and bag + chair this weekend
 
 advert webpage
 
-Plan for ege
-- Finish tsukiyori 2.2 quick, and chill with yozora
 - Watch Jdrama or Ghibli? before life crashed by 10 
 
 new webpage
