@@ -2,6 +2,8 @@ recontract DTAC TO EXTRACT MONEY FROM MY CREDIT
 
 self registration thai airways to inspect the case <- call center to recover my id
 
+get ktc credit infor
+
 call arms to watch black panther
 
 call arms to holy august
