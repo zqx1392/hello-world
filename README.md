@@ -1,5 +1,7 @@
 recontract DTAC TO EXTRACT MONEY FROM MY CREDIT
 
+self registration thai airways to inspect the case
+
 call arms to watch black panther
 
 call arms to holy august
