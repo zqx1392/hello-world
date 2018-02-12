@@ -1,13 +1,3 @@
-2/11
-lunch 					- 60
-snack(coke + tuarantao)	- 50
-evening					- 140
-
-2/12
-lunch					- 50
-snack(melonpan)			- 59
-evening (kuagai)		- 70
-
 total 		440000
 keep 		130000
 use 		290000
