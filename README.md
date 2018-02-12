@@ -1,9 +1,3 @@
-recontract DTAC TO EXTRACT MONEY FROM MY CREDIT
-
-get ktc credit infor
-
-call arms to watch black panther
-
 call arms to holy august
 
 buy shoes and bag + chair this weekend
