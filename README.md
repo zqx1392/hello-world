@@ -1,3 +1,5 @@
+recontract DTAC TO EXTRACT MONEY FROM MY CREDIT
+
 call arms to watch black panther
 
 call arms to holy august
