@@ -1,4 +1,4 @@
-call arms to holy august (kouhai, mood, etc.)
+go do krungsri
 
 buy shoes and bag + chair this weekend
 
@@ -39,4 +39,6 @@ If airplane < 11000 go, else if full service <16000, go GR33100
 
 Hotel (8-13 Aug)
 Kiniro Loverich
+
+call arms to holy august (kouhai, mood, etc.)
 
