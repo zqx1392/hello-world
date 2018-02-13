@@ -1,4 +1,4 @@
-call arms to holy august
+call arms to holy august (kouhai, mood, etc.)
 
 buy shoes and bag + chair this weekend
 
