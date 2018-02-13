@@ -1,5 +1,5 @@
-total 		440000
-keep 		130000
-use 		290000
+total 		490000
+keep 		160000
+use 		330000
 monthly		200000
-free		 90000
+free		 140000
