@@ -1,6 +1,4 @@
-go do krungsri
-
-cancel spotify + recover data
+spotify recover data
 
 buy shoes and bag + chair this weekend
 
