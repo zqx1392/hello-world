@@ -1,5 +1,7 @@
 go do krungsri
 
+cancel spotify + recover data
+
 buy shoes and bag + chair this weekend
 
 advert webpage
