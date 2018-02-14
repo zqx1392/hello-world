@@ -1,3 +1,5 @@
+ask thai airways for return sapporo tokyo
+
 total 		490000
 keep 		160000
 use 		330000
