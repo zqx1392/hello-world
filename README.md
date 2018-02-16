@@ -1,7 +1,5 @@
 spotify recover data
 
-last kenkyuu jap
-
 buy shoes and bag + chair this weekend
 
 advert webpage
@@ -39,7 +37,7 @@ check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
 Airplane available for night departure/arrival : AirAsiaX(20.40 return), ANA + JAL(perfect) 
 If airplane < 11000 go, else if full service <16000, go GR33100
 
-Hotel (8-13 Aug)
+Hotel (night 8-13 mor Aug)
 Kiniro Loverich
 
 call arms to holy august (kouhai, mood, etc.)
