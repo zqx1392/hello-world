@@ -1,5 +1,9 @@
 spotify recover data
 
+http://www.irasutoya.com/2015/08/blog-post_59.html
+
+update pptx2 and write tool manual
+
 buy shoes and bag + chair this weekend
 
 advert webpage
