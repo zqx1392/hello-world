@@ -1,5 +1,3 @@
-http://www.irasutoya.com/2015/08/blog-post_59.html
-
 buy shoes and bag + chair this weekend
 
 advert webpage
