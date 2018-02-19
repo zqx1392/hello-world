@@ -1,16 +1,13 @@
+inspect november travel (to decide return date)
+
 buy shoes and bag + chair this weekend
 
 advert webpage
-
-- Watch Jdrama or Ghibli? before life crashed by 10 
 
 new webpage
 - add more content, copy good point from other (because we have none, we can start new!)
 - post setA-E to facebook
 - buy ad on google
-
-For now.
-- start clannad. again.
 
 Japan
 - consume your mind to japanese pace.
@@ -20,6 +17,7 @@ Programming
 - Soon
 
 stardew valley, 
+utawarerumono,
 NieR:Automata,
 E3 games (shit I need ps4...)
 AC Origin
