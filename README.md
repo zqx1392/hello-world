@@ -1,4 +1,4 @@
-inspect november travel (to decide return date)
+visit mbk for ohta-san
 
 buy shoes and bag + chair this weekend
 
