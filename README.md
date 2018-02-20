@@ -1,3 +1,5 @@
+をををを取り組む日本？ (創意工夫になろうー＞ぎこちないところを)
+
 visit mbk for ohta-san
 
 buy shoes and bag + chair this weekend
