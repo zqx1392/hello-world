@@ -2,6 +2,8 @@
 
 visit mbk for ohta-san
 
+register thai airways in fri-sat
+
 buy shoes and bag + chair this weekend
 
 advert webpage
