@@ -1,5 +1,7 @@
 取り組む日本？ (創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
+train そう　ぞう
+
 register thai airways in fri-sat
 
 buy shoes and bag + chair this weekend
