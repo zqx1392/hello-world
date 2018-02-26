@@ -1,5 +1,9 @@
 取り組む日本？ (創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
+https://ja.forvo.com/search/%e3%81%95%e3%81%96%e6%b3%a2/
+
+https://ja.forvo.com/search/%e5%a1%91%e5%83%8f/
+
 train そう　ぞう
 
 register thai airways in fri-sat
