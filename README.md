@@ -2,10 +2,6 @@ settle before 14 march
 
 change website shit.
 
-+400 - 72 - 1080 - 231 - 95 - 15 - 55
-credit card - 750
-taxi - 350
-
 ご無沙汰です。パンです。
 
 近頃の状況は順調で、仕事がすんなりと進んでいます。
