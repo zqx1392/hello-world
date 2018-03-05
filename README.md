@@ -6,6 +6,8 @@ change website shit.
 credit card - 750
 taxi - 350
 
+send shuuhou first then ask about health money.
+
 取り組む日本？ (創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 buy shoes and bag + chair this weekend
