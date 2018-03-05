@@ -2,6 +2,10 @@ fix thai airways (pay + change date), reserve ticket for argo (check if this low
 
 change website shit.
 
++400 - 72 - 1080 - 231 - 95 - 15 - 55
+credit card - 750
+taxi - 350
+
 取り組む日本？ (創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 buy shoes and bag + chair this weekend
