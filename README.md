@@ -1,4 +1,4 @@
-fix thai airways (pay + change date), reserve ticket for argo (check if this lowest?)
+settle before 14 march
 
 change website shit.
 
