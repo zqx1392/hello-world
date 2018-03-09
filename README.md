@@ -1,5 +1,8 @@
 settle before 14 march
 
+buy shoes and bag + chair this weekend
+
+
 change website shit.
 
 ご無沙汰です。パンです。
@@ -10,11 +13,8 @@ change website shit.
 社員旅行については多少の困難があったものの海を存分に楽しめた。日焼けしたけれども。
 他には、3月2日に有給休暇を取りました。お知らせいたします。
 
-send shuuhou first then ask about health money.
-
 取り組む日本？ (創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-buy shoes and bag + chair this weekend
 
 advert webpage
 
