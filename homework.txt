@@ -9,11 +9,11 @@ to feel the star:
 august
 LIST FOR EMPTY TIME -> Kamakura, Yokohama, Nikko, Ueno, Tsukiji, Kouen, Fuji?
 
-octo, novem
+novem
 TOKYO
-SAPPORO
-HACHIMANTAI + TOWADA + MORIOKA <-> KYOTO + OSAKA
-ONUMA + NIKKO <-> HIROSHIMA + HIMEJI
+SAPPORO + hakodate 
+MORIOKA <-> KYOTO + OSAKA
+HIROSHIMA + HIMEJI
 HACHIMANTAI ONSEN <-> NOBORIBETSU
 
 total 		490000
