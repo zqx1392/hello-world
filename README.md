@@ -1,4 +1,4 @@
-+55 for everyday +5301bag,boot + sizzler + 773saboten +210hachiban +65rotee
++55 for everyday +5301bag,boot + sizzler + 773saboten +210hachiban +65rotee +15 corn +82 imchan
 
 settle before 14 march
 
