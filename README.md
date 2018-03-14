@@ -1,5 +1,7 @@
 give fucking book to warm
 
+think homework 2 for batch lesson 2
+
 change website shit.
 
 scout chair at central world... mendou
