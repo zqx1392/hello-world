@@ -1,4 +1,4 @@
-event 2 ticket -> get nk card
+event 2 ticket -> get nk card; how about try Parsley 3rd event...
 
 scout chair at central world... mendou
 
