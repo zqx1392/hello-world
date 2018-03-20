@@ -1,3 +1,5 @@
+event 2 ticket -> get nk card
+
 scout chair at central world... mendou
 
 order 2 rance book
