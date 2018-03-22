@@ -51,14 +51,7 @@ Hokkaido (2-3 days)
 	◎Atomic bomb musuem
 	◎Miyajima shrine
 	Another place in hiroshima
-
 〇Nara (1 day)
 	◎see deer
 	◎see temple
 	
-
-total 		490000
-keep 		160000
-use 		330000
-monthly		200000
-free		 140000
