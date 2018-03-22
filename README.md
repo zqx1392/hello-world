@@ -1,6 +1,6 @@
 event 2 ticket -> get surutoan nk card; 3 ticket -> get pars nk card
 
-scout chair at central world... mendou
+scout chair at central world... this saturday
 
 order 2 rance book
 
