@@ -1,3 +1,5 @@
+give train card to p'nin
+
 scout chair at central world... this saturday
 
 order 2 rance book
