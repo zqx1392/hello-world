@@ -1,5 +1,7 @@
 give train card to p'nin
 
+buy airplane ticket for argo
+
 scout chair at central world... this saturday
 
 order 2 rance book
