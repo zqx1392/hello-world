@@ -1,8 +1,12 @@
 finish class diagram
 
 finish class 4 (focus on practice... and practical example)
-create for work (read file and extract content, search file...)
+
 input case, and jump to other one... (input keyword, and print series with keyword)
+write batch file for one example tool (set list of input)
+loop to get every text file in input folder, and copy to destination
+Get list of file from exam.txt, and check if the file still exist in /example/folder or not, then type 1 file per line if not exist
+https://www.proprofs.com/quiz-school/quizshow.php?title=command-line-batch&q=1
 
 and sometimes please rely on google
 
