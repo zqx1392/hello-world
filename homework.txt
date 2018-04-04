@@ -1,6 +1,39 @@
-finish class diagram
 
-finish class 4 (focus on practice... and practical example)
+so PREVIOUS_POI need to store
+OBJECTID (for target), hn, name_id, actualaddress, coorx, coory?
+so.... <OBJECTID, STRUCT>
+
+get all NAME_ID from POI_INFO
+
+loop OFFICIAL_NAME
+	if OBJECTID == NAME_ID
+		record this OBJECTID + NAME
+
+loop POI_INFO again
+	if OBJECTID == CHILDPOI
+		continue
+	if ACTUALADDRESS is not null
+		if found in map PREVIOUS_POI and this.HN = that.hn
+			if PREVIOUS_POI.OBJECTID don't have in OFFICIAL_NAME
+				delete old, and insert new
+			else
+				continue
+	else if this.name_id is  not null
+		if this.name_id.name = that.name_id.name and this.hn = that.hn
+			if PREVIOUS_POI.OBJECTID don't have in OFFICIAL_NAME
+				delete old, and insert new
+			else
+				continue
+	else if HN = PREVIOUS_POI.HN
+		if this close to 1 of them
+			if PREVIOUS_POI.OBJECTID don't have in OFFICIAL_NAME
+				delete old, and insert new
+			else
+				continue
+		else
+			insert new
+	else
+		insert new
 
 input case, and jump to other one... (input keyword, and print series with keyword)
 write batch file for one example tool (set list of input)
@@ -12,8 +45,6 @@ and sometimes please rely on google
 
 homework... any trouble for managing file or doing something in work?
 if so... do it!!!
-
-do code like no tomorrow
 
 So yeah... find me a reason to travel during Feb-March, June-July
 
