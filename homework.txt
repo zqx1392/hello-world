@@ -2,6 +2,8 @@ finish class diagram
 
 finish class 4 (focus on practice... and practical example)
 create for work (read file and extract content, search file...)
+input case, and jump to other one... (input keyword, and print series with keyword)
+
 and sometimes please rely on google
 
 homework... any trouble for managing file or doing something in work?
