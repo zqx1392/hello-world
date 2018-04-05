@@ -1,3 +1,5 @@
+fix batch error on P'hug
+
 http://resources.esri.com/help/9.3/arcgisengine/arcobjects/esriGeodatabase/IFeatureClass.Insert_Example.htm
 http://help.arcgis.com/en/sdk/10.0/arcobjects_net/conceptualhelp/index.html#//00010000049v000000
 
