@@ -8,6 +8,7 @@ what I want to do this time
 * get last ending
 * contact ho raga <- with am, lucy & acy
 * get past katsuya
+* get other unmei card
 
 order 2 rance book
 
