@@ -1,9 +1,6 @@
 fix batch error on P'hug
 
-http://resources.esri.com/help/9.3/arcgisengine/arcobjects/esriGeodatabase/IFeatureClass.Insert_Example.htm
-http://help.arcgis.com/en/sdk/10.0/arcobjects_net/conceptualhelp/index.html#//00010000049v000000
-
-create insert function for last stage (add new records)
+think kenshou plan, and create last part of class diagram
 
 input case, and jump to other one... (input keyword, and print series with keyword)
 write batch file for one example tool (set list of input)
@@ -29,12 +26,6 @@ to feel the star:
 august
 LIST FOR EMPTY TIME -> Kamakura, Yokohama, Nikko, Ueno, Tsukiji, Kouen, Fuji?
 
-what I want to do this time
-* get japan quest/card
-* get free cities liber
-* get last ending
-* contact ho raga
-	
 Hokkaido (2-3 days) [snow? + cold sightseeing]
    ◎Sapporo (2)
 		◎Middle park
