@@ -2,6 +2,13 @@ buy airplane ticket for argo
 
 scout chair at central world... this saturday
 
+what I want to do this time
+* get japan quest/card
+* get free cities liber
+* get last ending
+* contact ho raga <- with am, lucy & acy
+* get past katsuya
+
 order 2 rance book
 
 取り組む日本？ (創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
