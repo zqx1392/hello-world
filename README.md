@@ -1,7 +1,5 @@
 buy airplane ticket for argo
 
-order chair from scb this saturday
-
 order 2 rance book
 
 what I want to do this time
