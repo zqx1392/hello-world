@@ -1,3 +1,5 @@
+change 10000 record to variable
+
 buy airplane ticket for argo
 
 order 2 rance book
