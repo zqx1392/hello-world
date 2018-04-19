@@ -19,20 +19,8 @@ test input 2.
 3. test that unique POI_INFO case work well or not
 - ACTUALADDRESS
 - ROADNAMEID
-2. test SQL
-- need to print total target number for SQL
-- test with stupid small number like OBJECTID < 10, HN=112
 
 test error format (to write 3rd doc)
-
-Result
-1. test populated fixed field value is correct or not (HNP, HNP_ENTRYPOINT, TRANSLATION, OFFICIAL_NAME)
-- control the tool to pick objectid specifily (for 3-4 obs)
-- run and record result
-2. test if populated dynamic field value is correct or not (HNP, HNP_ENTRYPOINT, TRANSLATION, OFFICIAL_NAME)
-- updated properly (HNP -> OFFICIAL_NAME -> TRANSLATION -> HNP_ENTRYPOINT)
-- source link properly
-- shape copied properly
 
 4. state time and memory for SINDY
 
