@@ -9,20 +9,6 @@ and sometimes please rely on google
 homework... any trouble for managing file or doing something in work?
 if so... do it!!!
 
-input
-3. test FGDB
-
-test input 2.
-1. test buffer_size (only simple distance test)
-- select 3 4 5 same hn point for test, record objectID
-- try 10 100 1000
-3. test that unique POI_INFO case work well or not
-- ACTUALADDRESS
-- ROADNAMEID
-
-test error format (to write 3rd doc)
-
-4. state time and memory for SINDY
 
 So yeah... find me a reason to travel during Feb-March, June-July
 
