@@ -1,18 +1,12 @@
 fix batch error on P'hug
 
-input case, and jump to other one... (input keyword, and print series with keyword)
-write batch file for one example tool (set list of input)
-loop to get every text file in input folder, and copy to destination
-Get list of file from exam.txt, and check if the file still exist in /example/folder or not, then type 1 file per line if not exist
-https://www.proprofs.com/quiz-school/quizshow.php?title=command-line-batch&q=1
-and sometimes please rely on google
-homework... any trouble for managing file or doing something in work?
-if so... do it!!!
-
-
-So yeah... find me a reason to travel during Feb-March, June-July
-
-THINK ABOUT ALL THE FOOD IN TOKYO AND EVERYWHERE
+-write batch file for one example tool (set list of input)
+-loop to get every text file in input folder, and copy to destination
+-Get list of file from exam.txt, and check if the file still exist in /example/folder or not, then type 1 file per line if not exist
+-https://www.proprofs.com/quiz-school/quizshow.php?title=command-line-batch&q=1
+ and sometimes please rely on google
+-homework... any trouble for managing file or doing something in work?
+ if so... do it!!!
 
 And find other country to travel please
 to feel the nature:
@@ -21,7 +15,7 @@ to feel the food:
 to feel the star:
 
 august
-LIST FOR EMPTY TIME -> Kamakura, Yokohama, Nikko, Ueno, Tsukiji, Kouen, Fuji?
+LIST FOR EMPTY TIME -> Kamakura, Yokohama, Nikko, Ueno, Tsukiji, Kouen
 
 Hokkaido (2-3 days) [snow? + cold sightseeing]
    ◎Sapporo (2)
