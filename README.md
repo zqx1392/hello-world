@@ -33,4 +33,6 @@ check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
 Hotel (night 8-13 mor Aug)
 Kiniro Loverich
 
+BUY ps4 related
+
 call arms to holy august (kouhai, mood, etc.)
