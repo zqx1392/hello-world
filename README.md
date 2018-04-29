@@ -1,7 +1,5 @@
 - buy airplane ticket for argo
 
-- order 2 rance book
-
 Japan
 - consume your mind to japanese pace.
 
@@ -21,6 +19,7 @@ new webpage
 
 
 check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
+2 rance book
 
 Hotel (night 8-13 mor Aug)
 - Kiniro Loverich
