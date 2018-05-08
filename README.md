@@ -1,3 +1,4 @@
+- take snack out of my bag
 - do photoshop for dried cut, completed website task
 - ask masuda-san how sure it is (cause i'm cancelling the plane)
 - consume your mind to japanese pace(also watch drama)
