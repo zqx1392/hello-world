@@ -1,6 +1,4 @@
-- take snack out of my bag
 - do photoshop for dried cut, completed website task
-- ask masuda-san how sure it is (cause i'm cancelling the plane)
 - consume your mind to japanese pace(also watch drama)
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
@@ -16,7 +14,7 @@ new webpage
 - buy ad on google
 
 check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
-:2 rance book
+:2-3 rance book
 
 Hotel (night 8-13 mor Aug)
 - Kiniro Loverich
