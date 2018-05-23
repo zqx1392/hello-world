@@ -13,21 +13,6 @@ new webpage
 - post setA-E to facebook
 - buy ad on google
 
-check comiket for next year :Mitsumi(nuki) :P;P :Sis cest :napata :tomoe
-:2-3 rance book
-
-Hotel (night 8-13 mor Aug)
-- Kiniro Loverich
-- IxShe tell?
-
-BUY ps4 related
-- utawarerumono
-- NieR
-- persona
-- god of war series
-
-call arms to holy august (kouhai, mood, golf, etc.)
-
 what I want to do this time (after rance update)
 * get japan quest/card
 * get free cities liber
