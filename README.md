@@ -1,19 +1,4 @@
-せっかくだから、予定を立てようか？
-
-・週末の前、バックアップさせ、すべての仕事・処理を終わらせると促す
-・DVDの用意など、サーバーにイメージをする
-・本日、ADに全部のユーザ(PC名)を消し、DVDを使う
-・入れるのは5分、レストアは20分、実行は15分→一人一列
-・推測時間：全部PC70台、3人、23x5=135分
-・後の処理、ドメイン・ユーザ登録5分・SiNDY-e5分、他の設定１０分
-・推測時間：14x20=280分→駄目
-
-結論：クライアント自分で後の処理をする必要がある
-
-検討事項
-※192.168.1.74などどうする？
-※MARだけのスピードは十分？
-
+- buy sapporo ticket for... ann or argo?
 
 - do photoshop for dried cut, completed website task
 - consume your mind to japanese pace(also watch drama)
