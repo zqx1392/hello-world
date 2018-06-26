@@ -1,6 +1,29 @@
 https://suumo.jp/chintai/bc_100095475245/
 https://suumo.jp/chintai/bc_100115903606/
 
+sup
+oracle - nice harass, strong nuke, protecter late
+cm - I like her
+tide - powerful ulti + harass early
+venge - early aggro + late buff
+
+
+roam
+riki - more dmg, more impact early
+pudge - drag someone
+pango - huge impact mid game
+
+off
+es - max totem and bully
+timber - rush blink or eul
+
+carry
+mk
+bone - strong 
+slark - specific
+tb - time to try playing
+
+
 - buy sapporo ticket for... ann or argo?
 - do photoshop for dried cut, completed website task
 - consume your mind to japanese pace(also watch drama)
