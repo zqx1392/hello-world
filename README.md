@@ -1,22 +1,27 @@
+- inspect my selected apart carefully (using jap_plan)
+- buy sapporo ticket for... ann or argo?
+
 - https://suumo.jp/chintai/bc_100095475245/
 - https://suumo.jp/chintai/bc_100115903606/
 - https://suumo.jp/chintai/bc_100106265984/
 - http://www.leopalace21.com/app/searchCondition/detail/r/0000021260106.html#pagetop
+
 sup
-oracle - nice harass, strong nuke, protecter late
-cm - I like her
-tide - powerful ulti + harass early
-venge - early aggro + late buff
+- oracle - nice harass, strong nuke, protecter late
+- cm - I like her
+- tide - powerful ulti + harass early
+- venge - early aggro + late buff
 
 
 roam
-riki - lane harass against fragile, get lot of exp quick -> boot, stick, farm when available
-pudge - drag someone
-pango - huge impact mid game, still shit early though
+- riki - lane harass against fragile, get lot of exp quick -> boot, stick, farm when available
+- pudge - drag someone
+- pango - huge impact mid game, still shit early though
 
 off
-es - totem and bully
-timber - rush blink or eul
+- es - totem and bully
+- timber - rush blink or eul
+- centuar - to stop someone like sniper, void
 
 carry
 mk
@@ -24,7 +29,6 @@ bone - strong
 slark - specific
 tb - time to try playing
 
-- buy sapporo ticket for... ann or argo?
 - do photoshop for dried cut, completed website task
 - consume your mind to japanese pace(also watch drama)
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
