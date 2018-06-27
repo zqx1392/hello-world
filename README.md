@@ -9,12 +9,12 @@ venge - early aggro + late buff
 
 
 roam
-riki - more dmg, more impact early
+riki - lane harass against fragile, get lot of exp quick -> boot, stick, farm when available
 pudge - drag someone
-pango - huge impact mid game
+pango - huge impact mid game, still shit early though
 
 off
-es - max totem and bully
+es - totem and bully
 timber - rush blink or eul
 
 carry
@@ -22,7 +22,6 @@ mk
 bone - strong 
 slark - specific
 tb - time to try playing
-
 
 - buy sapporo ticket for... ann or argo?
 - do photoshop for dried cut, completed website task
