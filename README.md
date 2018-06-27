@@ -1,6 +1,7 @@
-https://suumo.jp/chintai/bc_100095475245/
-https://suumo.jp/chintai/bc_100115903606/
-
+- https://suumo.jp/chintai/bc_100095475245/
+- https://suumo.jp/chintai/bc_100115903606/
+- https://suumo.jp/chintai/bc_100106265984/
+- http://www.leopalace21.com/app/searchCondition/detail/r/0000021260106.html#pagetop
 sup
 oracle - nice harass, strong nuke, protecter late
 cm - I like her
