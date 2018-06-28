@@ -1,6 +1,7 @@
 before go phase
 - omiyage
 - find phone company again..
+- Copy fallout4, music, other necessary things into ext hdd
 
 search phase
 - hisashi nichibotsu
@@ -8,6 +9,7 @@ search phase
 - store & place around location
 - furniture (aircon, closet, bed, cloth dryer)
 - internet
+- ofuro wide?
 
 visit phase
 - outlet position
@@ -16,6 +18,11 @@ visit phase
 - point out and record any small scratch details
 
 thing
+・maybe
+- pc
+- tv
+- ps4
+・essential
 - screwdriver
 - foodware (cup, plate, fork, spoon, chopstick, bowl)
 - ice maker
@@ -33,13 +40,12 @@ thing
 - basin + bucket + fukin
 - tissue
 - slipper
-- umbrealla
+- umbrella
 - exercise cloths
 - carpet (room + genkan)
 - vacuum cleaner + mope
 - dish cleaner
 - cooking tools (pan, pot, etc)
 - bath + toilet cleaner
-- tv?
 - towel
 - table or something to place things
