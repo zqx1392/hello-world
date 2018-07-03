@@ -1,3 +1,5 @@
+-find hotel for this dec
+
 -Copy ID card
 -หน้าปกสมุดบัญชี
 -บัตรประกันสังคม
