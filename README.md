@@ -1,4 +1,10 @@
-- buy sapporo ticket for... ann or argo?
+-Copy ID card
+-หน้าปกสมุดบัญชี
+-บัตรประกันสังคม
+-ทะเบียนบ้าน
+-Resume ภาษาอังกฤษ
+-Transcript
+-Certificate
 
 sup
 - oracle - nice harass, strong nuke, protecter late
