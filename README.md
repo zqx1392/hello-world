@@ -2,11 +2,11 @@
 
 UZRFH2
 
--Copy ID card
--หน้าปกสมุดบัญชี
--บัตรประกันสังคม
--ทะเบียนบ้าน
--Resume ภาษาอังกฤษ
+-Copy ID card ok
+-หน้าปกสมุดบัญชี ok
+-บัตรประกันสังคม ok
+-ทะเบียนบ้าน ok
+-Resume ภาษาอังกฤษ ok
 -Transcript
 -Certificate
 
