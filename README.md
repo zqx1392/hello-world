@@ -1,3 +1,5 @@
+-time to ask golf, mood, plum, etc about 8gatsu
+
 -find hotel for this dec
 
 UZRFH2
