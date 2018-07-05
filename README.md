@@ -1,6 +1,13 @@
 -time to ask golf, mood, plum, etc about 8gatsu
 
--find hotel for this dec
+https://www.booking.com/hotel/jp/route-inn-grand-asakusabashi.en-gb.html?aid=397616;label=gog235jc-index-XX-XX-XX-unspec-th-com-L%3Aen-O%3AwindowsS7-B%3Achrome-N%3Ayes-S%3Abo-U%3Asalo-H%3As;sid=d9eb249bbd8444a059b23167ef34a9ba;atlas_src=sr_iw_btn;checkin=2018-12-28;checkout=2019-01-01;dist=0;group_adults=1;group_children=0;nflt=pri%3D1%3Bpri%3D2%3B;no_rooms=1;room1=A;sb_price_type=total;type=total&
+https://www.agoda.com/tokyo-ueno-new-izu-hotel/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=a721ba79-2ca9-441d-89d4-00d51c335e4b&tabbed=true
+
+https://www.agoda.com/stayto/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tabbed=true
+https://www.agoda.com/ueno-first-city-hotel/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tabbed=true
+https://www.agoda.com/ueno-first-city-hotel/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tabbed=true
+https://www.agoda.com/smile-hotel-nihonbashi-mitsukoshimae/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tspTypes=8,7&tabbed=true
+https://www.agoda.com/hotel-hokke-club-asakusa/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tabbed=true
 
 UZRFH2
 
