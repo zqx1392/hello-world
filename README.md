@@ -1,4 +1,5 @@
--time to ask mood, plum, etc about 8gatsu
+- time to ask mood, plum, etc about 8gatsu
+- judge if hotel in miyajima is good enough + morning travel around is good, then tell Pao to reserv hotel
 
 https://www.agoda.com/ueno-first-city-hotel/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tabbed=true
 
