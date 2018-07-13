@@ -1,5 +1,6 @@
 - can we do credit card in jap?
 - Pao to reserv hotel (28 - 2)
+- buy phone while in japan
 
 sup
 - cm - I like her
