@@ -1,8 +1,5 @@
 - can we do credit card in jap?
 - Pao to reserv hotel (28 - 2)
-- also don't forget in-case-raining backup plan for nov
-
-
 
 sup
 - cm - I like her
