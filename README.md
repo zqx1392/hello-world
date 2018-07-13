@@ -1,4 +1,5 @@
-- Pao to reserv hotel
+- can we do credit card in jap?
+- Pao to reserv hotel (28 - 2)
 - also don't forget in-case-raining backup plan (for aug also)
 
 https://www.agoda.com/ueno-first-city-hotel/hotel/tokyo-jp.html?checkin=2018-12-28&los=4&adults=1&rooms=1&cid=1731620&searchrequestid=8b1ad201-9110-4137-9253-e18f51bc5f7d&tabbed=true
