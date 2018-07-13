@@ -1,4 +1,3 @@
-- get mufj certificate 
 - Pao to reserv hotel
 - also don't forget in-case-raining backup plan (for aug also)
 
