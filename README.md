@@ -1,4 +1,4 @@
-- can we do credit card in jap? -> rakuten, amazon is not bad... probably one more for nichijou or travel
+- can we do credit card in jap? -> rakuten, amazon-related, and bic
 - Pao to reserv hotel (28 - 2)
 - buy phone while in japan
 
