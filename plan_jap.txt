@@ -1,5 +1,5 @@
 before go phase
-- omiyage
+- omiyage -> perhap ask them via line
 - find phone company again..
 - Copy fallout4, music, other necessary things into ext hdd
 
