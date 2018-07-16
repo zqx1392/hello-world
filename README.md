@@ -5,10 +5,8 @@
 -	กรอกเอกสาร. แบบคำร้องกับแบบสอบถาม
 - ทะเบียนบ้าน
 
-- reserv novem hotel
-- transfer music/photo from phone
+- reserv novem hotel <- tokyo
 - rakuten, amazon-related, and bic
-- Pao to reserv hotel (28 - 2)
 - buy phone while in japan
 
 sup
