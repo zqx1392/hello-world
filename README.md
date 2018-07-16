@@ -5,6 +5,7 @@
 -	กรอกเอกสาร. แบบคำร้องกับแบบสอบถาม
 - ทะเบียนบ้าน
 
+- transfer music/photo from phone
 - rakuten, amazon-related, and bic
 - Pao to reserv hotel (28 - 2)
 - buy phone while in japan
