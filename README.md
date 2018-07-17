@@ -1,4 +1,5 @@
 - reserv novem hotel <- tokyo
+- time to ask all fri suitable date for meeting + if comi?
 - rakuten, amazon-related, and bic
 - buy phone while in japan
 
