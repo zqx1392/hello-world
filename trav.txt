@@ -2,13 +2,13 @@
 And find other country to travel please
 to feel the nature:		jap at summer
 to feel the people, city:	
-to feel the food:		
+to feel the food:		spain, italy, jap
 to feel the aurora: 		north country at winter
-to fell the star:		
+to feel the star:		
 
 :napata :tomoe :2-3 rance book :sayoasa-related
 - buy phone while in japan
-- food target : kare, katsu, tempura, ramen
+- food target : kare, katsu, tempura, ramen, unagi
 
 also use 食い巡り
 8
@@ -17,7 +17,7 @@ also use 食い巡り
 	ni	revisit aki
 9
 	am	morning tsukiji + pre-war effort
-	pm	meet some friends (v2) + gather omiyage + food tour
+	pm	meet some friends (v2) + gather omiyage + food tour <- still few, might tour aki for pre-gold
 	ni	gather omiyage + final plan
 9(v2)
 	am	morning tsukiji + pre-war effort
@@ -25,8 +25,8 @@ also use 食い巡り
 	ni	Back + final plan
 10
 	am	First war
-	pm	get thing up and food tour (or kouen)
-	ni	??
+	pm	get thing up and go grand food tour (or kouen)
+	ni	?? (call plum and mood to eat?)
 11
 	am	Second war (time to finally join it)
 	pm	yokohama
