@@ -1,5 +1,5 @@
 - time to ask all fri suitable date for meeting + if comi?
-- rakuten, amazon-related, and bic
+- rakuten, amazon-related (if can sudden just get), and bic
 - buy phone while in japan
 
 sup
