@@ -1,6 +1,26 @@
-- time to ask all fri suitable date for meeting + if comi?
-- rakuten, amazon-related (if can sudden just get), and bic
-- buy phone while in japan
+- search further for key and purple
+- time to ask all fri suitable date for meeting + if comi
+- consume your mind to japanese pace(also watch drama)
+- 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
+
+After fallout4 & AC4
+- bioshock
+- stardew valley 
+- AC Origin
+- Far cry 5
+
+new webpage
+- add more content, copy good point from other (because we have none, we can start new!)
+- post setA-E to facebook
+- buy ad on google
+
+what I want to do this time (after rance update)
+* get japan quest/card
+* get free cities liber
+* get last ending
+* contact ho raga <- with am, lucy & acy
+* get past katsuya
+* get other unmei card
 
 sup
 - cm - I like her
@@ -26,26 +46,3 @@ carry
 - https://suumo.jp/chintai/bc_100115903606/
 - https://suumo.jp/chintai/bc_100106265984/
 - http://www.leopalace21.com/app/searchCondition/detail/r/0000021260106.html#pagetop
-
-- do photoshop for dried cut, completed website task
-- consume your mind to japanese pace(also watch drama)
-- 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
-
-After fallout4 & AC4
-- bioshock
-- stardew valley 
-- AC Origin
-- Far cry 5
-
-new webpage
-- add more content, copy good point from other (because we have none, we can start new!)
-- post setA-E to facebook
-- buy ad on google
-
-what I want to do this time (after rance update)
-* get japan quest/card
-* get free cities liber
-* get last ending
-* contact ho raga <- with am, lucy & acy
-* get past katsuya
-* get other unmei card
