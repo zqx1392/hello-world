@@ -13,25 +13,21 @@ to feel the star:
 
 also use 食い巡り
 8
-	am	too early to check-in... do what? (meet friend seems hard, kamakura?)
-	pm	meet some friends, or keep traveling deep, or food tour, register phone
-	ni	revisit aki
+	am	nikko
+	pm	keep traveling deep
+	ni	revisit aki, maybe register phone
 9
-	am	morning tsukiji + pre-war effort
-	pm	meet some friends (v2) + gather omiyage + food tour <- still few, might tour aki for pre-gold
-	ni	gather omiyage + final plan
-9(v2)
-	am	morning tsukiji + pre-war effort
-	pm	toward Nikko
-	ni	Back + final plan
+	am	morning tsukiji + pre-war smalleffort
+	pm	kamakura
+	ni	aki + final plan
 10
 	am	First war
-	pm	get thing up and go grand food tour (or kouen)
-	ni	?? (call plum and mood to eat?)
+	pm	go grand food tour or yokohama
+	ni	yokohama + gather omiyage 
 11
 	am	Second war (time to finally join it)
-	pm	yokohama
-	ni	yokohama
+	pm	meet fri
+	ni	omiyage
 12
 	am	Final War
 	pm	第二部
