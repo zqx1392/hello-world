@@ -1,3 +1,4 @@
+- wstar and verify fri need for comi-goods (1-2 weeks before)
 - consume your mind to japanese pace(also watch drama)
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
