@@ -6,13 +6,11 @@ to feel the food:		spain, italy, jap
 to feel the aurora: 		north country at winter
 to feel the star:		
 
-:napata :tomoe :2-3 rance book :sayoasa-related
-
 also use 食い巡り
 8
 	am	kamakura
 	pm	enoshima
-	ni	revisit aki, maybe register phone
+	ni	revisit aki, buy sim (prob same)
 9
 	am	morning tsukiji > kamakura -> heritage
 	pm	to lake and waterfall
