@@ -1,6 +1,7 @@
 now
 - go invest rmf
 - listen in japan and speak in pace
+- enable first choice promotion
 
 later
 - buy koushinryou + ask yodthong + granblue
