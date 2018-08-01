@@ -1,12 +1,10 @@
 now
 - go invest rmf
 - listen in japan and speak in pace
-- write train and bus detail so i'm not going to get lost
 - learn camera technique
-- enable first choice promotion
 
 later
-- buy koushinryou + ask yodthong + granblue
+- ask yodthong + granblue
 - change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
