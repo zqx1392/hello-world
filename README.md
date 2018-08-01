@@ -2,6 +2,7 @@ now
 - go invest rmf
 - listen in japan and speak in pace
 - write train and bus detail so i'm not going to get lost
+- learn camera technique
 - enable first choice promotion
 
 later
