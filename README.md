@@ -2,6 +2,7 @@ now
 - go invest rmf
 - listen in japan and speak in pace
 - search for hat and small pillow
+- cancel mijiyama hotel, find new, plan mijiyama again
 - learn camera technique
 
 later
