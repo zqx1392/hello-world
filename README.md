@@ -1,6 +1,7 @@
 now
 - go invest rmf
 - listen in japan and speak in pace
+- search for hat and small pillow
 - learn camera technique
 
 later
