@@ -4,7 +4,7 @@ now
 - search for hat
 - change miyajima date, for cheaper?
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
-- also: use aperture for depth, port for people?
+- also: use aperture for depth, port for people?, edit for beauty color/focus
 
 later
 - ask yodthong + granblue
