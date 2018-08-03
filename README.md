@@ -1,8 +1,7 @@
 now
 - go invest rmf
 - listen in japan and speak in pace
-- make new mail for jp
-- search for hat and shirt
+- make new email for jp
 - change miyajima date
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
 - also: use aperture for depth, port for people?, edit for beauty color/focus
