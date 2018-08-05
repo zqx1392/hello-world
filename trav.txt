@@ -10,23 +10,23 @@ if free time, open yuuchou bank fast
 also shop key
 
 > uchiwa
-+ more shirt
+++ more shirt
 > sell makura
-+ get dtac net first for safety
-+ cap
-+ goza
-| toothbrush
+++ get dtac net first for safety
+++ cap
+++ goza
++ toothbrush
 + canteen
-+ small pillow for airplane + comi wait
-| sun lotion
-| sock, under, cloth
+++ small pillow for airplane + comi wait
+++ sun lotion
+++ sock, under, cloth
 | plastic bag (store shits)
 | slippers?
-+ power bank
-| my small book
-| napkin
-- something to kill time during waiting...
-| plug adapter for notebook
+++ power bank
+++ my small book
+++ napkin
+++ something to kill time during waiting...
+++ plug adapter for notebook
 + แม็กกี้ขวดดำฝากแดง
 + ซีอิ้วขาวเห็ดหอม กลาง
 
