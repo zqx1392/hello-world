@@ -1,12 +1,18 @@
-now
-- go invest rmf
+hot
 - where the fuck is my hango?
-- listen in japan and speak in pace
+- set all restaurant into google map
+- finalize catalog map (at the least) for printing
+- pack things up (koushinryou + towel also)
+- find place to do bank near kinshichou
+- ask yodthong + granblue
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
 - also: use aperture for depth, port for people?, edit for beauty color/focus
 
+now
+- go invest rmf
+- listen in japan and speak in pace
+
 later
-- ask yodthong + granblue
 - change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
