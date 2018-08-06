@@ -1,9 +1,7 @@
 hot
 - where the fuck is my hango?
-- set all restaurant into google map
 - finalize catalog map (at the least) for printing
 - pack things up (koushinryou + towel also)
-- find place to do bank near kinshichou
 - ask yodthong + granblue
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
 - also: use aperture for depth, port for people?, edit for beauty color/focus
