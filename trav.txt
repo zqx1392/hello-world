@@ -9,6 +9,8 @@ to feel the star:
 if free time, open yuuchou bank fast
 also shop key
 
+- umbrella
+? headphone
 > uchiwa
 ++ more shirt
 > sell makura
@@ -31,8 +33,8 @@ also shop key
 + ซีอิ้วขาวเห็ดหอม กลาง
 
 8
-	am	kamakura
-	pm	enoshima
+	am	sumida suisokukan
+	pm	aki and bank + food tour
 	ni(FT)	revisit aki, buy sim (prob same)
 9
 	am	morning tsukiji > kamakura -> heritage
@@ -51,7 +53,7 @@ also shop key
 	pm	第二部
 	ni(FT)	A FEAST (or party if many friends)
 13
-	am(FT)	Check out
+	am(FT)	Check out + to eno, kama if hurry
 	pm(FT)	Curry + Post-war effort + Ueno
 	ni	Return
 --------------------------------------------
