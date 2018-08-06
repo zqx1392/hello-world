@@ -1,6 +1,4 @@
 hot
-- where the fuck is my hango?
-- finalize catalog map (at the least) for printing
 - pack things up (koushinryou + towel also)
 - ask yodthong + granblue
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
