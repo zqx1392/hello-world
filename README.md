@@ -1,5 +1,4 @@
 hot
-- buy... compression bag
 - fata morgana + gyakuten 5
 - pack things up (koushinryou + towel also)
 - ask yodthong + granblue
