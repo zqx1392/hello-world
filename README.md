@@ -1,5 +1,6 @@
 hot
 - fata morgana + gyakuten 5
+- change check-in date
 - pack things up (koushinryou + towel also)
 - ask yodthong + granblue
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
