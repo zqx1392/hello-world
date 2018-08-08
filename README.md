@@ -1,4 +1,7 @@
 hot
+- find place to buy nin-san and mom
+- at least find a way to create yuucho
+- go sunshine
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
 - also: use aperture for depth, port for people?, edit for beauty color/focus
 
