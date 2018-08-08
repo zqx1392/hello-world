@@ -1,7 +1,14 @@
-hot
-- find place to buy nin-san and mom
-- at least find a way to create yuucho
-- create area of granblue + sakura
+8/9
+- wake fast to decide course
+- kamakura whole day or
+- tsukiji (if not rain)
+- yuubin 9.30
+- shibuya until 11.00
+- to kamakura or
+- buy sk2, nin-san from kiyoshi
+- raid unagi or tendon or katsu
+- aki eternal tour
+- also pack daki-maku to sell
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
 - also: use aperture for depth, port for people?, edit for beauty color/focus
 
