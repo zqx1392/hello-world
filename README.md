@@ -1,14 +1,11 @@
-8/9
-- wake fast to decide course
-- kamakura whole day or
-- tsukiji (if not rain)
-- yuubin 9.30
-- shibuya until 11.00
-- to kamakura or
-- buy sk2, nin-san from kiyoshi
-- raid unagi or tendon or katsu
-- aki eternal tour
-- also pack daki-maku to sell
+8/11
+- bring sauce for fuck sake
+- visit around 10 to buy objective + kigyou
+- out around 13-14 and back to hotel
+- go to tokyo to find things for women
+- visit fri 16.30
+- hanabi
+- sleep fast for last war
 - use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
 - also: use aperture for depth, port for people?, edit for beauty color/focus
 
