@@ -1,9 +1,5 @@
 8/11
-- bring sauce for fuck sake
 - time to get money from bank
-- visit around 10 to buy objective + kigyou
-- out around 13-14 and back to hotel
-- go to tokyo to find things for women
 - visit fri 16.30
 - hanabi
 - sleep fast for last war
