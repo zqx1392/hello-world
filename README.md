@@ -2,6 +2,7 @@
 - time to get money from bank + prepare money for miyage(10000-20000 yen)
 - eat lunch with fri and travel aki for a while
 - buy things for pao,
+- search tiv
 
 now
 - go invest rmf
