@@ -1,14 +1,12 @@
-8/11
-- time to get money from bank
-- visit fri 16.30
-- hanabi
-- sleep fast for last war
-- use pro: iso for dark/too light envi, shutter for moving object, ev for light/dark object(sunset), also test hdr speed
-- also: use aperture for depth, port for people?, edit for beauty color/focus
+8/12
+- time to get money from bank + prepare money for miyage(10000-20000 yen)
+- eat lunch with fri and travel aki for a while
+- buy things for pao,
 
 now
 - go invest rmf
 - listen in japan and speak in pace
+- time to listen normal people conver in japan
 
 later
 - change my ticket to ann phc52r
