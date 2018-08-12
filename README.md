@@ -7,6 +7,7 @@ now
 - go invest rmf
 - listen in japan and speak in pace
 - time to listen normal people conver in japan
+- find nakama for comiket
 
 later
 - change my ticket to ann phc52r
