@@ -6,6 +6,7 @@
 
 now
 - go invest rmf
+- fix my black eye
 - listen in japan and speak in pace
 - time to listen normal people conver in japan
 - find nakama for comiket
