@@ -1,20 +1,13 @@
-8/12
-- time to get money from bank + prepare money for miyage(10000-20000 yen)
-- eat lunch with fri and travel aki for a while
-- buy things for pao,
-- search tiv
-
 now
 - go invest rmf
-- fix my black eye
+- fix my black eye <- go to doc
 - listen in japan and speak in pace
-- time to listen normal people conver in japan
-- find nakama for comiket
 
 later
 - change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - find namaka for comiket
+- find hotel for august
 
 After fallout4 & AC4
 - bioshock
@@ -34,26 +27,6 @@ what I want to do this time (after rance update)
 * contact ho raga <- with am, lucy & acy
 * get past katsuya
 * get other unmei card
-
-sup
-- cm - I like her
-- tide - powerful ulti + harass early
-- venge - early aggro + late buff
-
-roam
-- riki - lane harass against fragile, get lot of exp quick -> boot, stick, farm when available
-- pudge - drag someone
-- pango - huge impact mid game, still shit early though
-
-off
-- es - totem and bully
-- timber - rush blink or eul
-- centuar - to stop someone like sniper, void
-
-carry
-- bone - strong 
-- slark - specific
-- tb - time to try playing
 
 - https://suumo.jp/chintai/bc_100095475245/
 - https://suumo.jp/chintai/bc_100115903606/
