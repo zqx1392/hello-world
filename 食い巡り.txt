@@ -24,6 +24,18 @@
 	ni	Return
 --------------------------------------------
 
+Spent
+Hotel - 	20540
+Trans - 	12000
+Attract - 	3400
+Eat -		14000
+Small -		3000
+c94 -		38500
+Omiyage - 	10000
+Total -		102000
+Airplane -	11000(baht) -> 34000 (yen)
+.... 136000 yen -> 41000 baht
+
 Conclusion
 Kari Kari - my best
 Kaneko - Great Tendon
