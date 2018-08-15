@@ -1,5 +1,6 @@
 now
 - go invest rmf
+- make myself feel better by calculating money
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
 
