@@ -1,6 +1,5 @@
 now
 - go invest rmf
-- make myself feel better by calculating money + old kyuuryou record
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
 
