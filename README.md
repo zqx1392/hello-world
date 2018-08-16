@@ -8,7 +8,7 @@ now
 later
 - change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
-- find namaka for comiket
+- find namaka for comiket　<- via discord, 4chan, goshuujin,
 - find hotel for august
 
 After fallout4 & AC4
