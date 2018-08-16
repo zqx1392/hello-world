@@ -1,6 +1,7 @@
 now
 - go invest rmf
 - take powder with me + open latest money statement
+- check received japan-related document
 - time to  tax
 - journey into c94-after doujin
 - fix my black eye <- go to doc
