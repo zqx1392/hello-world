@@ -1,6 +1,5 @@
 now
-- go invest rmf
-- time to  tax -> need around 30000 baht for 5% deduction
+- go invest rmf -> 5% for reduction
 - journey into c94-after doujin
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
@@ -8,7 +7,7 @@ now
 later
 - change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
-- find namaka for comiket　<- via discord, 4chan, goshuujin,
+- find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter)
 - find hotel for august
 
 After fallout4 & AC4
