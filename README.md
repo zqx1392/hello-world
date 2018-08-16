@@ -1,5 +1,6 @@
 now
 - go invest rmf
+- take powder with me + open latest money statement
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
 
