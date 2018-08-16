@@ -2,6 +2,7 @@ now
 - go invest rmf
 - take powder with me + open latest money statement
 - time to  tax
+- journey into c94-after doujin
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
 
