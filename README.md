@@ -1,8 +1,6 @@
 now
 - go invest rmf
-- take powder with me + open latest money statement
-- check received japan-related document
-- time to  tax
+- time to  tax -> need around 30000 baht for 5% deduction
 - journey into c94-after doujin
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
