@@ -1,9 +1,9 @@
 now
-- go invest rmf -> 5% for reduction
-- send tiv book and powder into my bag TO NOT FORGET
+- (sat)go invest rmf -> 5% for reduction
+- (sat-sun)send tiv book and powder into my bag TO NOT FORGET
+- (sat)fix my black eye
+- time to seriously listen jap and capture pitch
 - journey into c94-after doujin
-- fix my black eye <- go to doc
-- listen in japan and speak in pace
 
 later
 - change my ticket to ann phc52r
