@@ -1,5 +1,6 @@
 now
 - go invest rmf -> 5% for reduction
+- send tiv book and powder into my bag TO NOT FORGET
 - journey into c94-after doujin
 - fix my black eye <- go to doc
 - listen in japan and speak in pace
