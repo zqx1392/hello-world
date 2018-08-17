@@ -1,9 +1,9 @@
 now
 - (sat)go invest rmf -> 5% for reduction
 - (sat-sun)send tiv book and powder into my bag TO NOT FORGET
-- (sat-sun)cut the hair
 - (sat-sun)buy omiyage
 - (sat)fix my black eye
+- (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
 - journey into c94-after doujin
 
