@@ -1,12 +1,10 @@
 now
-- (sat)go invest rmf -> 5% for reduction
-- (sat-sun)send tiv book and powder into my bag TO NOT FORGET
-- (sat-sun)buy omiyage
-- (sat)fix my black eye
+- (weekday)buy omiyage
+- bnk 48 shop -> new single (this week?)
+- time to cancel and acquire my miles
+- (sun)fix my black eye -> visit hosp
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
-- journey into c94-after doujin
-
 later
 - change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
