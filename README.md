@@ -3,7 +3,6 @@ now
 - bnk 48 shop -> new single (this week?)
 - wait return mile and reserve
 - install money calc on notebook
-- (sun)fix my black eye -> visit hosp
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
 later
