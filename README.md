@@ -1,7 +1,7 @@
 now
 - (weekday)buy omiyage
 - bnk 48 shop -> new single (this week?)
-- time to cancel and acquire my miles
+- wait return mile and reserve
 - install money calc on notebook
 - (sun)fix my black eye -> visit hosp
 - (next sat-sun)cut the hair
