@@ -1,12 +1,10 @@
 now
 - (weekday)buy omiyage
 - bnk 48 shop -> new single (this week?)
-- wait return mile and reserve
-- install money calc on notebook
+- wait return mile and reserve phc52r
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
 later
-- change my ticket to ann phc52r
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter) -- at least find 1 conncection (kigyou, etc.)
 - find hotel for august
