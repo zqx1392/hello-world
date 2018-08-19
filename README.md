@@ -1,5 +1,6 @@
 now
-- (weekday)buy omiyage
+- buy omiyage
+- prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
 - wait return mile and reserve phc52r
 - (next sat-sun)cut the hair
