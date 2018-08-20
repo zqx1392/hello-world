@@ -1,3 +1,4 @@
+1 work cloth, 2 casual cloth on backpack
 cloth
 -> work cloth xxx pc
 -> casual xxx pc
@@ -32,6 +33,7 @@ before go phase
 28-31
 - food tour, karikari, unagi
 - get things from fri and possibly dump them to yuucho <- buy puchipuchi and danbooru
+- maybe get only senrihin, get bag back to me for multi use
 - prepare aisatsu script on 29 for 30
 - sell my product..? (can hold if i don't like it)
 - raid aki like no tomorrow
