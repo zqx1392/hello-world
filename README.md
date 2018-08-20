@@ -1,5 +1,5 @@
 now
-- buy omiyage
+- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san, for all (in the future comiket is okay))
 - prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
 - wait return mile and reserve phc52r
