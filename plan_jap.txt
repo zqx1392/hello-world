@@ -1,9 +1,10 @@
-1 work cloth, 2 casual cloth on backpack
+1 work cloth, 2 casual cloth + few sock underwear hankar on backpack
 cloth
 -> work cloth xxx pc
 -> casual xxx pc
 -> winter xxx pc (later at novem)
 -> hat
+-> few sock, underwear at possible
 work shoe, walk shoe, flipflop
 shaver
 fluffly cat doll?
