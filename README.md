@@ -10,6 +10,7 @@ now
 later
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter) -- at least find 1 conncection (kigyou, etc.)
+- search dojin + illust + jap + etc
 - find hotel for august
 
 After fallout4 & AC4
