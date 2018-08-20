@@ -2,7 +2,6 @@
 cloth
 -> work cloth xxx pc
 -> casual xxx pc
--> winter xxx pc (later at novem)
 -> hat
 -> few sock, underwear at possible
 work shoe, walk shoe, flipflop
