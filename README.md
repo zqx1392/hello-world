@@ -1,6 +1,7 @@
 now
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san, for all (in the future comiket is okay))
 - thai-soap, etc, seem right
+- ข้าวตัง กล้วยกรอบ oatchoco, ยาดม,ทุเรียนทอด ปลาหมึกบด, pretz ลาบ
 - prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
 - wait return mile and reserve phc52r
