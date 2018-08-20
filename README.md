@@ -1,10 +1,9 @@
 now
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san, for all (in the future comiket is okay))
-- thai-soap, etc, seem right
-- ข้าวตัง กล้วยกรอบ oatchoco, ยาดม,ทุเรียนทอด ปลาหมึกบด, pretz ลาบ
+- thai-soap, oatchoco,เรียนทอด ปลาหมึกบด
 - prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
-- wait return mile and reserve phc52r
+- reserve phc52r m7s4q5
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
 
