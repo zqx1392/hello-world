@@ -4,7 +4,7 @@ now
 - prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
 - reserve phc52r m7s4q5
-
+- buy new ais phone for use
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - thai-soap, เรียนทอด ปลาหมึกบด
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - (next sat-sun)cut the hair
