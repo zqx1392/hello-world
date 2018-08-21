@@ -1,12 +1,8 @@
 now
-- confirm about touhokudenki
-- contact nut, peiko, kyo beforehand
 - prepare bag (estimate space for my shuumi)
-- bnk 48 shop -> new single (this week?)
-- reserve phc52r m7s4q5
+- should tell ann now, reserve phc52r m7s4q5
 - buy new ais phone for use
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - thai-soap, เรียนทอด ปลาหมึกบด
-- (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
 
@@ -14,6 +10,7 @@ later
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter) -- at least find 1 conncection (kigyou, etc.)
 - search dojin + illust + jap + etc
+- (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - find hotel for august
 
 After fallout4 & AC4
