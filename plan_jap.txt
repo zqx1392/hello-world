@@ -1,7 +1,7 @@
 1 work cloth, 2 casual cloth + few sock underwear hankar on backpack
 cloth
--> work cloth xxx pc
--> casual xxx pc
+-> work cloth xxx pc 0%
+-> casual xxx pc 60%
 -> hat
 -> few sock, underwear at possible
 work shoe, walk shoe, flipflop
