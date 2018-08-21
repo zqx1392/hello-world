@@ -1,10 +1,12 @@
 now
-- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - thai-soap, เรียนทอด ปลาหมึกบด
-- (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - confirm about touhokudenki
+- contact nut, peiko, kyo beforehand
 - prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
 - reserve phc52r m7s4q5
+
+- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - thai-soap, เรียนทอด ปลาหมึกบด
+- (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
 
