@@ -1,7 +1,7 @@
 now
 - prepare bag (estimate space for my shuumi)
 - should tell ann now, reserve phc52r m7s4q5
-- buy new ais phone for use
+- buy new ais phone for use, also shutdown dtac
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - thai-soap, เรียนทอด ปลาหมึกบด
 - (next sat-sun)cut the hair
 - time to seriously listen jap and capture pitch
