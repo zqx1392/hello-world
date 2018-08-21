@@ -1,11 +1,13 @@
 1 work cloth, 2 casual cloth + few sock underwear hankar on backpack
 cloth
 -> work cloth xxx pc 0%
--> casual xxx pc 60%
+-> casual 60% (3-4 shirt, 3-4 short, 3 jeans, 2-3 long-shirt, 2-3 inner)
 -> hat
 -> few sock, underwear at possible
 work shoe, walk shoe, flipflop
-shaver
+universal plug (small)
+shaver, earpick
+umbrella?
 fluffly cat doll?
 notebook + mouse + headphone
 omiyage
@@ -75,6 +77,7 @@ visit phase
 - point out and record any small scratch details
 - do 損傷確認
 - internet question (how to regis, use)
+- do insurance for health & life
 
 thing
 ・maybe
