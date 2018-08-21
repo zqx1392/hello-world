@@ -1,6 +1,6 @@
 now
-- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san, for all (in the future comiket is okay))
-- thai-soap, เรียนทอด ปลาหมึกบด
+- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - thai-soap, เรียนทอด ปลาหมึกบด
+- (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - prepare bag (estimate space for my shuumi)
 - bnk 48 shop -> new single (this week?)
 - reserve phc52r m7s4q5
