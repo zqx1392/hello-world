@@ -1,4 +1,5 @@
 now
+- prepare document tonight
 - should tell ann now, reserve phc52r m7s4q5
 - bnk for small hope
 - buy new ais phone for use, also shutdown dtac
