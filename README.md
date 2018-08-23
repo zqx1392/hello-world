@@ -1,8 +1,9 @@
 now
-- reserve phc52r m7s4q5
 - buy new ais phone for use, also shutdown dtac
-- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
+- track after-war
+- reserve phc52r m7s4q5
 - (sat-sun)cut the hair
+- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
 - (sat-sun)prepare bag (estimate space for my shuumi) <- work cloth later
 - time to seriously listen jap and capture pitch
 
