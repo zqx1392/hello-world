@@ -2,11 +2,9 @@ cloth
 -> work cloth xxx pc 0%
 -> casual 60% (3-4 shirt, 3-4 short, 3 jeans, 2-3 long-shirt, 2-3 inner)
 -> hat
--> few sock, underwear at possible
+-> few sock, underwear, hankar at possible
 towel
-hankar
 work shoe, walk shoe, flipflop
-universal plug (small)
 shaver, earpick
 umbrella?
 fluffly cat doll?
@@ -17,11 +15,6 @@ omiyage
 -> 2 pretz
 -> 3 ya mong
 -> 1 octopus
-documentssss
--> about myself
--> previous living record
--> need for this time
--> etc
 
 shihin
 -> senrihin
@@ -82,10 +75,12 @@ visit phase
 
 thing
 ・maybe
-- pc
-- tv
-- ps4
+- pc <- expensive if great game coming, cheap just for easy use with tv support
+- tv <- if no hdmi - cable support or fucking suck
+- ps4 <- probably gonna delay it... for ps5?
+- bike
 ・essential
+
 - screwdriver
 - foodware (cup, plate, fork, spoon, chopstick, bowl)
 - ice maker
