@@ -3,6 +3,8 @@ cloth
 -> casual 60% (3-4 shirt, 3-4 short, 3 jeans, 2-3 long-shirt, 2-3 inner)
 -> hat
 -> few sock, underwear at possible
+towel
+hankar
 work shoe, walk shoe, flipflop
 universal plug (small)
 shaver, earpick
