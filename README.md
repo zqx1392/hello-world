@@ -1,6 +1,7 @@
 now
 - buy new ais phone for use, also shutdown dtac
 - track after-war
+- discuss lmf with pao
 - reserve phc52r m7s4q5
 - (sat-sun)cut the hair
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
