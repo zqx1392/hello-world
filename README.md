@@ -1,13 +1,11 @@
 now
 - discuss lmf with pao
 - update money app and transfer to note
-- register my flight to my gr
--touroku sofmap....?
 - reserve phc52r m7s4q5
 - (sat-sun)cut the hair
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
 - (sat-sun)prepare bag (estimate space for my shuumi) <- work cloth later
-- time to seriously listen jap and capture pitch - 会話　聞き流し
+- time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 
 later
 - track after-war : vivid + milky hichoko+star+MIMITUNO
