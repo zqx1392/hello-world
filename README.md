@@ -1,6 +1,7 @@
 now
 - discuss lmf with pao
 - update money app and transfer to note
+- register my flight to my gr
 - reserve phc52r m7s4q5
 - (sat-sun)cut the hair
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
