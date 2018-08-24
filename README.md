@@ -7,7 +7,7 @@ now
 - (sat-sun)cut the hair
 - buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
 - (sat-sun)prepare bag (estimate space for my shuumi) <- work cloth later
-- time to seriously listen jap and capture pitch
+- time to seriously listen jap and capture pitch - 会話　聞き流し
 
 later
 - track after-war : vivid + milky hichoko+star+MIMITUNO
