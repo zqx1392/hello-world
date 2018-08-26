@@ -1,8 +1,7 @@
 now
 - discuss lmf with pao
 - reserve phc52r m7s4q5
-- buy omiyage (for anime-bu(aki?), for yamasaki-jinji-san - ปลาหมึกบด
-- (sat-sun)prepare bag (estimate space for my shuumi) <- work cloth later
+- (sat-sun)prepare bag (estimate space for my shuumi)
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 
 later
