@@ -1,5 +1,7 @@
 now
-- reserve phc52r m7s4q5
+- last confirm with ann ticket
+- pack last cloth + under + hankar, and weight
+- eat the hell choco and upload last fo4 save
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 
 later
