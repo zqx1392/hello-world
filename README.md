@@ -1,7 +1,5 @@
 now
-- discuss lmf with pao
 - reserve phc52r m7s4q5
-- (sat-sun)prepare bag (estimate space for my shuumi)
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 
 later
