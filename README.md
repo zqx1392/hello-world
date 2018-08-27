@@ -1,11 +1,11 @@
 now
 - last confirm with ann ticket
-- pack last cloth + under + hankar, and weight
 - eat the hell choco and upload last fo4 save
+- track after-war : vivid + milky hichoko+star+MIMITUNO
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 
 later
-- track after-war : vivid + milky hichoko+star+MIMITUNO
+
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter) -- at least find 1 conncection (kigyou, etc.)
 - search dojin + illust + jap + etc
