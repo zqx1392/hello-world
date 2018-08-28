@@ -1,5 +1,6 @@
 now
 - last confirm with ann ticket
+- check nenkin if really fine (have)
 - eat the hell choco and upload last fo4 save
 - track after-war : vivid + milky hichoko+star+MIMITUNO
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
