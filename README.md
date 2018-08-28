@@ -4,6 +4,21 @@ now
 - track after-war : vivid + milky hichoko+star+MIMITUNO
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 
+会った場合：
+前回の本社訪問から一年ぶりのご無沙汰でした
+より一層プログラム開発能力を向上するために、TDCに派遣され、来月から仕事を始めます。
+色々なことを習って積んだ経験をIncrementPで活かしたいと思います
+再び親密な環境で働けて皆に感謝しております。
+
+初めて直接に会う場合：
+メールのやりとりをしていましたけど、初めて直接に会えました。
+パンです。(いろいろな手続き)お世話になっております。
+ほんの気持ちですが、よろしければお受け取りください。
+今後ともよろしくお願いします。
+
+宮本へ
+参加できなくて申し訳ありません。
+
 later
 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
@@ -11,6 +26,8 @@ later
 - search dojin + illust + jap + etc
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - find hotel for august
+
+
 
 After fallout4 & AC4
 - bioshock
