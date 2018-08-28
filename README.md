@@ -4,6 +4,7 @@ now
 - eat the hell choco and upload last fo4 save
 - track after-war : vivid + milky hichoko+star+MIMITUNO
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
+-3YGRT8S5
 
 会った場合：
 前回の本社訪問から一年ぶりのご無沙汰でした
