@@ -1,4 +1,5 @@
 now
+- get erewhon, sell set, and buy summer + hon later
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 -3YGRT8S5
 
