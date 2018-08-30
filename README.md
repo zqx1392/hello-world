@@ -1,5 +1,4 @@
 now
-- track after-war : vivid + milky hichoko+star+MIMITUNO
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 -3YGRT8S5
 
