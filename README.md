@@ -1,5 +1,4 @@
 now
-- get erewhon, sell set, and buy summer + hon later
 - time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
 -3YGRT8S5
 
@@ -10,8 +9,6 @@ later
 - search dojin + illust + jap + etc
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - find hotel for august
-
-
 
 After fallout4 & AC4
 - bioshock
