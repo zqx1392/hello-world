@@ -14,9 +14,9 @@ thing
 - hondana(?)
 
 ・essential
-- hair dryer
-- vacuum
-- towel
+- hair dryer *
+- vacuum *
+- towel *
 - something to hold hand towel in toilet + kitchen
 - something to hold towel on toilet door
 - basin + broom
