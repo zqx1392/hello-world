@@ -1,4 +1,5 @@
 sat
+- slipper
 - order my number card <- wtf
 - scout shit
 - eat curry
