@@ -1,5 +1,7 @@
 now
-- time to seriously listen jap and capture pitch - 会話　聞き流し　チャットルーム
+- 15 min fast write
+- time to seriously listen jap and capture pitch 
+- 会話　聞き流し　チャットルーム
 -3YGRT8S5
 
 later
@@ -15,11 +17,6 @@ After fallout4 & AC4
 - stardew valley 
 - AC Origin
 - Far cry 5
-
-new webpage
-- add more content, copy good point from other (because we have none, we can start new!)
-- post setA-E to facebook
-- buy ad on google
 
 what I want to do this time (after rance update)
 * get japan quest/card
