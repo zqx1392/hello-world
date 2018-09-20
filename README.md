@@ -1,13 +1,13 @@
 now
 - 15 min fast write
 - time to seriously listen jap and capture pitch 
+- 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - 会話　聞き流し　チャットルーム
 -3YGRT8S5
 
 later
 
 - reserve ticket 11/26 11/28 1 month in advance
-- 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter) -- at least find 1 conncection (kigyou, etc.)
 - search dojin + illust + jap + etc
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
