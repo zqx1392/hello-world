@@ -10,6 +10,7 @@ later
 - reserve ticket 11/26 11/28 1 month in advance
 - find namaka for comiket　<- 4chan(not healthy), erom+hent+douj(thai or inter) -- at least find 1 conncection (kigyou, etc.)
 - search dojin + illust + jap + etc
+- probably find that keyword in jap first (via 2ch)
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
 - find hotel for august
 
