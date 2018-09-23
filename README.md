@@ -8,6 +8,7 @@ now
 later
 
 - reserve ticket 11/26 11/28 1 month in advance
+- reserve hokkaido for special 1st day
 - find namaka for comiket　<- 4chan might me best bet, ask discord when time is near
 - probably risk jumping to 2ch
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
