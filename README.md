@@ -1,5 +1,5 @@
 now
-- 15 min fast write
+- speak a topic with 2-3 prepare time
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - 会話　聞き流し　チャットルーム
