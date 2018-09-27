@@ -1,5 +1,5 @@
 more
-- kitchen hanger
+- kitchen hanger < daiso
  
  when kyuuryou + credit arrive
  - buy : underwear, sock,  sandal, excer cloth from aeon
