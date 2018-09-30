@@ -6,7 +6,7 @@ now
 -3YGRT8S5
 
 later
-
+- hotel oct 1
 - reserve ticket 11/26 11/28 1 month in advance
 - reserve hokkaido for special 1st day
 - find namaka for comiket　<- 4chan might me best bet, ask discord when time is near
