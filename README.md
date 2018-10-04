@@ -1,7 +1,4 @@
-possibly buy nikko pass
-find fuck hotel
-plan 13-14
-
+30000 for base travel....
 now
 - speak a topic with 2-3 prepare time
 - time to seriously listen jap and capture pitch 
