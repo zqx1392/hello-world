@@ -8,6 +8,7 @@ now
 -3YGRT8S5
 
 later
+- ticket for 8-11 as soon as discount ready (plane + hotel)
 - reserve ticket 11/26 11/28 1 month in advance
 - find namaka for comiket　<- 4chan might me best bet, ask discord when time is near
 - probably risk jumping to 2ch
