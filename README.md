@@ -1,4 +1,4 @@
-30000 for base travel....
+Plan next golden week fast
 
 now
 - speak a topic with 2-3 prepare time
