@@ -1,5 +1,3 @@
-Plan next golden week fast
-
 now
 - speak a topic with 2-3 prepare time
 - time to seriously listen jap and capture pitch 
