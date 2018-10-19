@@ -21,7 +21,6 @@ don't forget to
 
 for other
 - staregg
-- ผัดผัก + เห็ด
 + ผักกาดเมนู
 - spaghetti
 - sakana
