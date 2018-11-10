@@ -9,7 +9,7 @@ later
 - find namaka for comiket　<- 4chan might me best bet, ask discord when time is near
 - probably risk jumping to 2ch
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
-- find hotel for august
+- find hotel for august (kaiin best, try roynet, monday, try tsukiji is that enough)
 
 After fallout4 & AC4
 - bioshock
