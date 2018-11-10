@@ -9,7 +9,8 @@ later
 - find namaka for comiket　<- 4chan might me best bet, ask discord when time is near
 - probably risk jumping to 2ch
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
-- find hotel for august (kaiin best, try roynet, monday, try tsukiji is that enough)
+visit 12/28, 1/8, 2/8, 5/8, 5/28, 6/28, 10/28
+- find hotel for august (kaiin best 1+2 month, try roynet 1+5 month, monday 1+6 month, washing 1 year)
 
 After fallout4 & AC4
 - bioshock
@@ -24,7 +25,7 @@ what I want to do this time (after rance update)
 * contact ho raga <- with am, lucy & acy
 * get past katsuya
 * get other unmei card
-
+ 3
 - https://suumo.jp/chintai/bc_100095475245/
 - https://suumo.jp/chintai/bc_100115903606/
 - https://suumo.jp/chintai/bc_100106265984/
