@@ -1,10 +1,5 @@
-sun
-- shopping -> 2 fish, drink, hakusai, komatsuna, mushroom, hoi, pig, jagaimo + ika
-- salmon with oil wrapping + hourensou (+ hotate)
-- liver + yasaiitame
-- hotcake
 mon 
-- ika + jagaimo + yasai itame
+- ika + jagaimo + (yasai itame + pig + hotate)
 - fish + yasai itame
 tue
 - matsuya
@@ -21,10 +16,6 @@ fri
 
 later date menu
 - chahan?
-- ninniku buta
-- staregg
-- fish
-- jagaimo + ika (if can)
 
 kanda
 - kyoueidou
@@ -41,7 +32,6 @@ for other
 - azuki
 - komatsuna
 - i want to eat fucking katsu
-+ ผักกาดเมนู
 - steak
 - kuushinsai1111111
  
