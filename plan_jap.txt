@@ -1,15 +1,12 @@
-mon 
-- ika + jagaimo + (yasai itame + pig + hotate)
-- fish + yasai itame
 tue
-- matsuya
+- ika + yasai
 - party?
 wed
-- ninniku buta + staregg
-- ika + jagaimo + ninniku buta
-thru
-- matsuya
+- buta + yasai
 - party?
+thru
+- ninniku buta + star egg
+- ninniku buta + fish
 fri
 - fish + yasai itame
 - yasaiitame + left over
