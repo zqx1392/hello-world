@@ -6,8 +6,6 @@ now
 -3YGRT8S5
 
 later
-- find namaka for comiket　<- 4chan might me best bet, ask discord when time is near
-- probably risk jumping to 2ch
 - (for future comiket + me) coconut product, ข้างแต๋น ตัง
 visit 12/28, 1/8, 2/8, 5/8, 5/28, 6/28, 10/28
 - find hotel for august (kaiin best 1+2 month, try roynet 1+5 month, monday 1+6 month, washing 1 year)
