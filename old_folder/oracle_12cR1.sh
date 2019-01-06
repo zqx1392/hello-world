@@ -70,7 +70,7 @@ usermod -aG kmdba oracle
 #set Oracle user password
 ./auto_set_oracle_password.sh
 
-#/home/oracle/.bashrc‚ÉOracle12cƒT[ƒo‚ÌŠÂ‹«•Ï”İ’è‚ğ’Ç‹L
+#/home/oracle/.bashrcã«Oracle12cã‚µãƒ¼ãƒã®ç’°å¢ƒå¤‰æ•°è¨­å®šã‚’è¿½è¨˜
 # For Oracle12c
 export ORACLE_BASE=/opt/oracle
 export ORACLE_HOME=$ORACLE_BASE/product/12.1.0/db_1
@@ -88,9 +88,9 @@ export CLASSPATH
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME/lib
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME/ctx/lib:$ORACLE_HOME/jdbc/lib
 export LD_LIBRARY_PATH
-#export CVSROOT=:pserver:t_ohta@preon:/var/cvs //•s—vH
+#export CVSROOT=:pserver:t_ohta@preon:/var/cvs //ä¸è¦ï¼Ÿ
 
-#/etc/security/limits.d/oracle12c-limits.conf‚ğˆÈ‰º‚Ì‚æ‚¤‚Éì¬
+#/etc/security/limits.d/oracle12c-limits.confã‚’ä»¥ä¸‹ã®ã‚ˆã†ã«ä½œæˆ
 #Oracle12cR1
 oracle soft nproc 2047
 oracle hard nproc 16384
@@ -99,11 +99,11 @@ oracle hard nofile 65536
 oracle soft stack 10240
 oracle hard stack 10240
 
-#pam”FØ‚ÅƒVƒFƒ‹§ŒÀ‚ğ“K—p‚·‚é‚½‚ß‚ÉA/etc/pam.d/login‚Éˆês’Ç‰ÁB
+#pamèªè¨¼ã§ã‚·ã‚§ãƒ«åˆ¶é™ã‚’é©ç”¨ã™ã‚‹ãŸã‚ã«ã€/etc/pam.d/loginã«ä¸€è¡Œè¿½åŠ ã€‚
 echo "session required pam_limits.so" >> /etc/pam.d/login
 tail -n 5 /etc/pam.d/login
 
-#ulimit‚ğ‘‚â‚·‚½‚ß‚ÉA/etc/profile.d/oracle12c-profile.sh‚ğˆÈ‰º‚Ì“à—e‚Åì¬
+#ulimitã‚’å¢—ã‚„ã™ãŸã‚ã«ã€/etc/profile.d/oracle12c-profile.shã‚’ä»¥ä¸‹ã®å†…å®¹ã§ä½œæˆ
 #Oracle12cR1
 if [ $USER = "oracle" ]; then
    if [ $SHELL = "/bin/ksh" ]; then
@@ -114,51 +114,51 @@ if [ $USER = "oracle" ]; then
    fi
 fi
 
-#oracleƒ†[ƒU‚ÉƒƒOƒCƒ“‚µ‚ÄŠm”F
+#oracleãƒ¦ãƒ¼ã‚¶ã«ãƒ­ã‚°ã‚¤ãƒ³ã—ã¦ç¢ºèª
 # su - oracle
 $ ulimit -a | grep -E "(^open.file|^stack.size|^max.user.processes)" | sort
-//ˆÈ‰º‚Ì‚æ‚¤‚É‚Å‚ê‚ÎOKB
+//ä»¥ä¸‹ã®ã‚ˆã†ã«ã§ã‚Œã°OKã€‚
 max user processes              (-u) 16384
 open files                      (-n) 65536
 stack size              (kbytes, -s) 10240
 
-#svn‚ğƒCƒ“ƒXƒg[ƒ‹
+#svnã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 # yum install subversion
-#oracleƒ†[ƒU‚ÉØ‚è‘Ö‚¦
+#oracleãƒ¦ãƒ¼ã‚¶ã«åˆ‡ã‚Šæ›¿ãˆ
 #su - oracle
-#homeƒfƒBƒŒƒNƒgƒŠ‚Érelease/trunk/public/SiNDY-b/SiNDY-Server/sde/svn‚ğƒ`ƒFƒbƒNƒAƒEƒg
+#homeãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«release/trunk/public/SiNDY-b/SiNDY-Server/sde/svnã‚’ãƒã‚§ãƒƒã‚¯ã‚¢ã‚¦ãƒˆ
 $ cd ~
 $ svn co http://preon.mr.ipc.pioneer.co.jp/svn/release/trunk/public/SiNDY-b/SiNDY-Server/sde/svn
-#homeƒfƒBƒŒƒNƒgƒŠ‚Érelease/trunk/public/SiNDY-b/SQL/SDE‚ÆSiNDY-b‚ğƒ`ƒFƒbƒNƒAƒEƒg
+#homeãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«release/trunk/public/SiNDY-b/SQL/SDEã¨SiNDY-bã‚’ãƒã‚§ãƒƒã‚¯ã‚¢ã‚¦ãƒˆ
 $ cd ~
 $ mkdir SQL
 $ cd SQL
 $ svn co http://preon.mr.ipc.pioneer.co.jp/svn/release/trunk/public/SiNDY-b/SQL/SDE
 $ svn co http://preon.mr.ipc.pioneer.co.jp/svn/release/trunk/public/SiNDY-b/SQL/SiNDY-b
-#homeƒfƒBƒŒƒNƒgƒŠ‚Érelease/trunk/public/SiNDY-b/setting_file‚ğƒ`ƒFƒbƒNƒAƒEƒg
+#homeãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«release/trunk/public/SiNDY-b/setting_fileã‚’ãƒã‚§ãƒƒã‚¯ã‚¢ã‚¦ãƒˆ
 $ cd ~
 $ svn co http://preon.mr.ipc.pioneer.co.jp/svn/release/trunk/public/SiNDY-b/setting_file
 
-#yum‚ÅƒCƒ“ƒXƒg[ƒ‹
+#yumã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 # yum install cifs-utils
-#Ši”[æ‚ª\\magi1\sysmaster‚Ìê‡‚ÌƒRƒ}ƒ“ƒh—á
-#¦usernmame‚Íì‹ÆÒ©g‚ÌwinƒhƒƒCƒ“ƒ†[ƒU‚ğg‚¤‚±‚ÆB
+#æ ¼ç´å…ˆãŒ\\magi1\sysmasterã®å ´åˆã®ã‚³ãƒãƒ³ãƒ‰ä¾‹
+#â€»usernmameã¯ä½œæ¥­è€…è‡ªèº«ã®winãƒ‰ãƒ¡ã‚¤ãƒ³ãƒ¦ãƒ¼ã‚¶ã‚’ä½¿ã†ã“ã¨ã€‚
 # mkdir /media/magi1
 # mount -t cifs -o username=t_kubo //magi1/sysmaster /media/magi1
-#ƒRƒs[æì¬
+#ã‚³ãƒ”ãƒ¼å…ˆä½œæˆ
 # mkdir /home1/oracle_install
-#ƒCƒ“ƒXƒg[ƒ‹ƒtƒ@ƒCƒ‹‚ğƒRƒs[
-# cp /media/magi1/sysmaster/03_software/<È—ª>/linuxamd64_12102_database_se2_*.zip /home1/oracle_install/.
-#ZIP‚ğ‰ğ“€
+#ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚³ãƒ”ãƒ¼
+# cp /media/magi1/sysmaster/03_software/<çœç•¥>/linuxamd64_12102_database_se2_*.zip /home1/oracle_install/.
+#ZIPã‚’è§£å‡
 # unzip /home1/oracle_install/linuxamd64_12102_database_se2_1of2.zip
 # unzip /home1/oracle_install/linuxamd64_12102_database_se2_2of2.zip
-#home1ˆÈ‰º‚ÌŠ—LÒ‚ğoracle‚É•ÏX‚µ‚Ä‚¨‚­
+#home1ä»¥ä¸‹ã®æ‰€æœ‰è€…ã‚’oracleã«å¤‰æ›´ã—ã¦ãŠã
 # chown -R oracle:oinstall /home1
-#cifsƒAƒ“ƒ}ƒEƒ“ƒg
+#cifsã‚¢ãƒ³ãƒã‚¦ãƒ³ãƒˆ
 # umount /media/magi1
-#Redhat‚Ìextras,optionalƒŠƒ|ƒWƒgƒŠ‚ğ—LŒø‰»
+#Redhatã®extras,optionalãƒªãƒã‚¸ãƒˆãƒªã‚’æœ‰åŠ¹åŒ–
 # yum-config-manager --enable rhel-7-server-extras-rpms rhel-7-server-optional-rpms
-#‰‚ß‚©‚ç“ü‚Á‚Ä‚¢‚éƒpƒbƒP[ƒW‚à‚ ‚é‚ªA–Ê“|‚È‚Ì‚Åˆê‹C‚É‚¢‚ê‚éB
+#åˆã‚ã‹ã‚‰å…¥ã£ã¦ã„ã‚‹ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚‚ã‚ã‚‹ãŒã€é¢å€’ãªã®ã§ä¸€æ°—ã«ã„ã‚Œã‚‹ã€‚
 # yum install \
 binutils-2.*.el7*.x86_64 \
 compat-libcap1-1.*.el7*.x86_64 \
@@ -188,46 +188,46 @@ libXtst-1.*.el7*.x86_64 \
 make-3.*.el7*.x86_64 \
 sysstat-10.*.el7*.x86_64 \
 pam-1.*.el7*.x86_64
-#‚à‚¤ˆê“xã‹LƒRƒ}ƒ“ƒh‚ğ’@‚¯‚ÎA‘S•”“ü‚Á‚Ä‚¢‚é‚©Šm”F‚Å‚«‚Ü‚·B ˆÈ‰º‚Ì‚æ‚¤‚Éo‚ê‚ÎOK
-ƒpƒbƒP[ƒW binutils-2.25.1-22.base.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW compat-libcap1-1.10-7.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW compat-libstdc++-33-3.2.3-72.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW compat-libstdc++-33-3.2.3-72.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW gcc-4.8.5-11.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW gcc-c++-4.8.5-11.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW glibc-2.17-157.el7_3.1.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW glibc-2.17-157.el7_3.1.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW glibc-devel-2.17-157.el7_3.1.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW glibc-devel-2.17-157.el7_3.1.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW ksh-20120801-26.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libaio-0.3.109-13.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libaio-0.3.109-13.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libaio-devel-0.3.109-13.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libaio-devel-0.3.109-13.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libgcc-4.8.5-11.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libgcc-4.8.5-11.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libstdc++-4.8.5-11.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libstdc++-4.8.5-11.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libstdc++-devel-4.8.5-11.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libstdc++-devel-4.8.5-11.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libXi-1.7.4-2.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libXi-1.7.4-2.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libXtst-1.2.2-2.1.el7.i686 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW libXtst-1.2.2-2.1.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW 1:make-3.82-23.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW sysstat-10.1.5-11.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-ƒpƒbƒP[ƒW pam-1.1.8-18.el7.x86_64 ‚ÍƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚©ÅVƒo[ƒWƒ‡ƒ“‚Å‚·
-#cvuqdisk RPM‚Ì“±“ü
+#ã‚‚ã†ä¸€åº¦ä¸Šè¨˜ã‚³ãƒãƒ³ãƒ‰ã‚’å©ã‘ã°ã€å…¨éƒ¨å…¥ã£ã¦ã„ã‚‹ã‹ç¢ºèªã§ãã¾ã™ã€‚ ä»¥ä¸‹ã®ã‚ˆã†ã«å‡ºã‚Œã°OK
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ binutils-2.25.1-22.base.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ compat-libcap1-1.10-7.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ compat-libstdc++-33-3.2.3-72.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ compat-libstdc++-33-3.2.3-72.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ gcc-4.8.5-11.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ gcc-c++-4.8.5-11.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ glibc-2.17-157.el7_3.1.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ glibc-2.17-157.el7_3.1.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ glibc-devel-2.17-157.el7_3.1.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ glibc-devel-2.17-157.el7_3.1.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ ksh-20120801-26.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libaio-0.3.109-13.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libaio-0.3.109-13.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libaio-devel-0.3.109-13.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libaio-devel-0.3.109-13.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libgcc-4.8.5-11.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libgcc-4.8.5-11.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libstdc++-4.8.5-11.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libstdc++-4.8.5-11.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libstdc++-devel-4.8.5-11.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libstdc++-devel-4.8.5-11.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libXi-1.7.4-2.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libXi-1.7.4-2.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libXtst-1.2.2-2.1.el7.i686 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ libXtst-1.2.2-2.1.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ 1:make-3.82-23.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ sysstat-10.1.5-11.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ pam-1.1.8-18.el7.x86_64 ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã‹æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™
+#cvuqdisk RPMã®å°å…¥
  # export CVUQDISK_GRP= oinstall
   ## rpm -iv /home1/oracle_install/database/rpm/cvuqdisk-1.0.9-1.rpm
-#/etc/sysctl.conf*2‚ÉˆÈ‰º‚ğ’Ç‹L
+#/etc/sysctl.conf*2ã«ä»¥ä¸‹ã‚’è¿½è¨˜
 ## Oracle12cR1
 fs.file-max=6815744
 fs.aio-max-nr=3145728
 kernel.panic_on_oops = 1
 kernel.sem=600 76800 100 128
-kernel.shmall = ƒƒfƒtƒHƒ‹ƒg’l‚ğİ’è@¦OracleƒCƒ“ƒXƒg[ƒ‰‚ÌŒŸ¸‚É•K—v„
-kernel.shmmax = ƒƒfƒtƒHƒ‹ƒg’l‚ğİ’è@¦OracleƒCƒ“ƒXƒg[ƒ‰‚ÌŒŸ¸‚É•K—v„
+kernel.shmall = ï¼œãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã‚’è¨­å®šã€€â€»Oracleã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ã®æ¤œæŸ»æ™‚ã«å¿…è¦ï¼
+kernel.shmmax = ï¼œãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã‚’è¨­å®šã€€â€»Oracleã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ã®æ¤œæŸ»æ™‚ã«å¿…è¦ï¼
 kernel.shmmni=4096
 net.core.rmem_default=262144
 net.core.rmem_max=4194304
@@ -235,32 +235,32 @@ net.core.wmem_default=262144
 net.core.wmem_max=1048576
 net.ipv4.ip_local_port_range=9000 65500
 kernel.numa_balancing=0
-#İ’è“à—e‚ğ”½‰f
+#è¨­å®šå†…å®¹ã‚’åæ˜ 
 # sysctl -p
-#İ’è“à—e‚ğŠm”F
+#è¨­å®šå†…å®¹ã‚’ç¢ºèª
 /sbin/sysctl -a | grep -E "(^fs.file-max|^kernel.sem|^kernel.shmall|^kernel.shmmax|^kernel.shmmni|^net.core.rmem_default \
 |^net.core.rmem_max|^net.core.wmem_default|^net.core.wmem_max|^fs.aio-max-nr|^net.ipv4.ip_local_port_range|^kernel.panic_on_oops|^kernel.numa_balancing)" | sort
-#/etc/fstab‚ÉˆÈ‰º‚ğ’Ç‹L
-#sizew’è‚Í’l‚ğ“K‹XC³‚·‚é‚±‚ÆB
-tmpfs           /dev/shm         tmpfs   rw,exec,size=<•¨—ƒƒ‚ƒŠ‚Ì3/4 - 1>G     0 0
-#ˆÈ‰ºƒRƒ}ƒ“ƒh‚ÅŠm”F‚Å‚«‚éB
+#/etc/fstabã«ä»¥ä¸‹ã‚’è¿½è¨˜
+#sizeæŒ‡å®šã¯å€¤ã‚’é©å®œä¿®æ­£ã™ã‚‹ã“ã¨ã€‚
+tmpfs           /dev/shm         tmpfs   rw,exec,size=<ç‰©ç†ãƒ¡ãƒ¢ãƒªã®3/4 - 1>G     0 0
+#ä»¥ä¸‹ã‚³ãƒãƒ³ãƒ‰ã§ç¢ºèªã§ãã‚‹ã€‚
 # df -h | grep /dev/shm
 # findmnt /dev/shm
-#THP‚Ìİ’èó‹µŠm”F
+#THPã®è¨­å®šçŠ¶æ³ç¢ºèª
 # cat /sys/kernel/mm/transparent_hugepage/enabled
-[always] madvise never //Š‡ŒÊ“à‚ªalways‚Ì‚Í‚¸BRHEL7‚ÌDEFAULT
-# cat /etc/grub2.cfg | grep huge //‰½‚à‹A‚Á‚Ä‚±‚È‚¢‚Í‚¸BRHEL7‚ÌDEFAULT
-#/etc/default/grub‚ÌGRUB_CMDLINE_LINUX‚ğ•ÒW
-•ÏX‘O:GRUB_CMDLINE_LINUX="rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap rhgb quiet"
-•ÏXŒã:GRUB_CMDLINE_LINUX="rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap transparent_hugepage=never rhgb quiet"
-#İ’è•ÏX‚ğ”½‰f
+[always] madvise never //æ‹¬å¼§å†…ãŒalwaysã®ã¯ãšã€‚RHEL7ã®DEFAULT
+# cat /etc/grub2.cfg | grep huge //ä½•ã‚‚å¸°ã£ã¦ã“ãªã„ã¯ãšã€‚RHEL7ã®DEFAULT
+#/etc/default/grubã®GRUB_CMDLINE_LINUXã‚’ç·¨é›†
+å¤‰æ›´å‰:GRUB_CMDLINE_LINUX="rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap rhgb quiet"
+å¤‰æ›´å¾Œ:GRUB_CMDLINE_LINUX="rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap transparent_hugepage=never rhgb quiet"
+#è¨­å®šå¤‰æ›´ã‚’åæ˜ 
 grub2-mkconfig -o /boot/grub2/grub.cfg
 #reboot
 reboot
-#ƒJ[ƒlƒ‹ƒpƒ‰ƒ[ƒ^‚Ìİ’èŠm”F
+#ã‚«ãƒ¼ãƒãƒ«ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã®è¨­å®šç¢ºèª
 # /sbin/sysctl -a | grep -E "(^fs.file-max|^kernel.sem|^kernel.shmall|^kernel.shmmax|^kernel.shmmni|^net.core.rmem_default \
 #|^net.core.rmem_max|^net.core.wmem_default|^net.core.wmem_max|^fs.aio-max-nr|^net.ipv4.ip_local_port_range|^kernel.panic_on_oops|^kernel.numa_balancing)" | sort
-//ˆÈ‰º‚Ì‚æ‚¤‚É‚Å‚Ä‚­‚ê‚ÎOK
+//ä»¥ä¸‹ã®ã‚ˆã†ã«ã§ã¦ãã‚Œã°OK
 fs.aio-max-nr = 3145728
 fs.file-max = 6815744
 kernel.numa_balancing = 0
@@ -280,20 +280,20 @@ net.core.rmem_max = 4194304
 net.core.wmem_default = 262144
 net.core.wmem_max = 1048576
 net.ipv4.ip_local_port_range = 9000     65500
-#/dev/shm‚Ìİ’èŠm”F
-# df -h | grep /dev/shm //ƒTƒCƒY‚ªw’è‚Ç‚¨‚è•Ï‚í‚Á‚Ä‚¢‚ê‚ÎOK
+#/dev/shmã®è¨­å®šç¢ºèª
+# df -h | grep /dev/shm //ã‚µã‚¤ã‚ºãŒæŒ‡å®šã©ãŠã‚Šå¤‰ã‚ã£ã¦ã„ã‚Œã°OK
 tmpfs 32G 224K 32G 1% /dev/shm
 # findmnt /dev/shm
-TARGET SOURCE FSTYPE OPTIONS //ƒIƒvƒVƒ‡ƒ“‚ªˆÈ‰º‚Ì‚æ‚¤‚É‚È‚Á‚Ä‚¢‚ê‚ÎOK
+TARGET SOURCE FSTYPE OPTIONS //ã‚ªãƒ—ã‚·ãƒ§ãƒ³ãŒä»¥ä¸‹ã®ã‚ˆã†ã«ãªã£ã¦ã„ã‚Œã°OK
 /dev/shm tmpfs tmpfs rw,relatime
-#THP‚Ìİ’èó‹µÄŠm”F
+#THPã®è¨­å®šçŠ¶æ³å†ç¢ºèª
 # cat /sys/kernel/mm/transparent_hugepage/enabled
-always madvise [never] //never‚ÉŠ‡ŒÊ‚ªˆÚ‚Á‚Ä‚¢‚ê‚ÎOK
-# cat /etc/grub2.cfg | grep huge //ˆÈ‰º‚Ì‚æ‚¤‚Éo‚Ä‚­‚é‚ê‚ÎOK
+always madvise [never] //neverã«æ‹¬å¼§ãŒç§»ã£ã¦ã„ã‚Œã°OK
+# cat /etc/grub2.cfg | grep huge //ä»¥ä¸‹ã®ã‚ˆã†ã«å‡ºã¦ãã‚‹ã‚Œã°OK
 linux16 /vmlinuz-3.10.0-514.6.1.el7.x86_64 root=/dev/mapper/rhel-root ro rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap transparent_hugepage=never rhgb quiet
 linux16 /vmlinuz-3.10.0-514.el7.x86_64 root=/dev/mapper/rhel-root ro rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap transparent_hugepage=never rhgb quiet
 linux16 /vmlinuz-0-rescue-b09caecf553b4527a5b4f7a926c7ff9a root=/dev/mapper/rhel-root ro rd.lvm.lv=rhel/root rd.lvm.lv=rhel/swap transparent_hugepage=never rhgb quiet
-#ˆÈ‰ºƒRƒ}ƒ“ƒh‚ÅŠeíƒfƒBƒŒƒNƒgƒŠ‚ğì¬‚·‚éB(home1Œ`®)
+#ä»¥ä¸‹ã‚³ãƒãƒ³ãƒ‰ã§å„ç¨®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œæˆã™ã‚‹ã€‚(home1å½¢å¼)
 mkdir -p /home/oracle/utl_file
 mkdir -p /home1/oradata
 mkdir -p /home1/oraarch
@@ -303,18 +303,18 @@ chown oracle.oinstall /home1/oradata
 chown oracle.oinstall /home1/oraarch
 chown -R oracle.oinstall /opt/oracle/
 chmod -R 775 /opt/oracle
-###OracleƒCƒ“ƒXƒg[ƒ‹
-#ƒŒƒXƒ|ƒ“ƒXƒtƒ@ƒCƒ‹‚ÌC³
+###Oracleã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+#ãƒ¬ã‚¹ãƒãƒ³ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã®ä¿®æ­£
 $ vi /home/oracle/setting_file/db_install.rsp
-ORACLE_HOSTNAME=<ƒzƒXƒg–¼‚ğ“ü—Í>
-#ƒCƒ“ƒXƒg[ƒ‹
+ORACLE_HOSTNAME=<ãƒ›ã‚¹ãƒˆåã‚’å…¥åŠ›>
+#ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 $  ./runInstaller -silent -responseFile /home/oracle/setting_file/db_install.rsp
-#rootƒ†[ƒU‚ÅˆÈ‰ºƒXƒNƒŠƒvƒgÀs‚ª‹‚ß‚ç‚ê‚é‚Ì‚ÅÀ{‚·‚éB
+#rootãƒ¦ãƒ¼ã‚¶ã§ä»¥ä¸‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆå®Ÿè¡ŒãŒæ±‚ã‚ã‚‰ã‚Œã‚‹ã®ã§å®Ÿæ–½ã™ã‚‹ã€‚
 $ su -
 $ /opt/oracle/oraInventory/orainstRoot.sh
 $ /opt/oracle/product/12.1.0/db_1/root.sh
-#NETCA‚Ålistener‚ğì¬‚·‚éB
-##oracleƒ†[ƒU‚Ås‚¤‚±‚ÆI
+#NETCAã§listenerã‚’ä½œæˆã™ã‚‹ã€‚
+##oracleãƒ¦ãƒ¼ã‚¶ã§è¡Œã†ã“ã¨ï¼
 $ netca -silent -responseFile /home/oracle/setting_file/netca.rsp
 #
 
