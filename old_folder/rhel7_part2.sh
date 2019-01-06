@@ -66,7 +66,7 @@ grep -q -P "$host_addr\t\t$host_name" $f_hosts || echo  -e "$host_addr\t\t$host_
 
 #edit DNS server
 echo "Opening NetworkManager TUI"								| tee -a $script_log
-echo "After opening, please select Ú‘±‚Ì•ÒWËƒfƒoƒCƒX[ensxxx]Ëƒ•ÒW...„"								| tee -a $script_log
+echo "After opening, please select æ¥ç¶šã®ç·¨é›†â‡’ãƒ‡ãƒã‚¤ã‚¹[ensxxx]â‡’ï¼œç·¨é›†...ï¼"								| tee -a $script_log
 echo "And set DNS server as below"								| tee -a $script_log
 echo "172.25.100.1"									| tee -a $script_log
 echo "172.25.100.88"								| tee -a $script_log
