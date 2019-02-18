@@ -28,32 +28,34 @@ restaurant list
 - kare near azuma
 - south area
 
-Finally finished Hiyori and Chiwa routes, and reached the halfway of Sakura, Moyu.
+Finally finished Hiyori and Chiwa routes, so about halfway through the madness world of Sakura, Moyu.
 
-Honestly, I really want to give detailed thoughts about how it did not hesitate to represents gay couples right and show the true intimacy they shared upon the midnight desert handsomely.
-. Or how it portrays coming-of-age teenager's minds with mild suicidal tendencies tediously yet beautifully
-. Or perhaps how 100-year-old loli beg you to take a shower&sleep together earnestly with teary eyes, is the most destructive thing I have found in the universe.
-However, It might end up too long and make someone tilted just like how Sakura Moyu almost triggered me twice, so let me write a review how reading it truly feel 
-I will try to keep things as short as possible.
+Honestly, I really want to give detailed thoughts about how it does not hesitate to represent gay couples proudly, and show the intimacy they shared upon midnight in the desert handsomely.
+Or how it portrays coming-of-age teenagers who have mild suicidal thoughts and tendencies tediously yet beautifully.
+Or perhaps how several-decade-old loli beg you to take a shower&sleep together earnestly with teary eyes, is the most destructive thing I have found in the universe.
+However, it might end up too long and tilt someone in the process, just like how Sakura Moyu almost successfully triggered me twice. Thus I will try to keep things as short as possible.
 
-To start off, 
-I usually treat good VNs like good drinks; Gulping down sweet moege sugary drinks swiftly like a true Moebuta, 
-or enjoy slowly sipping and appreciating kamige like a great wine, --and sometimes drink nukige like a water--. 
-However, Sakura Moyu can only be described as a very strong wine, with truly pecuilar taste: not too exciting, nor much thrilling, and neither exactly romance, 
-just a pure, raw texts(sssss) of emotions and plots whose intensity could wasted my brain anytime.
+To begin with, 
+I usually treat good VNs like drinks: Gulping down sweet moege sugary drinks swiftly like a true Moebuta, occasionally drink nukige like a mineral water,
+and enjoy slowly sipping and appreciating kamige like a great wine.
+However, Sakura Moyu can only be described as a very strong wine, with a truly pecuilar taste: not too exciting, nor much thrilling, and neither exactly romance, 
+just a pure, raw text(s) of plots and emotions whose intensity could crush my brain anytime.
 
-While I can maintain my slow pace in order to taste its healtily in most cases, the epic volume and the strong alcohol sometimes become too much to handle.
-Particularly the presumed standdown climax between 2 guys in chiwa route that consist only talking, talking, and talking
-that last 20 minute (but the real climax is 3 hours after)
-that part drain conciousness and concentration away, gradually grinding down my will to read it properly, but somehow I just... couldn't stop.
-because The scenario is indeed delicious and so alluring, I really just want to finish it no matter how much it burn my brain out
-but, how much unintelligible texts it has become I know I'm not gonna enjoy it anymore...
+Of course the scenario is indeed delicious and so alluring. But when things get heated it was hard to maintain my healthy pace,
+especially during chiwa route; When the presumed climax showdown kicked off, the most intense yet tedious conversation between 2 people took place almost 30 minutes in real life.
+I thought that was going to be the end. But here's the kicker: The real climax is in 3-4 hours later with more repeated scenes cut in between. 
+My brain at that time simply melted and dissolved.
 
-I realized that if I forcefully gulp it down, not taste it, all it will give me in the end are gonna be pukes, headaches, and a bad taste lingered in your mind.
-give it a break, go out for a walk, and refresh your mind.....
+I knew I unconciously drank too fast, and ended up drunk my brain and drown into the pool of texts before I could even notice; I couldn't feel the taste anymore.
+I knew I really wanted to finish it fast no matter how much it burn my brain out, but at same time I realized that if I forcefully gulp it down, 
+not tasting it at all, all it lefts will be pukes, headaches, and a bad taste lingered in my mind afterward.
 
-and sometimes the repeated scene almost tilted me
-Nonetheless, the endings really gave me extraordinary heartwarming that is going last few days
-so to summarize thing up... if you are deep into an individual route, just don't rush, or it will crush you.
+so here the choice that I made after the standdown. I give my brain a break, clear my head, open my mind, and don't care anymore whenever the story will come to the end sooner or later. 
+
+The resume after the long reset really enlighthen me that while Sakura Moya pace is, without a doubt, horrendous. But if you can work around that and adjust your time in compensate
+all it left is nothing but a blissful taste. I can certainly say that the real climax is was the best moment I've feel during recent months.
+However, if I decided to finish it in one go instead, I'm pretty sure that the only taste I feel at the end would be so bitter.
+All in all, the endings really gave me an extraordinary heartwarming feeling that is going last few days. but the pace also gave me temporary brain damage too. 
+so to summarize thing up... if you are going to read this work, take a rest, and rethink about the plot regularly. And do not rush, or it will crush you.
 
 
