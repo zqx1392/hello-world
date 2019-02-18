@@ -16,8 +16,6 @@ now
 tocook
 - oyako-don
 - chawan
-- chocolate drink
-- buy rice cooker
 - EAT METAL (Broccoli) AND EPA (iwashi, saba, FISH)
 - azuki
 - steak
@@ -27,9 +25,7 @@ todo
  > showerware (some face mask + eye to fix)
 
 restaurant list
-- 2 bakery near house
 - kare near azuma
-- rashoumen
 - south area
 
 Finally finished Hiyori and Chiwa routes, and reached the halfway of Sakura, Moyu.
@@ -41,7 +37,7 @@ However, It might end up too long and make someone tilted just like how Sakura M
 I will try to keep things as short as possible.
 
 To start off, 
-I usually treat good VNs like good drinks; Gulping down moege sugary drinks swiftly like a true Moebuta, 
+I usually treat good VNs like good drinks; Gulping down sweet moege sugary drinks swiftly like a true Moebuta, 
 or enjoy slowly sipping and appreciating kamige like a great wine, --and sometimes drink nukige like a water--. 
 However, Sakura Moyu can only be described as a very strong wine, with truly pecuilar taste: not too exciting, nor much thrilling, and neither exactly romance, 
 just a pure, raw texts(sssss) of emotions and plots whose intensity could wasted my brain anytime.
