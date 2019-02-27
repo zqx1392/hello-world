@@ -28,6 +28,10 @@ restaurant list
 - kare near azuma
 - south area
 
+you can assume that all heroines (except kuro) are distantly related cousins
+still, Chiwa's stepdad is Haru's granddad....
+so theoretically Chiwa is Haru's STEP-AUNT
+
 I agree that the writing might play a part in overall bad pacing, but I think the biggest problem is "overabundance of quality"
 From what I've played so far (3 routes except Kuro's), each route can easily replace a true route in other VNs easily due to the sheer force of length, emotions, and plots
 However, the stories themselve are very serious; It is so natural to quickly drain readers' concentration and desensitize them against overwhelming emotions in no time. 
