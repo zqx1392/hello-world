@@ -1,32 +1,44 @@
-find new objective both work and leisure
-- learn more python
-- aim your monthly budget!
-- find way to reduce waste time in many things(cooking, etc.)
-
 don't forget to 
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
 
 now
-- speak a topic with 2-3 prepare time
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - 会話　聞き流し　チャットルーム
 
-tocook
-- oyako-don
-- chawan
-- EAT METAL (Broccoli) AND EPA (iwashi, saba, FISH)
-- azuki
-- steak
-- kuushinsai1111111
- 
-todo 
- > showerware (some face mask + eye to fix)
+sat
+time to do thai curry again
+pig prick pao
+hotcake
 
-restaurant list
-- kare near azuma
-- south area
+sun
+eat new ramen or teishoku place
+chilly shrimp
+
+td weekend
+1- exercise, clean as usaul
+2- slowly advance anime
+1- watch cs
+1- challenge new menu
+2- senrihin kanshou
+3- prepare haru travel plan
+2- check all hotel condition
+2shop
+- new mag
+- eshi
+- ???
+
+improve myself
+- learn programming, python, and new tech 
+- improve japanese... better speaking and listening -> perhaps I should do when I bored
+
+Fulfill life
+e- have fun at the moment
+e- build up my body slowly
+e- looking forward to sakura
+e- vn
+h- watch the star
 
 you can assume that all heroines (except kuro) are distantly related cousins
 still, Chiwa's stepdad is Haru's granddad....
