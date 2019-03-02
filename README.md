@@ -9,25 +9,15 @@ now
 
 sat
 time to do thai curry again
-pig prick pao
-hotcake
 
 sun
 eat new ramen or teishoku place
 chilly shrimp
 
 td weekend
-1- exercise, clean as usaul
-2- slowly advance anime
-1- watch cs
-1- challenge new menu
-2- senrihin kanshou
+1- cook nasu
+1- cook chahan?
 3- prepare haru travel plan
-2- check all hotel condition
-2shop
-- new mag
-- eshi
-- ???
 
 improve myself
 - learn programming, python, and new tech 
