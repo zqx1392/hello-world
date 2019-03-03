@@ -7,13 +7,6 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - 会話　聞き流し　チャットルーム
 
-sat
-time to do thai curry again
-
-sun
-eat new ramen or teishoku place
-chilly shrimp
-
 td weekend
 1- cook nasu
 1- cook chahan?
