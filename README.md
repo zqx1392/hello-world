@@ -16,11 +16,14 @@ improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening -> perhaps I should do when I bored
 
+8 - 10
+・find closer to aki with similar price
+・find cheaper in tsukiji
+
+・find cheaper in 11-13 with similar quality to ginza
+・find 3 nights (8-11 or 10 - 13) less than 25000 (and also have good bathroom)
+
 Fulfill life
-e- have fun at the moment
-e- build up my body slowly
-e- looking forward to sakura
-e- vn
 h- watch the star
 
 you can assume that all heroines (except kuro) are distantly related cousins
