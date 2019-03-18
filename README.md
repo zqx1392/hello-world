@@ -2,6 +2,10 @@
 2. make connection between postal and district
 3. wedge number <- if <50% = 10 , 50-70% = 20, 70-100% = 30
 
+cut
+1. intersect -> union to create line boundary/polygon if diff not work
+2. to decide left-right, use most left and right point... then top and bottom... <- or left quantity
+
 don't forget to 
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
