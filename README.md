@@ -1,3 +1,7 @@
+1. change sub-district + text to constant value
+2. make connection between postal and district
+3. wedge number <- if <50% = 10 , 50-70% = 20, 70-100% = 30
+
 don't forget to 
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
@@ -6,11 +10,6 @@ now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - 会話　聞き流し　チャットルーム
-
-td weekend
-1- cook nasu
-1- cook chahan?
-3- prepare haru travel plan
 
 improve myself
 - learn programming, python, and new tech 
@@ -26,9 +25,7 @@ improve myself
 Fulfill life
 h- watch the star
 
-you can assume that all heroines (except kuro) are distantly related cousins
-still, Chiwa's stepdad is Haru's granddad....
-so theoretically Chiwa is Haru's STEP-AUNT
+
 
 I agree that the writing might play a part in overall bad pacing, but I think the biggest problem is "overabundance of quality"
 From what I've played so far (3 routes except Kuro's), each route can easily replace a true route in other VNs easily due to the sheer force of length, emotions, and plots
