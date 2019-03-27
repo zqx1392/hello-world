@@ -41,7 +41,7 @@ or sacrifice yourself in hope for better result and make your guilty thought sto
 
 now you might realize by now but behind "beautiful sacrifice"
 is just an ugly truth about characters who cant forgive themselve and want to atone themselve by suffering
-in their own punishment
+in their own punishment, so its nothing you can call it beautiful about, even a bit.
 
 and this work exactly show that sometimes you need the help of the others to move on,
 maybe you also have to forget and even abandon the problem in order to gain self happiness.
