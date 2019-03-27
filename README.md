@@ -1,11 +1,3 @@
-1. change sub-district + text to constant value
-2. make connection between postal and district
-3. wedge number <- if <50% = 10 , 50-70% = 20, 70-100% = 30
-
-cut
-1. intersect -> union to create line boundary/polygon if diff not work
-2. to decide left-right, use most left and right point... then top and bottom... <- or left quantity
-
 don't forget to 
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
@@ -18,13 +10,6 @@ now
 improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening -> perhaps I should do when I bored
-
-8 - 10
-・find closer to aki with similar price
-・find cheaper in tsukiji
-
-・find cheaper in 11-13 with similar quality to ginza
-・find 3 nights (8-11 or 10 - 13) less than 25000 (and also have good bathroom)
 
 Fulfill life
 h- watch the star
@@ -40,3 +25,28 @@ so some of us who couldn't bear it anymore simply "fuck this shit" and quitted t
 or skimmed through some parts instead and lost any sympathy for what the writer was trying to convey in the process.
 Maybe it might be better to have typical routes similar to Sakuuta rather than non to give readers a much needed breathing room and prepare their mind for the true route better, but oh well,
 guess it's time for me to get back to reading.
+
+sakura... moyu... although almost everyone acknowledge the story as just a "sacrifice game"
+but the thing the writer want to tell to everyone is not about sacrifice at all
+it's about "forgiving oneself, live, and spend one life for other people"
+
+you see, the main reason every main charcter seem to sacrifice themselve for is because
+"they cannot forgive their past grievous mistake, possibly get over their past losts"
+
+maybe you cant empathy with their ridiculous pessimism or whatever,
+but I once experience this shit and understand it too well.
+that you have to bear with the heavy sin for your whole life, so if I can choose a choice between suicide,
+having your self-hatred rotting your mind away, 
+or sacrifice yourself in hope for better result and make your guilty thought stop completely, why not latter?
+
+now you might realize by now but behind "beautiful sacrifice"
+is just an ugly truth about characters who cant forgive themselve and want to atone themselve by suffering
+in their own punishment
+
+and this work exactly show that sometimes you need the help of the others to move on,
+maybe you also have to forget and even abandon the problem in order to gain self happiness.
+(just like how Haru had to left her mom forever inside 時間の墓場 to seek new happiness in new timeline
+, or how fake Taiga need to abandon his great-sacrifice plan for the sake of Kuro )
+
+Nonetheless, if you are feeling down and can't forgive yourself for whatever reason,
+seek forgiveness from other people, and especially oneself, and live to the fullest to atone that feeling.
