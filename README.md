@@ -1,6 +1,9 @@
 don't forget to 
+- subahibi soundtrack
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
+- watch the star
+
 
 now
 - time to seriously listen jap and capture pitch 
@@ -9,18 +12,7 @@ now
 
 improve myself
 - learn programming, python, and new tech 
-- improve japanese... better speaking and listening -> perhaps I should do when I bored
-
-Fulfill life
-h- watch the star
-
-another thing I need to confirm is that .... how the world reflect when Mashiro + Taiga made the wish
-	-> possibly affect all other worlds, but mysteriously left current untouch?
-		1. it really changed, but not by first person perspective....
-		2. not change, just affect other world
-yup.... so which world did real Taiga arrive?....
-and.... how did the loop start each time?.... fake Taiga delete himself from every world if Im not mistaken?
-took every 不幸 into one timeline... wtf does that mean (dead? dead??)
+- improve japanese... better speaking and listening
 
 I agree that the writing might play a part in overall bad pacing, but I think the biggest problem is "overabundance of quality"
 From what I've played so far (3 routes except Kuro's), each route can easily replace a true route in other VNs easily due to the sheer force of length, emotions, and plots
