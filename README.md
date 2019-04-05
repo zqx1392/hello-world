@@ -1,5 +1,4 @@
 don't forget to 
-- subahibi soundtrack
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
 - watch the star
@@ -13,6 +12,30 @@ now
 improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
+
+Tried to write good things about Sakumoyu/Subahibi at first, but Trinoline pissed me off so much so here go.
+
+it tried to be a serious story, but it did not try to tell the story seriously at all.
+
+Like, you could get a plenty of life-and-death-drama/tearjerking/AI-related writing gold materials from the sypnosis alone.
+But hell it's like Minori spent all of their monies on their -big-boobs- beautiful arts and superior production but did not pay the writers enough or something.
+So the scenes and dialogs in general are: 
+Morning : A-kun and B-chan have 2 minutes talk about nothing in particular
+Skip to night : A-kun talks to C-san and hints about something within 1 minute conversation (later revealed as nothing significant)
+Skip to next day : "hello, kouhai-kun. Oh nothing just want to see your pretty dick. See you then!" 
+Skip to evening : "Hey A-kun I want to discuss about a serious topic, but we only have 2 minutes so lol fuck it"
+This style was repeated forever. From the beginning till the end.
+Even though the story is centered around life-and-death-drama. THERE IS NO FLASHBACK, ALMOST-ZERO MEANINGFUL SELF-DIALOG, AND NONEXISTENT PROPER EMOTIONAL BUILD UP AT All
+//They also inserted tearjerking scenes whenever they pleased, and many plot devices were created on the fly.
+Even worse, in every dramatic scene I felt that they did not really want to drag conversation too long or discuss about human/AI emotion too deep,
+so instead they tried to cut down text as possible and turned into very straightforward storytelling (to put it nicely) or blunt and curted storytelling.
+Of course, it backfired miserably becuase the story failed to convey anything impactful to me at all.
+Hell, if the story clearly indicated itself as moege/nukige the writing and pacing might be toleratable. 
+However, they half-assedly tried to create a serious story, and that seriously triggered me. 
+
+Granted, reading Trinoline directly after finishing great VNs might skewed my baseline expectation a bit
+But at least I understand why Minori is gone by now. 
+
 
 I agree that the writing might play a part in overall bad pacing, but I think the biggest problem is "overabundance of quality"
 From what I've played so far (3 routes except Kuro's), each route can easily replace a true route in other VNs easily due to the sheer force of length, emotions, and plots
