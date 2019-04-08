@@ -13,28 +13,47 @@ improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
 
-Tried to write good things about Sakumoyu/Subahibi at first, but Trinoline pissed me off so much so here go.
+Tried to write good things about Sakumoyu/Subahibi at first before reading Sakuuta next, but the supposed mood-refreshing read
+Trinoline pissed me off so much, thus my angrily compulsive rant was born.
 
-it tried to be a serious story, but it did not try to tell the story seriously at all.
+To put it simply, it tried to be a serious story, but it did not try to tell the story seriously at all.
 
-Like, you could get a plenty of life-and-death-drama/tearjerking/AI-related writing gold materials from the sypnosis alone.
-But hell it's like Minori spent all of their monies on their -big-boobs- beautiful arts and superior production but did not pay the writers enough or something.
-So the scenes and dialogs in general are: 
-Morning : A-kun and B-chan have 2 minutes talk about nothing in particular
-Skip to night : A-kun talks to C-san and hints about something within 1 minute conversation (later revealed as nothing significant)
-Skip to next day : "hello, kouhai-kun. Oh nothing just want to see your pretty dick. See you then!" 
-Skip to evening : "Hey A-kun I want to discuss about a serious topic, but we only have 2 minutes so lol fuck it"
-This style was repeated forever. From the beginning till the end.
-Even though the story is centered around life-and-death-drama. THERE IS NO FLASHBACK, ALMOST-ZERO MEANINGFUL SELF-DIALOG, AND NONEXISTENT PROPER EMOTIONAL BUILD UP AT All
-//They also inserted tearjerking scenes whenever they pleased, and many plot devices were created on the fly.
-Even worse, in every dramatic scene I felt that they did not really want to drag conversation too long or discuss about human/AI emotion too deep,
-so instead they tried to cut down text as possible and turned into very straightforward storytelling (to put it nicely) or blunt and curted storytelling.
-Of course, it backfired miserably becuase the story failed to convey anything impactful to me at all.
-Hell, if the story clearly indicated itself as moege/nukige the writing and pacing might be toleratable. 
+Why? because judging by the cover, we could get plenty of life-and-death-drama/tearjerking/meaningful AI debate related writing gold materials from the sypnosis alone,
+and yes Trinoline attempted to explore about these sensitive topics to some extent.
+But hell it's like Minori spent all of their monies on their -big-bang-boobs- beautiful arts and superior production, and decided to not pay the writers enough to write things or something,
+so the scenes and dialogs in general can be mockingly presented as below. 
+	>A beautiful morning
+		P-kun and B-chan walking to school together while practically talking about nothing for 2 minutes.
+	>Abruptly skipped to night
+		C-san hints to P-kun about something during 1 minute conversation (then throw that hint away into oblivion)
+	>Bluntly skipped to next day
+		"hello, P-kun. Oh nothing just want to see your pretty dick. See you then!" 
+	>Curtly skipped to next evening
+		"Hey A-kun I want to discuss about a serious topic, but we only have 2 minutes so lol sux it"
+This style is repeated forever, from the beginning till the end.
+It inevitably disrupts the harmonious flow, despite (overly) well done presentation and I couldn't build up any profound emotion at all when everything paced so haphazardly.
+
+To rub salt into the wound, the protagonist, who was supposed to bring balance to the force and turn the table, 
+instead flipped the table with his 1-dimension nice guy personality and acted more like a true emotionless -transistor- robot than his kawaii moe android sister. 
+He could accept anything heroines tried to screw him over without much resistance, meanwhile his perfectly stable emotion can be concisely described as below.
+	Someone forcefully replaces his sweet memories about drowned dead sister with a bloated boobs android? I sleep.
+	Somehow have an amnesia and explained that his beloved, but bloated sister was dead for a long time already? I sleep.
+	An heroine took advantage of his amnesia and tried to trick him into her boyfriend, not caring much about his feeling? I sleep.
+	A grown up antagonist tries to be honest with his highly ambitious, yet respectable ideal? REAL SHIT.
+	-Boobs? REAL SHIT.-
+Nonetheless, he made all heroines fall in love with him illogically by showering all heroines with his hollow kindness and a handful of cum without much effort.
+WTF.
+
+Even though I appreciated Trinoline's true ambition to capture the feel from film and trying to be as cinematic as possible,
+but Minori fundamentally fucked up by pacing the story in FULL TERMINATOR MODE even though the story is centered around delicate dramas.
+Furthermore, in every dramatic scene I felt that they did not really wish to drag conversations too long or debate complicated topics too deep,
+so instead they tried to shorten down dialogs as possible and turned it into very straightforward storytelling (to put it nicely)
+Of course, it backfired miserably and the story failed to convey anything impactful to me at all.
+Hell, if this work clearly indicates itself as moege/nukige the writing and pacing might be toleratable for me. 
 However, they half-assedly tried to create a serious story, and that seriously triggered me. 
 
-Granted, reading Trinoline directly after finishing great VNs might skewed my baseline expectation a bit
-But at least I understand why Minori is gone by now. 
+Granted, reading Trinoline directly after finishing great VNs might skewed my baseline expectation quite a bit
+But at least I now understand why Minori has gone, to its graveyard. 
 
 
 I agree that the writing might play a part in overall bad pacing, but I think the biggest problem is "overabundance of quality"
