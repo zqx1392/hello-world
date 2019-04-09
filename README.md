@@ -3,58 +3,38 @@ don't forget to
 - to flea market near morioka (sat only?)
 - watch the star
 
-
 now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 - 会話　聞き流し　チャットルーム
 
+4/13
+	10 - 13 -> finish running&cleaning quickly
+	14 - 17 -> to takizawa
+	18 -> back and eat 駅前
+	20 -> pack last items
+		・グッズ
+			→ 一応読まない本(集めたいだけ)
+			→ タペストリー: go for big hiten?
+			→ 色紙
+		・買取対象決定
+			→ 色紙
+	21 -> gather concrete date and item from fri&mom
+		: 許に連絡？
+		: お土産まとめ
+			→ 親 (get request + 2 お菓子箱)
+			→ 親戚 (2 - 3)
+			→ fri (1)
+			→ inp (1 + request)
+	21 -> buy ticket in advance via online if not found in takizawa
+		: might buy a title
+4/14
+	sakuuta + da capo
+
+
 improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
-
-Tried to write good things about Sakumoyu/Subahibi at first before reading Sakuuta next, but the supposed mood-refreshing read
-Trinoline pissed me off so much, thus my angrily compulsive rant was born.
-
-To put it simply, it tried to be a serious story, but it did not try to tell the story seriously at all.
-
-Why? because judging by the cover, we could get plenty of life-and-death-drama/tearjerking/meaningful AI debate related writing gold materials from the sypnosis alone,
-and yes Trinoline attempted to explore about these sensitive topics to some extent.
-But hell it's like Minori spent all of their monies on their -big-bang-boobs- beautiful arts and superior production, and decided to not pay the writers enough to write things or something,
-so the scenes and dialogs in general can be mockingly presented as below. 
-	>A beautiful morning
-		P-kun and B-chan walking to school together while practically talking about nothing for 2 minutes.
-	>Abruptly skipped to night
-		C-san hints to P-kun about something during 1 minute conversation (then throw that hint away into oblivion)
-	>Bluntly skipped to next day
-		"hello, P-kun. Oh nothing just want to see your pretty dick. See you then!" 
-	>Curtly skipped to next evening
-		"Hey A-kun I want to discuss about a serious topic, but we only have 2 minutes so lol sux it"
-This style is repeated forever, from the beginning till the end.
-It inevitably disrupts the harmonious flow, despite (overly) well done presentation and I couldn't build up any profound emotion at all when everything paced so haphazardly.
-
-To rub salt into the wound, the protagonist, who was supposed to bring balance to the force and turn the table, 
-instead flipped the table with his 1-dimension nice guy personality and acted more like a true emotionless -transistor- robot than his kawaii moe android sister. 
-He could accept anything heroines tried to screw him over without much resistance, meanwhile his perfectly stable emotion can be concisely described as below.
-	Someone forcefully replaces his sweet memories about drowned dead sister with a bloated boobs android? I sleep.
-	Somehow have an amnesia and explained that his beloved, but bloated sister was dead for a long time already? I sleep.
-	An heroine took advantage of his amnesia and tried to trick him into her boyfriend, not caring much about his feeling? I sleep.
-	A grown up antagonist tries to be honest with his highly ambitious, yet respectable ideal? REAL SHIT.
-	-Boobs? REAL SHIT.-
-Nonetheless, he made all heroines fall in love with him illogically by showering all heroines with his hollow kindness and a handful of cum without much effort.
-WTF.
-
-Even though I appreciated Trinoline's true ambition to capture the feel from film and trying to be as cinematic as possible,
-but Minori fundamentally fucked up by pacing the story in FULL TERMINATOR MODE even though the story is centered around delicate dramas.
-Furthermore, in every dramatic scene I felt that they did not really wish to drag conversations too long or debate complicated topics too deep,
-so instead they tried to shorten down dialogs as possible and turned it into very straightforward storytelling (to put it nicely)
-Of course, it backfired miserably and the story failed to convey anything impactful to me at all.
-Hell, if this work clearly indicates itself as moege/nukige the writing and pacing might be toleratable for me. 
-However, they half-assedly tried to create a serious story, and that seriously triggered me. 
-
-Granted, reading Trinoline directly after finishing great VNs might skewed my baseline expectation quite a bit
-But at least I now understand why Minori has gone, to its graveyard. 
-
 
 I agree that the writing might play a part in overall bad pacing, but I think the biggest problem is "overabundance of quality"
 From what I've played so far (3 routes except Kuro's), each route can easily replace a true route in other VNs easily due to the sheer force of length, emotions, and plots
