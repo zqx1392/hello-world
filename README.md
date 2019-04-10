@@ -16,6 +16,7 @@ TODO:
 	- lock down fri apppointment (thai and tokyo)
 	- find store that sells omiyage if unobtainable via online
 	- star plan in Thai
+	- get song from da capo
 
 4/13
 			10 - 13 -> finish running&cleaning quickly
