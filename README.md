@@ -1,7 +1,8 @@
 don't forget to 
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
-- watch the star (summer, 小岩？)
+- watch the star (summer, 小岩？, 石垣島)
+- https://pantip.com/topic/36428780, ที่ ดูดาว ไม่มีรถ
 
 now
 - time to seriously listen jap and capture pitch 
