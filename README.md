@@ -4,18 +4,6 @@ don't forget to
 - watch the star (summer, 小岩？, 石垣島)
 - https://pantip.com/topic/36428780, ที่ ดูดาว ไม่มีรถ
 
-4/13
-
-			20 -> pack last items
-				・グッズ
-					→ タペストリー: go for big hiten? <- if find replacement first
-			21 -> gather concrete date and item from fri&mom
-				: お土産まとめ
-					→ 親戚 (2 - 3)
-					→ fri (1)
-					→ inp (1 + request)
-			check movie reserve + cancel policy
-
 now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
@@ -25,6 +13,22 @@ improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
 
-TODO:
-	- lock down fri apppointment (thai and tokyo)
-	- star plan in Thai
+
+current midweek
+	-> finish ikusa fast 
+	-> devoted myself to another nuk, by randomizer
+		-> mashimaro
+		-> recently downloaded
+		-> ???
+	-> probably start another anm if seriously bored
+mon
+	-> to maiya, fill drink, to coop and get eggs + negi
+	-> curry
+	-> start asking thai member?
+tue
+	-> matsuya
+	-> create asari + horensou, eggs for 1 meal
+	-> start looking at thethre
+wed
+	-> curry + meat
+	-> cooking chahan (for 2 meals?)
