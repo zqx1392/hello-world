@@ -21,10 +21,6 @@ current midweek
 		-> recently downloaded
 		-> ???
 	-> probably start another anm if seriously bored
-mon
-	-> to maiya, fill drink, to coop and get eggs + negi
-	-> curry
-	-> start asking thai member?
 tue
 	-> matsuya
 	-> create asari + horensou, eggs for 1 meal
