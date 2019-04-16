@@ -15,7 +15,6 @@ improve myself
 
 
 current midweek
-	-> finish ikusa fast 
 	-> devoted myself to another nuk, by randomizer
 		-> mashimaro
 		-> recently downloaded
