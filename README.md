@@ -13,17 +13,48 @@ improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
 
+TODO:
+	- get カール
 
-current midweek
-	-> devoted myself to another nuk, by randomizer
-		-> mashimaro
-		-> recently downloaded
-		-> ???
-	-> probably start another anm if seriously bored
-tue
-	-> matsuya
-	-> create asari + horensou, eggs for 1 meal
-	-> start looking at thethre
-wed
-	-> curry + meat
-	-> cooking chahan (for 2 meals?)
+4/20
+			07 - 14 -> 北上
+				・ river of course
+				・ top of mountain
+				・ west kouen
+				・ top riverbank
+				・ shrine
+				・ eat (matsuya shokudo)
+				・ back via train
+			14 - 16 -> shiroyama?
+			16 - 17 -> buy omiyage for real (except short expire one)
+				> melon
+				> ichigo
+				> one high quantity item
+			17 - 18 -> dinner somewhere
+			19 - 20 -> start cleaning more seriously?
+				: whole bathroom
+				: toilet
+				: kitchen
+				: 玄関
+				: trunkroom
+				: closet
+			21 -> to plan 4/29
+				> waiting for goods news
+			22 -> gather concrete date and item from fri&mom
+				: use it to plan thai in details
+		4/21
+			10 - 13 -> be piece of slimy lazy shit
+				> devour mangekyou bgm
+			12 - 13 -> food run to nanak or tochuu kare
+			13 - 14 -> scout sakura a bit
+			14+		-> lollygagging + resume planning
+			14+		-> packing to almost full
+				> 3 box miyage
+				> 戦利品 (can get into bag, though not recommend)
+				> perfume
+				> find something to lock down books for minimal damage?
+				> broken pants + cloth
+			15+		-> devote to mangekyou & sakuuta
+			???		-> watch anime or marvel
+
+
