@@ -17,6 +17,28 @@ TODO:
 	- get カール
 
 4/20
+			10 - 11 -> be piece of slimy lazy shit
+				> devour mangekyou bgm
+			11 - 13 -> start cleaning
+				: clean towel + bed
+				: whole bathroom
+				: toilet
+				: kitchen
+				: 玄関
+				: trunkroom
+				: closet
+				: packing to almost full
+					> 3 box miyage
+					> 戦利品 (can get into bag, though not recommend)
+					> perfume
+					> find something to lock down books for minimal damage?
+					> broken pants + cloth
+			13 - 15 -> lollygagging + planning
+			15 - 17 -> run	
+			18+		-> devote to mangekyou & sakuuta
+			???		-> watch anime or marvel
+			
+		4/21
 			07 - 14 -> 北上
 				・ river of course
 				・ top of mountain
@@ -30,31 +52,7 @@ TODO:
 				> melon
 				> ichigo
 				> one high quantity item
-			17 - 18 -> dinner somewhere
-			19 - 20 -> start cleaning more seriously?
-				: whole bathroom
-				: toilet
-				: kitchen
-				: 玄関
-				: trunkroom
-				: closet
+			17 - 18 -> dinner somewhere				
 			21 -> to plan 4/29
 				> waiting for goods news
-			22 -> gather concrete date and item from fri&mom
-				: use it to plan thai in details
-		4/21
-			10 - 13 -> be piece of slimy lazy shit
-				> devour mangekyou bgm
-			12 - 13 -> food run to nanak or tochuu kare
-			13 - 14 -> scout sakura a bit
-			14+		-> lollygagging + resume planning
-			14+		-> packing to almost full
-				> 3 box miyage
-				> 戦利品 (can get into bag, though not recommend)
-				> perfume
-				> find something to lock down books for minimal damage?
-				> broken pants + cloth
-			15+		-> devote to mangekyou & sakuuta
-			???		-> watch anime or marvel
-
 
