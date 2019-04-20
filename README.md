@@ -17,27 +17,15 @@ TODO:
 	- get カール
 
 4/20
-			10 - 11 -> be piece of slimy lazy shit
-				> devour mangekyou bgm
+				
 			11 - 13 -> start cleaning
-				: clean towel + bed
-				: whole bathroom
+				: clean bed <- tmr
 				: toilet
-				: kitchen
-				: 玄関
-				: trunkroom
-				: closet
+				: trunkroom <- later
 				: packing to almost full
 					> 3 box miyage
-					> 戦利品 (can get into bag, though not recommend)
-					> perfume
-					> find something to lock down books for minimal damage?
 					> broken pants + cloth
-			13 - 15 -> lollygagging + planning
-			15 - 17 -> run	
-			18+		-> devote to mangekyou & sakuuta
-			???		-> watch anime or marvel
-			
+
 		4/21
 			07 - 14 -> 北上
 				・ river of course
@@ -48,11 +36,8 @@ TODO:
 				・ eat (matsuya shokudo)
 				・ back via train
 			14 - 16 -> shiroyama?
-			16 - 17 -> buy omiyage for real (except short expire one)
-				> melon
-				> ichigo
-				> one high quantity item
-			17 - 18 -> dinner somewhere				
+			17 - 18 -> dinner somewhere
+			18 - 19 -> devour mangekyou bgm
 			21 -> to plan 4/29
 				> waiting for goods news
 
