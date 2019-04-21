@@ -15,29 +15,23 @@ improve myself
 
 TODO:
 	- get カール
+	- clean toilet
 
-4/20
-				
-			11 - 13 -> start cleaning
-				: clean bed <- tmr
-				: toilet
-				: trunkroom <- later
-				: packing to almost full
-					> 3 box miyage
-					> broken pants + cloth
-
-		4/21
-			07 - 14 -> 北上
-				・ river of course
-				・ top of mountain
-				・ west kouen
-				・ top riverbank
-				・ shrine
-				・ eat (matsuya shokudo)
-				・ back via train
-			14 - 16 -> shiroyama?
-			17 - 18 -> dinner somewhere
-			18 - 19 -> devour mangekyou bgm
-			21 -> to plan 4/29
-				> waiting for goods news
+4/27
+	- save bed sheet + underwear into washer beforehand
+	- trunkroom at the end <- pack miyage + broken pants + cloth
+	07 - 12 -> 北上
+		・ river of course
+		・ top of mountain
+		・ west kouen
+		・ top riverbank
+		・ shrine
+		・ eat (matsuya shokudo)
+		・ back via train
+	12 - 14 -> shiroyama?
+	14 - 17 -> morioka marathon
+	17 - 18 -> dinner somewhere
+	18 - 19 -> devour mangekyou bgm
+	21 -> to plan 4/29
+		> waiting for goods news
 
