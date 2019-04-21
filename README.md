@@ -16,6 +16,7 @@ improve myself
 TODO:
 	- get カール
 	- clean toilet
+	- youtube songs
 
 4/27
 	- save bed sheet + underwear into washer beforehand
