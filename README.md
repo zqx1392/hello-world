@@ -15,7 +15,6 @@ improve myself
 - improve japanese... better speaking and listening
 
 MEAL:
-	mon : bentou or osaka
 	tue : bentou + chahan
 	wed : chahan + nakano
 	thu : matsuya + bentou
