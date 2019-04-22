@@ -26,6 +26,26 @@ PLAN:
 	wed : Toilet, 万華鏡, utube?
 	thu : 運動, bgm, think about gift more, serious 29 planning, matome roge into neat folders
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
+	
+4/27
+		-> full tour day -- need to draw plan map
+			河川敷 -> 城跡 -> 寺 -> 高松 -> 大学 -> 駅 -> 美術館 
+		07 - 12 -> 北上
+			・ river of course
+			・ top of mountain
+			・ west kouen
+			・ top riverbank
+			・ shrine
+			・ eat (matsuya shokudo)
+			・ back via train (12.09 or 13.07)
+		12 - 14 -> shiroyama? (14.14, 14.53, 15.16)
+		14 - 17 -> morioka marathon
+		17 - 18 -> dinner at eki-mae or そば
+		18 - 19 -> buy bentou + fukuda pan for 4/28
+		19 - 20 -> do fast clean
+		20 -> get all shit from TODO before depart list
+		21 -> to plan 4/29
+			> waiting for goods news
 
 TODO before departing
 	- shut breaker <- empty refrigerator first
