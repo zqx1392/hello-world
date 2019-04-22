@@ -1,4 +1,5 @@
 don't forget to 
+- doy smur down?
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
 - watch the star (summer, 小岩？, 石垣島)
@@ -13,26 +14,24 @@ improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
 
-TODO:
-	- get カール
-	- clean toilet
-	- youtube songs
+MEAL:
+	mon : bentou or osaka
+	tue : bentou + chahan
+	wed : chahan + nakano
+	thu : matsuya + bentou
+	fri - matsuya or bentou + curry
+PLAN:
+	mon : 運動, go 万華鏡
+	tue : Marvel, find place to buy カール, think about gift a bit
+	wed : Toilet, 万華鏡, utube?
+	thu : 運動, bgm, think about gift more, serious 29 planning, matome roge into neat folders
+	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 
-4/27
-	- save bed sheet + underwear into washer beforehand
-	- trunkroom at the end <- pack miyage + broken pants + cloth
-	07 - 12 -> 北上
-		・ river of course
-		・ top of mountain
-		・ west kouen
-		・ top riverbank
-		・ shrine
-		・ eat (matsuya shokudo)
-		・ back via train
-	12 - 14 -> shiroyama?
-	14 - 17 -> morioka marathon
-	17 - 18 -> dinner somewhere
-	18 - 19 -> devour mangekyou bgm
-	21 -> to plan 4/29
-		> waiting for goods news
+TODO before departing
+	- shut breaker <- empty refrigerator first
+	- log door, windows
+	- muh hat
+	- charger
+	- hair gel, ear scratcher
+	- take big hiten home if found new replacement
 
