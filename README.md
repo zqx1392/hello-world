@@ -15,15 +15,14 @@ improve myself
 - improve japanese... better speaking and listening
 
 MEAL:
-	tue : bentou + chahan
+	tue : chahan
 	wed : chahan + nakano
 	thu : matsuya + bentou
 	fri - matsuya or bentou + curry
 PLAN:
-	mon : 運動, go 万華鏡
-	tue : Marvel, find place to buy カール, think about gift a bit
-	wed : Toilet, 万華鏡, utube?
-	thu : 運動, bgm, think about gift more, serious 29 planning, matome roge into neat folders
+	tue : Marvel, order カール via amazon or rakuten, ask mom for advice about argo-gift
+	wed : Toilet, bgm up, utube?
+	thu : 運動, think about gift more, serious 29 planning, matome roge into neat folders
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 	
 4/27
