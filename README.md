@@ -52,4 +52,5 @@ TODO before departing
 	- charger
 	- hair gel, ear scratcher
 	- take big hiten home if found new replacement
+	- should I put fruit soap? -> give who ? -> favor?
 
