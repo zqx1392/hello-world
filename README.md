@@ -20,7 +20,7 @@ MEAL:
 	thu : matsuya + bentou
 	fri - matsuya or bentou + curry
 PLAN:
-	tue : Marvel, order カール via amazon or rakuten, ask mom for advice about argo-gift, bgm up
+	tue : Marvel, order カール via amazon or rakuten, ask mom for advice about argo-gift, bgm up, find hotel for 2
 	wed : Toilet, utube?
 	thu : 運動, think about gift more, serious 29 planning, matome roge into neat folders
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
