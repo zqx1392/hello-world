@@ -18,9 +18,7 @@ MEAL:
 	thu : matsuya + bentou
 	fri - matsuya or bentou + curry
 PLAN:
-	wed : Toilet, utube?, burn your soul for sakuuta
-		-> start randomize new ge? ()
-	thu : 運動, serious 29 planning, matome roge into neat folders
+	thu :buy meal, buy mom orange c, 運動, serious 29 planning
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 	
 4/27
