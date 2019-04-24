@@ -15,7 +15,6 @@ improve myself
 - improve japanese... better speaking and listening
 
 MEAL:
-	wed : chahan + tenpu
 	thu : matsuya + bentou
 	fri - matsuya or bentou + curry
 PLAN:
