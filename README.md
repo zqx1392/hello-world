@@ -18,7 +18,7 @@ MEAL:
 	thu : matsuya + bentou
 	fri - matsuya or bentou + curry
 PLAN:
-	thu :buy meal, buy mom orange c, 運動, serious 29 planning
+	thu :buy meal, buy mom orange c, 運動, serious 29 planning, check all character 1 booth
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 	
 4/27
