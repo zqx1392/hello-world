@@ -20,7 +20,8 @@ MEAL:
 	fri - matsuya or bentou + curry
 PLAN:
 	wed : Toilet, utube?, burn your soul for sakuuta
-	thu : 運動, dry seafood, any food, serious 29 planning, matome roge into neat folders
+		-> start randomize new ge? ()
+	thu : 運動, serious 29 planning, matome roge into neat folders
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 	
 4/27
@@ -36,6 +37,7 @@ PLAN:
 			・ back via train (12.09 or 13.07)
 		12 - 14 -> shiroyama? (14.14, 14.53, 15.16)
 		14 - 17 -> morioka marathon
+		17	-> buy dry seafood, good miyage
 		17 - 18 -> dinner at eki-mae or そば
 		18 - 19 -> buy bentou + fukuda pan for 4/28
 		19 - 20 -> do fast clean
