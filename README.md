@@ -15,14 +15,11 @@ improve myself
 - learn programming, python, and new tech 
 - improve japanese... better speaking and listening
 
-MEAL:
-	fri - matsuya or bentou + curry
 PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
 	> take card to buy vitamin c from kiyo <- also use that weekend discount card
-	thu :buy meal, 運動, check all character 1 booth, retouch duo+1
-	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
+	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk
 	
 4/27
 		-> full tour day -- need to draw plan map
