@@ -1,5 +1,5 @@
 don't forget to 
-- change phone provider?
+- change phone provider (to softbank)?
 - doy smur down?
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
@@ -22,7 +22,7 @@ PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
 	> take card to buy vitamin c from kiyo <- also use that weekend discount card
-	thu :buy meal, 運動, serious 29 planning, check all character 1 booth, retouch duo+1
+	thu :buy meal, 運動, check all character 1 booth, retouch duo+1
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 	
 4/27
