@@ -16,7 +16,6 @@ improve myself
 - improve japanese... better speaking and listening
 
 MEAL:
-	thu : matsuya + bentou
 	fri - matsuya or bentou + curry
 PLAN:
 	all
