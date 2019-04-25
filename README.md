@@ -1,4 +1,5 @@
 don't forget to 
+- change phone provider?
 - doy smur down?
 - travel to south, eat ramen and other restaurant
 - to flea market near morioka (sat only?)
