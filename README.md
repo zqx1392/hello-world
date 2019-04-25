@@ -20,7 +20,7 @@ MEAL:
 PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
-	> take card to buy vitamin c from kiyo
+	> take card to buy vitamin c from kiyo <- also use that weekend discount card
 	thu :buy meal, 運動, serious 29 planning, check all character 1 booth, retouch duo+1
 	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk, utube	
 	
