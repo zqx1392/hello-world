@@ -17,27 +17,22 @@ don't forget to
 now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
-- 会話　聞き流し　チャットルーム
-
-improve myself
-- learn programming, python, and new tech 
-- improve japanese... better speaking and listening
 
 PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
 	> find stupid gift for fri
+	> find daiso in tokyo for boom
 	
 4/27
 		-> full tour day -- need to draw plan map
-			河川敷 -> 城跡 -> 寺 -> 高松 -> 大学 -> 駅 -> 美術館 
+			河川敷 -> 城跡 -> 寺 -> 高松 -> 大学 -> 駅 -> 美術館
+		09 -> family mart for the ticket
 		10 - 12 -> do fast clean, buy powder from kiyo, eat, do all departing in advance, sentaku
 		14 - 17 -> morioka marathon
 		17 - 18 -> dinner at eki-mae or そば
 		18 - 19 -> buy bentou + fukuda pan for 4/28
 		20 -> get all shit from TODO before depart list
-		21 -> to plan 4/29
-			> waiting for goods news
 
 TODO before departing
 	- sort house a bit 
@@ -48,60 +43,66 @@ TODO before departing
 	- hair gel, ear scratcher
 	- take big hiten home if found new replacement
 	- should I put fruit soap? -> give who ? -> favor?
+	- hdd, notebook
 	- passport and shits
 	
 	war
 		c1
-			-> fav
-			-> makura
+			-> fav: music collection + canvas + phone case if very attractive, 12.30 gacha (8500)
+			-> makura : set, 13.00 gacha (3000 + 1500)
 			-- other fun booth
 		c15
+			Special
+			eshi - 1000
 			Group 1 (A 35 36 37 B6 C12)
-			1 -> WNB
-			2 -> hiten
-			3 -> wasabi
-			3 -> pion
-			4 -> kaitan
+			S -> WNB: set (2500), also card if success (12.30, 3000)
+			A -> hiten: set (1000)
+			3 -> wasabi: ?
+			A -> pion: book (500)
+			4 -> kaitan: ?
 			Group 2 (A 16 19 9 8)
-			1 -> nakamura
-			2 -> asagi
-			3 -> eri
-			4 -> napata
+			S -> nakamura: book (500)
+			B -> asagi: book (1000) 
+			3 -> eri:?
+			4 -> napat: ?
 			Group 3 (I 41)
-			1 -> hiro
+			1 -> hiro:?
 			???-> holo, mitsumi
-			
-		jikuchu
-			-> lot of good shit to explore
+
 		4/28
 			10.30 -> arrived
 			上野 -> 田原町 -> 秋葉 (every 3 min)
 			11.00 -> akiba
+			11.15 -> inspect 絵師
 			12.00 -> sell all shits
 			13.00 -> eat holy curry (if available), else aki-based ramen or curry
-			15.00 -> buy all miyage possible
+			14.00 -> go to jiku (hiten, little devil) and acquire comic1 from somewhere
+			15.00 -> buy all miyage possible (daiso)
 			16.00 -> back to hotel, rest and replan
 				a. to yokohama
 				b. stalk aki + food hunt kanda
 				c. if tired from previous day... food hunt around hotel
-			(opt) if I can access to eshi shop, scan them first and pick before 品切れ
+
 		4/29
+			prepare small lunch in advance...
 			06.00 - 15.30 -> full scale war (try to yab mood?)
-				-> how early..... check hiten/wnb/wasabi and such first
-				-> if not early just go 08-09
-				-> 10.30 - 11.00 = get most important at c15
+				-> full early
+				-> 10.30 - 11.00 = get wnb, hiten, nakamura, pion, eshi
 				-> 11.00 - 11.45 = get 枕 + Favorite (any other)
-				-> 11.45 - 12.45 = get the rest
-				-> 12.45 - 14.00 = retreat to gundum and eat
-				-> 14.00 - 15.30 = fav event...
-			16.30 -> sell 戦利品　fast
+				-> 11.45 - 12.30 = get the rest
+				-> 12.30 - 12.35 = wnb
+				-> 12.35 - 12.50 = favortite gacha
+				-> 12.50 - 13.10 = makura
+				-> 13.15 - 14.30 = retreat to eat
+				-> 15.00 - 17.00 = fav event...
+			17.45 -> sell 戦利品　fast
 			19.00 -> sweet hunt, food hunt 
 			night -> enjoy extracting data from favorite, and more 戦利品, and pack things up
 		4/30
 			09.30 -> entrust bag in ueno
 			10.00-11.00 -> visit gallery early + with fri for less crowd
 			11.00-13.00 -> go food hunt, hunt leftover (can be swap order)
-			15.00 -> do anything you need to before going to 成田 (14.34 from 京成上野)
+			13.00 -> do anything you need to before going to 成田 (14.34 from 京成上野)
 			
 			Food list
 			Lunch/Home							Dinner/Outside
