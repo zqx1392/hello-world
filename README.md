@@ -26,25 +26,15 @@ improve myself
 PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
-	fri : 布団 + underwear → 洗濯機, broken cloth + pants into trunk
+	> find stupid gift for fri
 	
 4/27
 		-> full tour day -- need to draw plan map
 			河川敷 -> 城跡 -> 寺 -> 高松 -> 大学 -> 駅 -> 美術館 
-		07 - 12 -> 北上
-			・ river of course
-			・ top of mountain
-			・ west kouen
-			・ top riverbank
-			・ shrine
-			・ eat (matsuya shokudo)
-			・ back via train (12.09 or 13.07)
-		12 - 14 -> shiroyama? (14.14, 14.53, 15.16)
+		10 - 12 -> do fast clean, buy powder from kiyo, eat, do all departing in advance, sentaku
 		14 - 17 -> morioka marathon
-		17	-> buy dry seafood, good miyage
 		17 - 18 -> dinner at eki-mae or そば
 		18 - 19 -> buy bentou + fukuda pan for 4/28
-		19 - 20 -> do fast clean
 		20 -> get all shit from TODO before depart list
 		21 -> to plan 4/29
 			> waiting for goods news
@@ -66,11 +56,20 @@ TODO before departing
 			-> makura
 			-- other fun booth
 		c15
-			-> WNB
-			-> hiten
-			-> pion
-			-> wasabi
-			-> holo
+			Group 1 (A 35 36 37 B6 C12)
+			1 -> WNB
+			2 -> hiten
+			3 -> wasabi
+			3 -> pion
+			4 -> kaitan
+			Group 2 (A 16 19 9 8)
+			1 -> nakamura
+			2 -> asagi
+			3 -> eri
+			4 -> napata
+			Group 3 (I 41)
+			1 -> hiro
+			???-> holo, mitsumi
 			
 		jikuchu
 			-> lot of good shit to explore
