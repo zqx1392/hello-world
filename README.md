@@ -43,6 +43,7 @@ PLAN:
 			> waiting for goods news
 
 TODO before departing
+	- sort house a bit 
 	- shut breaker <- empty refrigerator first
 	- log door, windows
 	- muh hat
