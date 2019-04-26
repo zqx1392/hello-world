@@ -58,6 +58,7 @@ TODO before departing
 	- hair gel, ear scratcher
 	- take big hiten home if found new replacement
 	- should I put fruit soap? -> give who ? -> favor?
+	- passport and shits
 	
 	war
 		c1
