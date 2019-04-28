@@ -21,14 +21,8 @@ now
 PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
-	> find stupid gift for fri
-	> find daiso in tokyo for boom
+	> find stupid gift for fri <-
 
-TODO before departing
-	- shut breaker <- empty refrigerator first
-	- log door, windows
-	- hair gel, ear scratcher
-	
 	war
 		c1
 			-> fav: music collection + canvas + phone case if very attractive, 12.30 gacha (8500)
@@ -38,17 +32,17 @@ TODO before departing
 			Special
 			eshi - 1000
 			Group 1 (A 35 36 37 B6 C12)
+			? -> wasabi
 			S -> WNB: set (2500), also card if success (12.30, 3000)
 			A -> hiten: set (1000)
 			A -> pion: book (500)
 			4 -> kaitan: ?
-			Group 2 (A 16 19 9 8)
+			Group 2 (A 16 19)
 			S -> nakamura: book (500)
 			B -> asagi: book (1000) 
-			3 -> eri:?
 			Group 3 (I 41)
-			1 -> hiro:?
-			???-> holo, mitsumi
+			S -> hiro:?
+			???-> mitsumi (R22)
 
 		4/28
 
@@ -103,6 +97,9 @@ TODO before departing
 		TODO:
 			- Netflix somthing
 			- Fakku Register
+				-> new napata
+				-> from phone pic
+				-> 求愛エトランゼ 
 			- 鑑賞戦利品
 			- 海賊
 				> senhime
