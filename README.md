@@ -51,12 +51,7 @@ TODO before departing
 			???-> holo, mitsumi
 
 		4/28
-			10.30 -> arrived
-			上野 -> 田原町 -> 秋葉 (every 3 min)
-			11.00 -> akiba
-			11.15 -> inspect 絵師
-			12.00 -> sell all shits
-			13.00 -> eat holy curry (if available), else aki-based ramen or curry
+
 			14.00 -> go to jiku (hiten, little devil) and acquire comic1 from somewhere
 			15.00 -> buy all miyage possible (daiso)
 			16.00 -> back to hotel, rest and replan
