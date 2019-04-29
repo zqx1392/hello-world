@@ -21,7 +21,11 @@ now
 PLAN:
 	all
 	> find good gift for dad then (just find by concidence)
-	> find stupid gift for fri <-
+	> find stupid gift for fri <- small gift
+	> get tooya.... 等価交換	
+	> small other
+	> read agreement for eshi
+	> find something to give mood
 
 	war
 		c1
