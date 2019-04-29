@@ -19,6 +19,7 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 PLAN:
+
 	all
 	> find good gift for dad then (just find by concidence)
 	> find stupid gift for fri <- small gift
@@ -27,13 +28,7 @@ PLAN:
 	> read agreement for eshi
 	> find something to give mood
 	> pm 2.5 mask for young girl
-
-		4/30
-			09.30 -> entrust bag in ueno
-			10.00-11.00 -> visit gallery early + with fri for less crowd
-			11.00-13.00 -> go food hunt, hunt leftover (can be swap order)
-			13.00 -> do anything you need to before going to 成田 (14.34 from 京成上野)
-			
+	
 			Food list
 			Lunch/Home							Dinner/Outside
 				> Noodle							> MK
