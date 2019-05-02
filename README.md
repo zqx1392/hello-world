@@ -1,3 +1,5 @@
+fix psmusic website
+
 don't forget to 
 - change phone provider (to softbank)?
 - doy smur down?
