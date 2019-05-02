@@ -11,7 +11,6 @@ don't forget to
 	> more curry
 	> 辛子
 	> learn trick from mom and decide later
-	> snack, snack, snack, SNACK
 	> good miyage for kumagai-san
 
 now
@@ -21,13 +20,7 @@ now
 PLAN:
 
 	all
-	> find good gift for dad then (just find by concidence)
-	> find stupid gift for fri <- small gift
 	> get tooya.... 等価交換	
-	> small other
-	> read agreement for eshi
-	> find something to give mood
-	> pm 2.5 mask for young girl
 	
 			Food list
 			Lunch/Home							Dinner/Outside
@@ -43,51 +36,27 @@ PLAN:
 				> look-chup							> After U
 
 		タイまとめ
-			5/1 - fri, buy&fix half, sort house
-			5/2 - pao, iPA, buy&fix half, movie
 			5/3 - siam　icon?
 			5/4 - free
 			5/5 - relative
 			5/6 - free
 		TODO:
 			- Netflix somthing
-			- Fakku Register
 				-> new napata
 				-> from phone pic
 				-> 求愛エトランゼ 
 			- 鑑賞戦利品
 			- 海賊
-				> senhime
-				> WA2 extend
-				> 万華鏡 series
-				> Yuzu series
 				> Die ire full
-				> Dangan 3
 				> Ace Attorney
-				> Virtual Reward
 				> Baldr
 				> 動画
 				
-		5/1
-			: eat everything near house
-			: go meet fri (paragon?)
-				> enable phone net a while
-				> change phone case
-				> fix credit card problem
-				> clear other self-work if spare time available
-				> eat shits
-				> omiyage
-			: house/treasure sorting
 		5/2
 			: hair cut for fuck sake
-			: probably to emquartier to deliver shits
-			: lone eat hunt a bit
 			: do
 				> buy boot, belt, exercise shirt, pants
 				> buy work pants, jean?
-				> eat with pao
-				> watch movie with pao
-			: else just push to later day
 		5/3
 			: eat eat eat eat eat eat
 			: star? star??
@@ -101,7 +70,6 @@ PLAN:
 		5/1, 5/4, 5/5
 			> visit relative.. yeah
 			> probably went to good park and run for a bit
-			> guess party with family eh
 			
 		5/2, 5/3, 5/6
 			> lone eat hunt
