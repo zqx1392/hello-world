@@ -1,5 +1,3 @@
-fix psmusic website
-
 don't forget to 
 - change phone provider (to softbank)?
 - doy smur down?
@@ -44,27 +42,12 @@ PLAN:
 			5/6 - free
 		TODO:
 			- Netflix somthing
-				-> new napata
-				-> from phone pic
 				-> 求愛エトランゼ 
-			- 鑑賞戦利品
-			- 海賊
-				> Die ire full
-				> Ace Attorney
-				> Baldr
-				> 動画
 				
 		5/2
-			: hair cut for fuck sake
 			: do
 				> buy boot, belt, exercise shirt, pants
 				> buy work pants, jean?
-		5/3
-			: eat eat eat eat eat eat
-			: star? star??
-		:
-		:
-		:
 
 		5/6
 			: start packing and gather ingredient
