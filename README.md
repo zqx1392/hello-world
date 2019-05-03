@@ -40,9 +40,6 @@ PLAN:
 			5/4 - free
 			5/5 - relative
 			5/6 - free
-		TODO:
-			- Netflix somthing
-				-> 求愛エトランゼ 
 				
 		5/2
 			: do
