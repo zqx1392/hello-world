@@ -12,10 +12,11 @@ now
 
 PLAN:
 
-	all
-	> get tooya.... 等価交換	
-	
-			5/6 - free
+	aki
+	> get tooya.... 等価交換
+	> eat curry
+	> find leftover doujin(if time)
+	> ride train 19.00+
 				
 
 
