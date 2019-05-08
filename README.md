@@ -12,19 +12,24 @@ now
 
 PLAN:
 
-	aki
-	> get tooya.... 等価交換
-	> eat curry
-	> find leftover doujin(if time)
-	> ride train 19.00+
-				
-
-
-		5/6
-			: start packing and gather ingredient
-				> cloth
-				> omiyage
-				> sauce
+	house
+		> new internet
+		> buy spray for room?, cloth for table, hair for bathroom
+		> read all senrihin
+	work, career
+		> group plan
+		> ask future
+		> self improvement
+		> finish old tool poidup
+	hobby
+		> resume sakuuta
+		> quick finish tenshin
+		> resume running & body weight
+		> reserv new roge
+	travel
+		> start planning 6.15
+		> start planning summer festival
+		> start planning umi&hana
 	
 	
 
