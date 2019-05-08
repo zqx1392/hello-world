@@ -1,4 +1,4 @@
-don't forget to 
+don't forget to 峰打ち
 - change phone provider (to softbank)?
 - doy smur down?
 - travel to south, eat ramen and other restaurant
