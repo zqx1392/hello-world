@@ -12,24 +12,36 @@ now
 
 PLAN:
 
+	5/11 - 5/12
+		> buy butter + spray for room?, cloth for table, hair for bathroom, spatula, bag for 洗濯
+		> curry & pancake
+		> run to iwayama
+		> reserv bus/shinkan 6/15
+		> reserve 12月 hotel
+
 	house
 		> new internet
-		> buy spray for room?, cloth for table, hair for bathroom
 		> read all senrihin
+		> new food
 	work, career
 		> group plan
 		> ask future
 		> self improvement
-		> finish old tool poidup
 	hobby
 		> resume sakuuta
 		> quick finish tenshin
-		> resume running & body weight
+		> new exercise plan
 		> reserv new roge
 	travel
-		> start planning 6.15
-		> start planning summer festival
+		> Tokyo favorite
+			- go with hana?
+			
+		> start planning tohoku great festival (8/3 - 8/4)
+			- 青森 
+			- 秋田
+			- 盛岡
 		> start planning umi&hana
-	
+			- sanriku (金田温泉, 内陸 (tono, around south of ichinoseki) )
+			- find lodge that provide car&star
 	
 
