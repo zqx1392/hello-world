@@ -11,23 +11,13 @@ now
 PLAN:
 
 	5/10
-		- study 12月 geographic a bit more (dont go too far, try harder on 7月)
 		- time to seriously move forward with 3 stories for once (弾丸 last for excitement)
 		- rest well for serious outgoing weekend
-		- reserv new roge
-		- load tenbin cg and recent shits
-		- calculate GW damage a bit
 		- retracking new coming manga
 	5/11 - 5/12
 		> buy
 			- butter, milk
 			- shrimp & ika, other ingredient for curry
-			- spatula
-			- comb
-			- hair for bathroom
-			- table mat
-			- bag for 洗濯
-			- spray?
 			- belt...
 		> curry & pancake
 		> run to iwayama
@@ -44,6 +34,7 @@ PLAN:
 	hobby
 		> listen to japan more closely, and think about 真似 them
 		> new exercise plan (run longer, still need to heal knee first)
+		- reserv new roge <- be patient and wait for addition since extra 7500 not so worth
 	travel
 		> explore south (new restaurant), or flea market next week
 		> Tokyo favorite
