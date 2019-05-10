@@ -17,6 +17,7 @@ PLAN:
 		- reserv new roge
 		- load tenbin cg and recent shits
 		- calculate GW damage a bit
+		- retracking napata and new coming
 	5/11 - 5/12
 		> buy
 			- butter, milk
