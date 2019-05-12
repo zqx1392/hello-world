@@ -14,7 +14,6 @@ PLAN:
 		- retracking new coming manga
 	5/11 - 5/12
 		> run to iwayama
-		> read all senrihin
 		
 	house
 		> new internet
