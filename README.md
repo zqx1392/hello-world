@@ -10,11 +10,8 @@ now
 
 PLAN:
 
+		- hoshi futon
 
-		- retracking new coming manga
-	5/11 - 5/12
-		> run to iwayama
-		
 	house
 		> new internet
 		> new food
