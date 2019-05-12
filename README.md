@@ -10,20 +10,11 @@ now
 
 PLAN:
 
-	5/10
-		- time to seriously move forward with 3 stories for once (弾丸 last for excitement)
-		- rest well for serious outgoing weekend
+
 		- retracking new coming manga
 	5/11 - 5/12
-		> buy
-			- butter, milk
-			- shrimp & ika, other ingredient for curry
-			- belt...
-		> curry & pancake
 		> run to iwayama
 		> read all senrihin
-		> three at once
-		> plan tokyo flower a bit
 		
 	house
 		> new internet
@@ -37,6 +28,7 @@ PLAN:
 		- reserv new roge <- be patient and wait for addition since extra 7500 not so worth
 	travel
 		> explore south (new restaurant), or flea market next week
+		> hanabi
 		> Tokyo favorite
 			- reserve bus or shinkan if 50% failed
 			- go with hana?
