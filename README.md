@@ -11,6 +11,10 @@ now
 PLAN:
 
 		- hoshi futon
+		1460 + 480 (food and miyage)
+		5170 cloth
+		2825 shoes
+		390 belt
 
 	house
 		> new internet
@@ -24,6 +28,7 @@ PLAN:
 		- reserv new roge <- be patient and wait for addition since extra 7500 not so worth
 	travel
 		> explore south (new restaurant), or flea market next week
+		> star
 		> hanabi
 		> Tokyo favorite
 			- reserve bus or shinkan if 50% failed
