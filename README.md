@@ -9,6 +9,8 @@ now
 
 PLAN:
 
+- find another hotel during 8 9 10 so I can wait and see without much trouble
+- also find bus that enable luggage first, or it will become meaningless...
 対象8日
 	- fav : track history
 		not really expecting much since they all in during GW but 30-40% 可能性
@@ -19,7 +21,7 @@ PLAN:
 	- heliodor : track history
 		15 days merch create, research other brand history first for solid conjecture, 80% 可能性
 	- library, dead day, navel?
-			1460 + 480 (food and miyage)
+		1460 + 480 (food and miyage)
 		5170 cloth
 		2825 shoes
 		390 belt
