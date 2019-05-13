@@ -8,6 +8,21 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 PLAN:
+
+対象8日
+	- fav : track history
+		not really expecting much since they all in during GW but 30-40% 可能性
+		※ might pact with marmalade as usual? -> 80-90% 可能性
+	- eushul&枕&innocent grey
+		developing rn, might release 10-11月, still might have pre-merch 10-20% 可能性
+		※ eushul will also sell during コミ regardless
+	- heliodor : track history
+		15 days merch create, research other brand history first for solid conjecture, 80% 可能性
+	- library, dead day, navel?
+			1460 + 480 (food and miyage)
+		5170 cloth
+		2825 shoes
+		390 belt
 	
 	weekday
 		- amanex price decrease...
@@ -21,11 +36,6 @@ PLAN:
 		- newmenu?
 		- research star with lodge + car service
 		
-		1460 + 480 (food and miyage)
-		5170 cloth
-		2825 shoes
-		390 belt
-
 	house
 		> new internet --- softbank... if not work then fine
 		> new food
