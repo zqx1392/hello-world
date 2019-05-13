@@ -1,5 +1,4 @@
 don't forget to 峰打ち
-- change phone provider (to softbank)?
 - doy smur down?
 - watch the star (summer, 小岩？, 石垣島)
 - https://pantip.com/topic/36428780, ที่ ดูดาว ไม่มีรถ
