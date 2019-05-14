@@ -8,13 +8,16 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	weekday
+	
 		- reserve 3-4 day amanex instead
 		- soru hotel reserve?
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
 		- research 乗り換え + softbank net promotion a bit
+		
 	weekend
+	
 		- hoshi futon
 		- newmenu?
 		- research star with lodge + car service
