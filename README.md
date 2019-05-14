@@ -10,7 +10,7 @@ now
 	weekday
 	
 		- reserve 3-4 day amanex instead
-		- soru hotel reserve?
+		- soru hotel reserve -> 29-1 in advance (can retract 1 later)
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
