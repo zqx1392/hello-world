@@ -23,19 +23,24 @@ now
 		- research star with lodge + car service
 		
 	house
+	
 		> new internet --- softbank... if not work then fine
 		> new food
 	work, career
+	
 		> self improvement
 	hobby
+	
 		> listen to japan more closely, and think about 真似 them
-		> new exercise plan (run longer, still need to heal knee first)
+		> start running after work?
 		- reserv new roge <- be patient and wait for addition since extra 7500 not so worth
 	8月
+	
 		> probably need to cancel shimbashi, fresa, ann, keikyu because I've found better one 
 			- might save for golf so should be late as possible
 		> might go fav, helio, 枕, navel for 電気外
 	travel
+	
 		> explore south (new restaurant), or flea market next week
 		> star
 		> hanabi : start from 7月上旬
