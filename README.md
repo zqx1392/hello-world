@@ -44,6 +44,7 @@ now
 		> explore south (new restaurant), or flea market next week
 		> star
 		> hanabi : start from 7月上旬
+			- hotel yoyaku (akita, 6.15)
 		> hana : settled for tokyo, look around at iwate/sendai/hokkaido
 		> sea : sanriku plan 7月 - 9月 金田温泉, 内陸 (tono, around south of ichinoseki)
 		> Tokyo favorite
