@@ -8,9 +8,6 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	weekday
-	
-		- reserve 3-4 day amanex instead
-		- soru hotel reserve -> 29-1 in advance (can retract 1 later)
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
