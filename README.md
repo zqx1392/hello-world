@@ -8,9 +8,6 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	weekday
-	
-		- yappari reserve amanex 10-13 via agoda (with alternative name) for peace of mind and 9600 + 19000 plan
-		- try tweetdeck for a bit
 		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
 			-> ace inn(4800) as base line.... find something cheaper
 		- finish 50-70% of tenshin
