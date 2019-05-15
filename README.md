@@ -10,6 +10,7 @@ now
 	weekday
 	
 		- yappari reserve amanex 10-13 via agoda (with alternative name) for peace of mind and 9600 + 19000 plan
+		- try tweetdeck for a bit
 		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
 			-> ace inn(4800) as base line.... find something cheaper
 		- finish 50-70% of tenshin
