@@ -8,7 +8,8 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	weekday
-		
+	
+		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
