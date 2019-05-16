@@ -9,8 +9,6 @@ now
 
 	weekday
 		
-		- find best route in tenshin to finish last
-		- check overall open time for akiba for better decision
 		- also find more place in akiba
 					: 軸 -> new release tape, 5-10 min
 					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
@@ -21,13 +19,14 @@ now
 					: man -> check 4th, 5 min
 					: trd -> check price, 5 min
 					: zin -> check additional, 5 min
-		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
-			-> just 1 night hostel.. 念のため
+					: animate -> tapestry
+					: hobbytengoku -> 1-2F
+					: gamers
+					: mulan
 		- plan 16 morning if interesting or not
 			: 等々力渓谷
 			: 文京あじさいまつり
 			: 小岩菖蒲園
-			: 清澄公園
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
