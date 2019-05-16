@@ -8,9 +8,22 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	weekday
-	
+		
+		- find best route in tenshin to finish last
+		- check overall open time for akiba for better decision
+		- also find more place in akiba
+					: 軸 -> new release tape, 5-10 min
+					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
+					: melon -> check all floors, 5+10 min
+					: kbook -> check section, 5 min
+					: sof -> check 2nd, 10 min
+					: las -> check leftover, 5 min
+					: man -> check 4th, 5 min
+					: trd -> check price, 5 min
+					: zin -> check additional, 5 min
 		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
-			-> just 1 night hostel..
+			-> just 1 night hostel.. 念のため
+		- plan 16 morning if interesting or not
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
@@ -30,6 +43,7 @@ now
 	work, career
 	
 		> self improvement
+		> 在留カード更新
 	hobby
 	
 		> listen to japan more closely, and think about 真似 them
