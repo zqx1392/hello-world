@@ -9,7 +9,7 @@ now
 
 	weekday
 		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
-			-> ace inn(4800) as base line.... find something cheaper
+			-> just 1 night hostel..
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
