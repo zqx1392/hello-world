@@ -27,7 +27,6 @@ now
 			: 等々力渓谷
 			: 文京あじさいまつり
 			: 小岩菖蒲園
-		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
 		- research 乗り換え + softbank net promotion a bit
@@ -38,6 +37,8 @@ now
 		- hoshi+sentaku towel
 		- newmenu?
 		- research star with lodge + car service
+		+ finish internet research
+		+ run
 		
 	house
 	
