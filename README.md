@@ -24,6 +24,10 @@ now
 		- find somewhere to rest during 6/15 - 6/16 (fri house lol?)
 			-> just 1 night hostel.. 念のため
 		- plan 16 morning if interesting or not
+			: 等々力渓谷
+			: 文京あじさいまつり
+			: 小岩菖蒲園
+			: 清澄公園
 		- finish 50-70% of tenshin
 		- slowly advance sakuuta
 		- go full ronpa
