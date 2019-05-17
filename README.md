@@ -9,6 +9,7 @@ now
 
 	weekday
 		
+		- ask fresa to reduce time when need?
 		- also find more place in akiba
 					: 軸 -> new release tape, 5-10 min
 					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
@@ -33,6 +34,7 @@ now
 		
 	weekend
 	
+		- end tenshin
 		- hoshi futon
 		- hoshi+sentaku towel
 		- newmenu?
@@ -55,7 +57,7 @@ now
 		- reserv new roge <- be patient and wait for addition since extra 7500 not so worth
 	8月
 	
-		> probably need to cancel shimbashi, fresa, ann, keikyu because I've found better one 
+		> probably need to cancel shimbashi, fresa, keikyu because I've found better one 
 			- might save for golf so should be late as possible
 		> might go fav, helio, 枕, navel for 電気外
 	travel
