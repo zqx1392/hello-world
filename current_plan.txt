@@ -1,3 +1,22 @@
+current
+fav
+	wait con time happyou?
+	> if not happyou and not enough, then ignore and go 16
+	> if enough, resv bus, cancel acco and tetsu, and plan movement strictly
+	yosan : 14200 + 3600 + 2000 + 1000, 7400 + 6000 + 1000
+obon
+	8から
+		main > aomi + amanex (6600 + 27400)
+		yobi > ace + keikyuu (9600 + 28300) (※ 1st 2nd day not 面, still need 電気)
+		or   > ace + amanex (9600 + 19000) (※ discuss with hotel directly)
+	9から
+		amanex (27400)
+		???  > ace + amanex (4800 + 19000) (※ 2st day not 面, けち, discuss with hotel success)
+	キャンへ
+		fres : too quick deadline to decide <- ask golf for plan before cancel
+		keik : too expensive and 贅沢, 予備 untill nego with amanex successful
+		tokyu: became obsolete
+
 find other country to travel please
 to feel the nature:		jap at summer
 to feel the people, city:	
