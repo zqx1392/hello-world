@@ -45,7 +45,7 @@ now
 	house
 	
 		> new internet --- softbank... if not work then fine
-		> new food
+		> new food : ジャーマンポテト
 	work, career
 	
 		> self improvement
@@ -61,7 +61,7 @@ now
 			- might save for golf so should be late as possible
 		> might go fav, helio, 枕, navel for 電気外
 	travel
-	
+		
 		> explore south (new restaurant), or flea market next week
 		> star
 		> hanabi : start from 7月上旬
