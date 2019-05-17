@@ -9,7 +9,6 @@ now
 
 	weekday
 		
-		- ask fresa to reduce time when need?
 		- also find more place in akiba
 					: 軸 -> new release tape, 5-10 min
 					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
