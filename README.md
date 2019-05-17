@@ -36,7 +36,7 @@ now
 		- end tenshin
 		- hoshi futon
 		- hoshi+sentaku towel
-		- newmenu?
+		- newmenu?　: ジャーマンポテト
 		- research star with lodge + car service
 		+ finish internet research
 		+ run
