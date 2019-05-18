@@ -1,9 +1,4 @@
 current
-fav
-	wait con time happyou?
-	> if not happyou and not enough, then ignore and go 16
-	> if enough, resv bus, cancel acco and tetsu, and plan movement strictly
-	yosan : 14200 + 3600 + 2000 + 1000, 7400 + 6000 + 1000
 obon
 	8から
 		main > aomi + amanex (6600 + 27400)
@@ -16,6 +11,25 @@ obon
 		fres : too quick deadline to decide <- ask golf for plan before cancel
 		keik : too expensive and 贅沢, 予備 untill nego with amanex successful
 		tokyu: became obsolete
+
+- also find more place in akiba
+					: 軸 -> new release tape, 5-10 min
+					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
+					: melon -> check all floors, 5+10 min
+					: kbook -> check section, 5 min
+					: sof -> check 2nd, 10 min
+					: las -> check leftover, 5 min
+					: man -> check 4th, 5 min
+					: trd -> check price, 5 min
+					: zin -> check additional, 5 min
+					: animate -> tapestry
+					: hobbytengoku -> 1-2F
+					: gamers
+					: mulan
+		- plan 16 morning if interesting or not
+			: 等々力渓谷
+			: 文京あじさいまつり
+			: 小岩菖蒲園
 
 find other country to travel please
 to feel the nature:		jap at summer
