@@ -7,44 +7,14 @@ now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-	weekday
+	weekend
 		
-		- also find more place in akiba
-					: 軸 -> new release tape, 5-10 min
-					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
-					: melon -> check all floors, 5+10 min
-					: kbook -> check section, 5 min
-					: sof -> check 2nd, 10 min
-					: las -> check leftover, 5 min
-					: man -> check 4th, 5 min
-					: trd -> check price, 5 min
-					: zin -> check additional, 5 min
-					: animate -> tapestry
-					: hobbytengoku -> 1-2F
-					: gamers
-					: mulan
-		- plan 16 morning if interesting or not
-			: 等々力渓谷
-			: 文京あじさいまつり
-			: 小岩菖蒲園
+		- hanabi hotel
 		- slowly advance sakuuta
 		- go full ronpa
-		- research 乗り換え + softbank net promotion a bit
-		
-	weekend
-	
-		- end tenshin
-		- hoshi futon
-		- hoshi+sentaku towel
-		- newmenu?　: ジャーマンポテト
-		- research star with lodge + car service
-		+ finish internet research
-		+ run
 		
 	house
 	
-		> new internet --- softbank... if not work then fine
-		> new food : ジャーマンポテト
 	work, career
 	
 		> self improvement
