@@ -11,6 +11,8 @@ now
 		
 		- slowly advance sakuuta
 		- go full ronpa
+		- iwate hana
+		- sanriku plan
 		
 	house
 	
@@ -37,8 +39,8 @@ now
 		> hana : settled for tokyo, look around at iwate/sendai/hokkaido
 		> sea : sanriku plan 7月 - 9月 金田温泉, 内陸 (tono, around south of ichinoseki)
 		> Tokyo favorite
-			- reserve bus or shinkan if 50% failed
-			- go with hana?
+			- back 6/16 with reserved hotel/train if nothing goes wrong
+			- still, if it gonna end early (18.30 - 19.00), go back early instead
 		> matsuri : tohoku great festival (8/3 - 8/4)
 			- 青森 
 			- 秋田
