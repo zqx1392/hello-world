@@ -13,7 +13,6 @@ now
 		- go full ronpa
 		- buy shoe cleaner
 		- find new way to improve my arm, and probably train my intermediate abs thoroughly
-		- iwate hana
 		- sanriku plan
 		- tenshin bg extract?
 		
@@ -36,11 +35,15 @@ now
 	travel
 		
 		> explore south (new restaurant), or flea market next week
-		> star
+		> star : prince hotel start from 9/1
 		> hanabi : start from 7月上旬
 			- ready for oomagari ticket
-		> hana : settled for tokyo, look around at iwate/sendai/hokkaido
+		> hana
+			- tokyo : small fujisai, garden and east tokyo
+			- iwate : 8月向日葵, regularly visit 雫石+城跡+高松
+			- sendai+hokkaido???
 		> sea : sanriku plan 7月 - 9月 金田温泉, 内陸 (tono, around south of ichinoseki)
+		> mountain
 		> Tokyo favorite
 			- back 6/16 with reserved hotel/train if nothing goes wrong
 			- still, if it gonna end early (18.30 - 19.00), go back early instead
