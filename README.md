@@ -11,6 +11,8 @@ now
 		
 		- slowly advance sakuuta
 		- go full ronpa
+		- buy shoe cleaner
+		- find new way to improve my arm, and probably train my intermediate abs thoroughly
 		- iwate hana
 		- sanriku plan
 		- tenshin bg extract?
