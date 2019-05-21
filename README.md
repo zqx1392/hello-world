@@ -13,7 +13,7 @@ now
 		- go full ronpa
 		- buy shoe cleaner
 		- find new way to improve my arm, and probably train my intermediate abs thoroughly
-		- hana, umi, and yama : sanriku plan
+		- 6-7月 : sanriku + hana plan
 		- tenshin bg extract?
 		
 	house
