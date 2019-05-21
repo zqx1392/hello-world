@@ -13,7 +13,7 @@ now
 		- go full ronpa
 		- buy shoe cleaner
 		- find new way to improve my arm, and probably train my intermediate abs thoroughly
-		- 6-7月 : sanriku + hana plan
+		- hokkaido plan
 		- tenshin bg extract?
 		
 	house
@@ -39,10 +39,12 @@ now
 		> hanabi : start from 7月上旬
 			- ready for oomagari ticket
 		> hana
-			- tokyo : small fujisai, garden and east tokyo
+			- tokyo : 文京あじさいまつり, garden and east tokyo
 			- iwate : 8月向日葵, regularly visit 雫石+城跡+高松
-			- sendai+hokkaido???
-		> sea : sanriku plan 7月 - 9月 金田温泉, 内陸 (tono, around south of ichinoseki)
+			- hokkaido???
+		> sea : sanriku plan 7月 - 9月
+			1st route : miyako, kitayamazaki, ryuusendo
+			2nd route : みちのくあじさいまつり(一関), sendai, matsushima, cat island, ??? (probably around 7.15)
 		> mountain
 		> Tokyo favorite
 			- back 6/16 with reserved hotel/train if nothing goes wrong
