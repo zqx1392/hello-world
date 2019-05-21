@@ -51,4 +51,41 @@ now
 			- 青森 
 			- 秋田
 			- 盛岡
-
+			
+		- アジサイ, sendai
+		- 6 fav
+		- 7 sanriku
+		- 6-8 hana
+		- 7-8 firework
+		- 8 comi
+		- 9 osaka?
+		- 9 hokkaido?
+		- 10 star
+		- 10 c1
+		- 10-11 aki
+		conclusion
+			> 5/25 - 5/26 adventure into 雫石 if flower still survive (fucking slim)
+				: else 冒険 to 南, or 高松 + 道路祭り midway
+			> 6/1 - 6/2 make 著しい progress for rogue?
+			> 6/8 - 6/9 雫石 marathon plan
+			> finish sakuuta + dr3 before 6月末
+				: nukitashi, pocket, another hot next
+			> 6/15 - 6/16 : tokyo fav + flowerl
+			> 6/22 - 6/23 recover, town tour?
+			> 6/29 - 6/30 ???
+			7月
+			> probably should just full focus on ロげ
+			> 1 week for sanriku
+			> 1 week for firework?
+			> 1 week for hana
+			8月 (full 厳しい, need 体準備)
+			> ていうか、ロげやる時間なさそうじゃん
+			> 3-4 festival
+			> 10-11 comi
+			> 17-25 himawari + firework
+			> 31-1 firework
+			9月 (地方 month)
+			> 7-8 rest... (comic treasure isnt it?)
+			> 14-16 hokkaido?
+			> 21-23 rest plz
+			> 28-29 ??? 
