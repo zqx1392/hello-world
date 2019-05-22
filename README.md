@@ -13,7 +13,7 @@ now
 		- go full ronpa
 		- buy shoe cleaner
 		- find new way to improve my arm, and probably train my intermediate abs thoroughly
-		- hokkaido plan
+		- hokkaido plan : calculate airplane + hotel + train fare for going to 7/13
 		- tenshin bg extract?
 		
 	house
