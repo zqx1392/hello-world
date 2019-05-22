@@ -77,9 +77,10 @@ now
 			> 6/29 - 6/30 ???
 			7月
 			> probably should just full focus on ロげ
-			> 1 week for sanriku
-			> 1 week for firework?
-			> 1 week for hana
+			> 7/6 - 7/7 just lay down
+			> 7/13 - 7/15 week for sanriku or hokkaido...... OR BOTH (7/13 north sendai, 7/14 furuno.. STAR LODGE, 7/15 go home)
+			> 7/20 - 7/21 lay down or out for firework
+			> 7/28 - 7/29 firework, etc.
 			8月 (full 厳しい, need 体準備)
 			> ていうか、ロげやる時間なさそうじゃん
 			> 3-4 festival
