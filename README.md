@@ -13,7 +13,6 @@ now
 		- go full ronpa
 		- buy shoe cleaner
 		- find new way to improve my arm, and probably train my intermediate abs thoroughly
-		- hokkaido plan : calculate airplane + hotel + train fare for going to 7/13
 		- tenshin bg extract?
 		
 	house
@@ -41,7 +40,6 @@ now
 		> hana
 			- tokyo : 文京あじさいまつり, garden and east tokyo
 			- iwate : 8月向日葵, regularly visit 雫石+城跡+高松
-			- hokkaido???
 		> sea : sanriku plan 7月 - 9月
 			1st route : miyako, kitayamazaki, ryuusendo
 			2nd route : みちのくあじさいまつり(一関), sendai, matsushima, cat island, ??? (probably around 7.15)
@@ -78,7 +76,7 @@ now
 			7月
 			> probably should just full focus on ロげ
 			> 7/6 - 7/7 just lay down
-			> 7/13 - 7/15 week for sanriku or hokkaido...... OR BOTH (7/13 north sendai, 7/14 furuno.. STAR LODGE, 7/15 go home)
+			> 7/13 - 7/15 week for sanriku
 			> 7/20 - 7/21 lay down or out for firework
 			> 7/28 - 7/29 firework, etc.
 			8月 (full 厳しい, need 体準備)
