@@ -8,10 +8,13 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	current
-		
-		- slowly advance sakuuta
-		- go full ronpa
-		- buy shoe cleaner
+
+		- since we settled most for 6 8月, focus sakuuta + ronpa 
+			-> stop caring to find extra 2000 since its fucking great hotel
+			-> stop caring 6月 too since we can only wait for weather prediction
+		- prepare yourself for 12月 for at 6月 at least
+		- research 菜の花 a bit
+		- buy shoe cleaner, toothbrush, exercise cloth,
 		- find new way to improve my arm, and probably train my intermediate abs thoroughly
 		- tenshin bg extract?
 		
