@@ -18,7 +18,7 @@ now
 		- OR research 菜の花 a bit and might go
 		- buy shoe cleaner, toothbrush, exercise cloth
 		- 干し布団
-		- try かつ、あずき、???
+		- try かつ + 丼、あずき、???
 		- eat pancake and suki
 		- tenshin bg extract?
 	soon
