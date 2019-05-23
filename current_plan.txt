@@ -1,35 +1,82 @@
-current
-obon
+conclusion
+	✔fav	: settled, wait for weather and decide on 6/11
+	〇hanabi	: wait for specific date other than 8/31
+	◎hana 	: sunflower + ajisai as main, walk around morioka and find luck, also fuck hokkaido
+		-> might find lavender or tulip
+	◎trav	: sanriku, detail plan later
+		-> also osaka depending on mood and situation
+	△star	: found prince hotel and interval. might go after 9月, or 7月 if I can afford,
+		-> also 石垣島
+	〇matsuri: morioka drum, aomori neputa, akita ??? during 8/2 - 8/4. plan details later
+
+5-9月
+			> 5/25 - 5/26 adventure into 雫石 if flower still survive (fucking slim)
+				: else 冒険 to 南, or 高松 + midway shopping road
+			> 6/1 - 6/2 make 著しい progress for rogue?
+			> 6/8 - 6/9 雫石 marathon plan
+			> 6/15 - 6/16 : tokyo fav + flower
+				- also find more place in akiba
+					: 軸 -> new release tape, 5-10 min
+					: 穴 -> inspect 一般, check 単行本 + 同, other floor 10 min
+					: melon -> check all floors, 5+10 min
+					: kbook -> check section, other floor 5 min
+					: sof -> check 2nd, 10 min
+					: las -> check leftover, other floor 5 min
+					: man -> check 4th, 5 min
+					: trd -> check price, 色紙 5 min
+					: zin -> check additional, 5 min
+					: animate -> tapestry
+					: hobbytengoku -> 1-2F
+					: tsurugaya
+					: gamers
+					: mulan
+					: border tour
+				- plan 16 morning if interesting or not
+					: 等々力渓谷
+					: 文京あじさいまつり
+					: 小岩菖蒲園
+					: 早朝料理
+			> 6/22 - 6/23 recover, town tour?
+			> finish sakuuta + dr3 before 6月末
+				: nukitashi, pocket, another hot next
+			> 6/29 - 6/30 ???
+			7月 (regularly visit 雫石+城跡+高松)
+			> probably should just full focus on ロげ
+			> 7/6 - 7/7 just lay down
+			> 7/13 - 7/15 week for sanriku
+				1st route : miyako, kitayamazaki, ryuusendo
+				2nd route : みちのくあじさいまつり(一関), sendai, matsushima, cat island, ??? (probably around 7.15)
+			> 7/20 - 7/21 second week for sanriku, lay down, or out for firework
+			> 7/28 - 7/29 firework, etc.
+			8月 (full 厳しい, need 体準備)
+			> ていうか、ロげやる時間なさそうじゃん
+			> 3-4 festival
+			> 10-11 comi
+			> 17-25 himawari + firework
+			> 31-1 firework
+			9月 (地方 month)
+			> 7-8 rest... (comic treasure isnt it?)
+			> 14-16 石垣島?
+			> 21-23 rest plz
+			> 28-29 ??? 
+
+コミ
 	8から
-		main > aomi + amanex (6600 + 27400)
-		yobi > ace + keikyuu (9600 + 28300) (※ 1st 2nd day not 面, still need 電気)
-		or   > ace + amanex (9600 + 19000) (※ discuss with hotel directly)
+		main > aomi OR east21 + amanex (6600, 7600 + 27400)
+		yobi > east21 + amanex (15000 + 19000) (※ discussing with hotel)
 	9から
 		amanex (27400)
-		???  > ace + amanex (4800 + 19000) (※ 2st day not 面, けち, discuss with hotel success)
 	キャンへ
 		fres : too quick deadline to decide <- ask golf for plan before cancel
 		keik : too expensive and 贅沢, 予備 untill nego with amanex successful
 		tokyu: became obsolete
-
-- also find more place in akiba
-					: 軸 -> new release tape, 5-10 min
-					: 穴 -> inspect 一般, check 単行本 + 同, 10 min
-					: melon -> check all floors, 5+10 min
-					: kbook -> check section, 5 min
-					: sof -> check 2nd, 10 min
-					: las -> check leftover, 5 min
-					: man -> check 4th, 5 min
-					: trd -> check price, 5 min
-					: zin -> check additional, 5 min
-					: animate -> tapestry
-					: hobbytengoku -> 1-2F
-					: gamers
-					: mulan
-		- plan 16 morning if interesting or not
-			: 等々力渓谷
-			: 文京あじさいまつり
-			: 小岩菖蒲園
+		for golf : if not work
+		aomi : east 21 is more interesting / pricewise worth
+	Activity:
+		hanabi
+		yokohama
+		visit utsunomiya again?
+		more hana?
 
 find other country to travel please
 to feel the nature:		jap at summer
