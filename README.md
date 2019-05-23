@@ -7,11 +7,6 @@ now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-	tonight
-	
-		- emergency curry
-		- find new way to improve my arm, and probably train my intermediate abs thoroughly
-		- 集中 sakuuta + dr3
 	weekend
 		
 		- research south or go market
