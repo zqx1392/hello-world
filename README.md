@@ -25,7 +25,8 @@ now
 	
 		- 6/4 get oomagari ticket
 		- 6/11 final decision for fav
-		
+		- 6/22 talk to golf
+		- hanabi ans sanriku plan
 	house
 	
 	work, career
