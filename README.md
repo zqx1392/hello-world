@@ -20,6 +20,7 @@ now
 		- 干し布団
 		- try かつ + 丼、あずき、???
 		- eat pancake and suki
+		- reserve osaka hotel
 		- tenshin bg extract?
 	soon
 	
