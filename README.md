@@ -9,13 +9,17 @@ now
 
 	weekend
 		
-		- research south or go market
+		- 150,743 == 106,246 
+		- last find on 8-11 (8-9, 9-11)
+			-> nevermind price, just choose cheapest luxury to change mind later 
+		- reserve osaka hotel
+		- go market or/and west bank
 		- OR research 菜の花 a bit and might go
 		- buy shoe cleaner, toothbrush, exercise cloth
 		- 干し布団
 		- try かつ + 丼、あずき、???
 		- eat pancake and suki
-		- reserve osaka hotel
+		
 		- tenshin bg extract?
 	soon
 	
