@@ -8,7 +8,13 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	weekend
-		
+			
+		verdict
+		1. lay down and accept : 6600 + 27400
+		2. a bit of taste : 26000(1+2) + 12000
+			-> alternative and ideal : nishitetsu, ningyoujou (21000) + 15000
+		3. full taste :  26000(1+2) + 15000
+		※ possible to find 8-11 with 7000-8000 average?
 		- 150,743 == 106,246 
 		- last find on 8-11 (8-9, 9-11)
 			-> nevermind price, just choose cheapest luxury to change mind later
