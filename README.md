@@ -11,7 +11,8 @@ now
 		
 		- 150,743 == 106,246 
 		- last find on 8-11 (8-9, 9-11)
-			-> nevermind price, just choose cheapest luxury to change mind later 
+			-> nevermind price, just choose cheapest luxury to change mind later
+			-> maybe find 8-9, 9-11 for both nishitetsu and luxury so I can go full retard flex
 		- reserve osaka hotel
 		- go market or/and west bank
 		- OR research 菜の花 a bit and might go
