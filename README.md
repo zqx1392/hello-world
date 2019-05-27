@@ -9,11 +9,8 @@ now
 
 	weekend
 			
-		- DR3 case2 裏ルート
-		- buy shoe cleaner, toothbrush, face wash, shampoo
-		- also clean sneaker mud
-		- ramen, 挽き豚, tonkatsu?
-		- mon : matsuya + noodle?
+		- also clean sneaker mud and buy shoe clean
+		- time to plan sanriku
 		- tues : curry + tonkatsu?
 		- wed : matsuya + curry
 		- thrus : curry + ???
