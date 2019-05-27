@@ -9,7 +9,10 @@ now
 
 	weekend
 			
-		- buy shoe cleaner, toothbrush, face wash
+		- DR3 case2 裏ルート
+		- buy shoe cleaner, toothbrush, face wash, shampoo
+		- also clean sneaker mud
+		- ramen, 挽き豚, tonkatsu?
 		- mon : matsuya + noodle?
 		- tues : curry + tonkatsu?
 		- wed : matsuya + curry
