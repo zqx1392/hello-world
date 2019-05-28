@@ -14,6 +14,15 @@ now
 		- tues : undou + curry + tonkatsu?
 		- wed : matsuya + curry
 		- thrus : curry + ???
+		
+		-> time to visit teishoku
+		-> prepare body, mind, and shoes for full takamatsu + iwayama run?
+		-> really, focus japanese a bit more?
+		-> full body weight....
+		-> time to finish & order new magazine
+		-> order shoesbrush + magazine via amazon...
+		-> calculate total damage for GW + 5月
+		
 	soon
 	
 		- 6/4 get oomagari ticket
