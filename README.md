@@ -8,21 +8,21 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	current
-			
-		- https://www.sso.go.th/wpr/main/login 
-		- also clean sneaker mud and buy shoe clean
-		- time to plan sanriku
-		- tues : undou + curry + tonkatsu?
+		
+		-> buy small bottle for running
+		-> really, focus japanese a bit more?
+		-> time to plan sanriku : detailed timetable
 		- wed : matsuya + curry
 		- thrus : curry + ???
 		
+		weekend
 		-> time to visit teishoku
-		-> buy small bottle for running
-		-> prepare body, mind, and shoes for full takamatsu + iwayama run?
-		-> really, focus japanese a bit more?
-		-> full body weight....
+		-> yakisoba
 		-> time to finish & order new magazine
 		-> order shoesbrush + magazine via amazon...
+		-> also clean sneaker mud and buy shoe clean
+		-> prepare body, mind, and shoes for full takamatsu + iwayama run?
+		-> full body weight....
 		-> calculate total damage for GW + 5月
 		
 	soon
