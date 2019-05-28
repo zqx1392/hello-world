@@ -11,7 +11,7 @@ now
 			
 		- also clean sneaker mud and buy shoe clean
 		- time to plan sanriku
-		- tues : curry + tonkatsu?
+		- tues : undou + curry + tonkatsu?
 		- wed : matsuya + curry
 		- thrus : curry + ???
 	soon
