@@ -7,8 +7,9 @@ now
 - time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-	weekend
+	current
 			
+		- https://www.sso.go.th/wpr/main/login 
 		- also clean sneaker mud and buy shoe clean
 		- time to plan sanriku
 		- tues : undou + curry + tonkatsu?
