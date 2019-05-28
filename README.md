@@ -16,6 +16,7 @@ now
 		- thrus : curry + ???
 		
 		-> time to visit teishoku
+		-> buy small bottle for running
 		-> prepare body, mind, and shoes for full takamatsu + iwayama run?
 		-> really, focus japanese a bit more?
 		-> full body weight....
