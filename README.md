@@ -12,7 +12,6 @@ now
 		-> buy small bottle for running
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
-		- wed : matsuya + curry
 		- thrus : curry + ???
 		
 		weekend
