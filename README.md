@@ -12,7 +12,11 @@ now
 		-> buy small bottle for running
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
-		- thrus : curry + ???
+		
+		-> connect to user directly and remove records via arcmap (using another edit open method)
+		-> not, then recreate old version and try to delete via tool
+		-> then try to fix width by asking murakami-san 
+		-> then clear other and clean up code quick and quick
 		
 		weekend
 		-> time to visit teishoku
