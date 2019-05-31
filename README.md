@@ -12,21 +12,20 @@ now
 		-> buy small bottle for running
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
-		
-		-> connect to user directly and remove records via arcmap (using another edit open method)
-		-> not, then recreate old version and try to delete via tool
-		-> then try to fix width by asking murakami-san 
-		-> then clear other and clean up code quick and quick
+		-> .... sendai, or matsushima hotel?
+		-> rethink morioka hana
 		
 		weekend
-		-> time to visit teishoku
+		: pasta + hotate + hourensou + mirin
+		1-> time to visit teishoku
+		2-> sentaku + clean up
+		2.5 -> to super and buy small bottle + dinner
+		3-> time to finish & order new magazine + shoesbrush
+		4-> full run
+		5-> full body weight
+		
 		-> yakisoba
-		-> time to finish & order new magazine
-		-> order shoesbrush + magazine via amazon...
 		-> also clean sneaker mud and buy shoe clean
-		-> prepare body, mind, and shoes for full takamatsu + iwayama run?
-		-> full body weight....
-		-> calculate total damage for GW + 5月
 		
 	soon
 	
