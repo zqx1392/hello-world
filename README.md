@@ -9,22 +9,16 @@ now
 
 	current
 		
-		-> buy small bottle for running
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
 		-> .... sendai, or matsushima hotel?
 		-> rethink morioka hana
 		
 		weekend
-		: pasta + hotate + hourensou + mirin
-		1-> time to visit teishoku
-		2-> sentaku + clean up
-		2.5 -> to super and buy small bottle + dinner
-		3-> time to finish & order new magazine + shoesbrush
-		4-> full run
-		5-> full body weight
+		: chahan + asari + ???
+		: rechallenge pasta again
 		
-		-> yakisoba
+		-> unlock new pasta recipe
 		-> also clean sneaker mud and buy shoe clean
 		
 	soon
