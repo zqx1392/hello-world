@@ -18,6 +18,7 @@ now
 		: chahan + asari + ???
 		: rechallenge pasta again
 		
+		-> go to chuuko and buy dumbell?
 		-> unlock new pasta recipe
 		-> also clean sneaker mud and buy shoe clean
 		
