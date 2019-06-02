@@ -11,12 +11,8 @@ now
 		
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
-		-> .... sendai, or matsushima hotel?
-		-> rethink morioka hana
 		
 		weekend
-		: chahan + asari + ???
-		: rechallenge pasta again
 		
 		-> go to chuuko and buy dumbell?
 		-> unlock new pasta recipe
@@ -24,7 +20,7 @@ now
 		
 	soon
 	
-		- 6/4 get oomagari ticket
+		- 6/7 get oomagari ticket
 		- 6/11 final decision for fav
 		- 6/22 talk to golf
 		- hanabi ans sanriku plan
