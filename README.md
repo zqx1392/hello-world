@@ -10,13 +10,12 @@ now
 	current
 	
 		- 6/7 get oomagari ticket
-		-  research steak or pasta a bit
-		- verify dr3
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
 		
 	weekend
 		
+		-> new nama trash bag + spoon placer
 		-> banana, juice, fish
 		-> teishoku or gyoza?
 		-> unlock new pasta recipe?
