@@ -13,8 +13,9 @@ now
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
 		
-		weekend
+	weekend
 		
+		-> banana, juice, fish
 		-> teishoku or gyoza?
 		-> unlock new pasta recipe?
 		-> also clean sneaker mud and buy shoe clean
