@@ -24,8 +24,8 @@ now
 		-> finish noble work
 		
 	soon
-	
 		
+		- clean toilet and disgusting matt
 		- 6/11 final decision for fav
 		- 6/22 talk to golf
 		- hanabi ans sanriku plan
