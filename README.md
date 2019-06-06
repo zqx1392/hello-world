@@ -8,18 +8,23 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 	current
-		
+	
+		- 6/7 get oomagari ticket
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
 		
 		weekend
 		
-		-> unlock new pasta recipe
+		-> teishoku or gyoza?
+		-> unlock new pasta recipe?
 		-> also clean sneaker mud and buy shoe clean
+		-> dumbell exercise
+		-> confirm DR3 裏ルート clear
+		-> finish noble work
 		
 	soon
 	
-		- 6/7 get oomagari ticket
+		
 		- 6/11 final decision for fav
 		- 6/22 talk to golf
 		- hanabi ans sanriku plan
