@@ -10,6 +10,7 @@ now
 	current
 	
 		- 6/7 get oomagari ticket
+		- slight research how to clean shoes
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
 		
