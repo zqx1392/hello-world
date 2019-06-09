@@ -14,9 +14,6 @@ now
 		-> time to plan sanriku : detailed timetable
 		
 sun
-	- fish + veg
-	- run
-	- steak?
 	- sakuuta
 	- start nukitashi
 	- detailed plan for miyako
