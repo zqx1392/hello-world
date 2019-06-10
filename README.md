@@ -38,6 +38,7 @@ now
 		
 	soon
 		
+		- haircut
 		- 6/22 talk to golf
 		- hanabi ans sanriku plan
 		- 在留カード更新
