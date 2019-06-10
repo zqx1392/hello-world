@@ -4,13 +4,27 @@ don't forget to 峰打ち
 - https://pantip.com/topic/36428780, ที่ ดูดาว ไม่มีรถ
 
 now
-- time to seriously listen jap and capture pitch 
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
+
+	meal
+	
+		mon: ready meal
+		tue: matsuya, fish + ???
+		   : run? (just light 4-5 km warm up?)
+		wed: bentou, 飲み会
+		thu: matsuya, gyudon or chahan
+		   : weight
+		fri: bentou, curry(somewhere) -> buy necessary bentou from super
+		   : run (if tue not work)
+
 
 	current
 
+		- download clover browser again
 		- search aki + where to eat a bit more
-		- nukitashi
+		- finish sakuuta + start nukitashi
+		- invite peiko for 田代島
+		- hotel scout for GW202
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
