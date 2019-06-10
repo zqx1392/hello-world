@@ -8,7 +8,6 @@ now
 
 	meal
 	
-		mon: ready meal
 		tue: matsuya, fish + ???
 		   : run? (just light 4-5 km warm up?)
 		wed: bentou, 飲み会
@@ -20,11 +19,8 @@ now
 
 	current
 
-		- download clover browser again
-		- search aki + where to eat a bit more
 		- finish sakuuta + start nukitashi
 		- invite peiko for 田代島
-		- hotel scout for GW202
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
