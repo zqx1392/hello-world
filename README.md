@@ -19,6 +19,7 @@ now
 
 	current
 
+		- noble work bgm
 		- finish sakuuta + start nukitashi
 		- invite peiko for 田代島
 		-> around shiroato 6/15+-
