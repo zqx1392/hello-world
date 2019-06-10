@@ -54,6 +54,8 @@ conclusion
 					: gamers
 					: mulan
 					: border tour
+					: akibaoo
+					: liberty 5-6
 				- plan 16 morning if interesting or not
 					: 等々力渓谷
 					: 文京あじさいまつり
