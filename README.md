@@ -9,31 +9,30 @@ now
 
 	current
 
-		- around shiroato 6/15+-
+		- search aki + where to eat a bit more
+		- nukitashi
+		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
 		
-sun
-	- sakuuta
-	- start nukitashi
-	- detailed plan for miyako
 		
-	weekend
+	food
 		
 		-> teishoku or gyoza　or south とんかつ?
 		-> unlock new pasta recipe?
+		-> juice, fish, steak, azuki, prikprao or curry-based food again
 		
 	soon
 		
-		- 6/11 final decision for fav
 		- 6/22 talk to golf
 		- hanabi ans sanriku plan
+		- 在留カード更新
 	house
 	
 	work, career
 	
 		> self improvement
-		> 在留カード更新
+		
 	hobby
 			
 
