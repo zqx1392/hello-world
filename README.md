@@ -19,9 +19,7 @@ now
 
 	current
 
-		- decide hotel -> or find new
 		- noble work bgm
-		- finish sakuuta + start nukitashi
 		- invite peiko for 田代島
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
