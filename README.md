@@ -8,19 +8,17 @@ now
 
 	meal
 	
-		tue: matsuya, fish + ???
-		   : run? (just light 4-5 km warm up?)
-		wed: bentou, 飲み会
 		thu: matsuya, gyudon or chahan
-		   : weight
+		   : run
 		fri: bentou, curry(somewhere) -> buy necessary bentou from super
-		   : run (if tue not work)
 
 
 	current
 
-		- noble work bgm
+		- try cleaning firefox (maybe except password, facebook, twitter cookies?)
+			: disable all add-on and hardware acc, safemode?
 		- invite peiko for 田代島
+		- noble work bgm	
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
