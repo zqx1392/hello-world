@@ -6,7 +6,22 @@ don't forget to 峰打ち
 now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-		fri: bentou, curry(somewhere) -> buy necessary bentou from super
+		fri plan
+			- create dank powerpoint first
+			- then go on to good interface + youkenteigi
+			- straight to curry... or straight home to chahan if I really want to run
+			- buy bentou during the way.. (super)
+			- run if I really have a will to do
+			- pack the bag : cloth, hat, small gift, ticket, plastic, fav items
+			- try to wear cloth
+			- clean the house?
+			- sleep...?
+		sat morning
+			- clean the house?
+			- laundry
+			- shower and wear cloth
+			- pack notebook and phone charger
+			- go and buy fukuda pan
 		
 		top left = in link list, top right = in lane list
 		main angle between lane pic, less angle in 傍ら
