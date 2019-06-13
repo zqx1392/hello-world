@@ -6,19 +6,15 @@ don't forget to 峰打ち
 now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-	meal
-	
-		thu: matsuya, gyudon or chahan
-		   : run
 		fri: bentou, curry(somewhere) -> buy necessary bentou from super
+		
+		top left = in link list, top right = in lane list
+		main angle between lane pic, less angle in 傍ら
 
 
 	current
 
-		- try cleaning firefox (maybe except password, facebook, twitter cookies?)
-			: disable all add-on and hardware acc, safemode?
-		- invite peiko for 田代島
-		- noble work bgm	
+		
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
@@ -33,6 +29,8 @@ now
 	soon
 		
 		- haircut
+		- try cleaning firefox (maybe except password, facebook, twitter cookies?)
+			: disable all add-on and hardware acc, safemode?
 		- 6/22 talk to golf
 		- hanabi ans sanriku plan
 		- 在留カード更新
