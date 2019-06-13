@@ -13,8 +13,7 @@ now
 
 
 	current
-
-		
+	
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		-> time to plan sanriku : detailed timetable
