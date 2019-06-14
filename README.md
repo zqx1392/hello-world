@@ -7,7 +7,6 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 		fri plan
-			- create dank powerpoint first
 			- then go on to good interface + youkenteigi
 			- straight to curry... or straight home to chahan if I really want to run
 			- buy bentou during the way.. (super)
@@ -29,6 +28,7 @@ now
 
 	up next
 		
+		-> get photo and buy 4000 収入印紙
 		-> plan sanriku for real
 		-> haircut
 		-> start talking to golf
