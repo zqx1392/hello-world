@@ -58,7 +58,29 @@ now
 		> self improvement
 		
 	hobby
-			
+	
+		> finish nukitashi + sakuuta before 7/26
+		: summer
+			> c+c
+			> summer pocket
+			> higurashi
+			> nukitashi 2
+			> heliodor
+		: autumn
+			> muramasa
+			> oretsuba
+			> muv luv?
+			> eustia
+		: winter
+			> hatsuyuki sakura
+			> WA series
+			> KnS3
+		: ???
+			> Yu-NO
+			> Dies
+			> island
+			> baldr
+			> aokana
 
 			
 		
