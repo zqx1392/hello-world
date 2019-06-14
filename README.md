@@ -27,11 +27,14 @@ now
 		main angle between lane pic, less angle in 傍ら
 
 
-	current
-	
+	up next
+		
+		-> plan sanriku for real
+		-> haircut
+		-> start talking to golf
+		-> big abs. and run
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
-		-> time to plan sanriku : detailed timetable
 		
 		
 	food
