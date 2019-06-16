@@ -8,12 +8,15 @@ now
 
 
 	up next
+	
+		-> do weight tomorrow and cook omelette or yasai
+		-> make this week schedule..
 		
-		-> retrieve my 水筒　8 11 e
+		mon -> retrieve my 水筒　8 11 e
 		-> buy soap, clean floor, etc
-		-> finish fata, and take ace attorney as next android game
-		-> find touboukou from photo
-		-> get photo and buy 4000 収入印紙
+		mon-> finish fata, and take ace attorney as next android game
+
+		mon-> get photo and buy 4000 収入印紙
 		-> plan sanriku for real
 		-> haircut
 		-> start talking to golf
