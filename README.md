@@ -6,15 +6,13 @@ don't forget to 峰打ち
 now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-		sat morning
-			- clean the house?
-			- laundry
-			- shower and wear cloth
-			- pack notebook and phone charger
-			- go and buy fukuda pan
 
 	up next
 		
+		-> retrieve my 水筒　8 11 e
+		-> buy soap, clean floor, etc
+		-> finish fata, and take ace attorney as next android game
+		-> find touboukou from photo
 		-> get photo and buy 4000 収入印紙
 		-> plan sanriku for real
 		-> haircut
