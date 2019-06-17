@@ -9,17 +9,15 @@ now
 
 	up next
 	
-		-> do weight tomorrow and cook omelette or yasai
-		-> make this week schedule..
+		mon
+		-> cook omelette or yasai
+		-> weight arm
+		-> finish fata, and take ace attorney as next android game
+		-> prepare photo and document for 在留 + buy 収入印紙
 		
-		mon -> retrieve my 水筒　8 11 e
 		-> buy soap, clean floor, etc
-		mon-> finish fata, and take ace attorney as next android game
-
-		mon-> get photo and buy 4000 収入印紙
 		-> plan sanriku for real
 		-> haircut
-		-> start talking to golf
 		-> big abs. and run
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
@@ -33,12 +31,9 @@ now
 		
 	soon
 		
-		- haircut
 		- try cleaning firefox (maybe except password, facebook, twitter cookies?)
 			: disable all add-on and hardware acc, safemode?
-		- 6/22 talk to golf
 		- hanabi ans sanriku plan
-		- 在留カード更新
 	house
 	
 	work, career
