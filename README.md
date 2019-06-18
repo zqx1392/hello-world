@@ -13,6 +13,7 @@ now
 		-> buy 収入印紙
 		-> plan sanriku for real
 		-> big abs, and run
+		-> put an end to fata
 		
 		-> buy soap, clean floor, etc
 		-> plan sanriku for real
