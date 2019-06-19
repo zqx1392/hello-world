@@ -11,8 +11,6 @@ now
 	
 		wed
 		-> fata
-		-> get photo for 在留
-		-> abs
 		-> plan sanriku for real
 		
 		
