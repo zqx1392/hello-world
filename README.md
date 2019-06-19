@@ -9,8 +9,12 @@ now
 
 	up next
 	
-		tue
+		wed
+		-> fata
+		-> get photo for 在留
+		-> abs
 		-> plan sanriku for real
+		
 		
 		-> buy soap, clean floor, etc
 		-> plan sanriku for real
