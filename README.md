@@ -15,6 +15,11 @@ now
 		-> time to decide heliodor fate
 		-> check denkigai a bit
 		-> clear fata endings, 裏, and download requiem
+		new-> take experience from c96 to reserve hotel correctly on c97
+		- maybe I should have nice point card for those hotel (but need to pay hotel directly?)
+			-> keikyuu ex
+			-> tokyu
+			-> or directly to agoda?
 		-> use firefox offline power to send 古文 page to work?
 		-> plan sanriku for real
 		
