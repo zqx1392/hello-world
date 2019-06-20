@@ -9,15 +9,13 @@ now
 
 	up next
 	
-		wed
+		thu
 		-> abs a bit and ramen
 		-> yoyaku tokyu 11-13 ?
 		-> clear fata endings, 裏, and download requiem
+		-> use firefox offline power to send 古文 page to work?
 		-> plan sanriku for real
 		
-		
-		-> buy soap, clean floor, etc
-		-> plan sanriku for real
 		-> haircut
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
