@@ -23,6 +23,18 @@ now
 		-> use firefox offline power to send 古文 page to work?
 		-> plan sanriku for real
 		
+		- think about fata story in overall
+			-> move on...
+			-> no matter what pain you received... you must forgive at one point
+			   not only for other people... but for youself
+			-> so who granted all morgana wishes and make the stage?
+				: only god knows
+			-> and well, not everyone is truly a bad guy.... they need someone to get them out
+			-> why giselle disappear midway?
+			-> does she stuck in mansion or slipped away?
+			-> so what michel did in the end? ... reincarnate? ... or wait in mansion?
+				: need vndb forum and other search I suppose
+		
 		-> haircut
 		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
