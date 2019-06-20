@@ -13,6 +13,7 @@ now
 		-> abs a bit and ramen
 		-> yoyaku tokyu 11-13 ?
 		-> time to decide heliodor fate
+		-> check denkigai a bit
 		-> clear fata endings, 裏, and download requiem
 		-> use firefox offline power to send 古文 page to work?
 		-> plan sanriku for real
