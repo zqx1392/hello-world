@@ -9,31 +9,9 @@ now
 
 	up next
 	
-		thu
-		-> abs a bit and ramen
-		-> yoyaku tokyu 11-13 ?
-		-> time to decide heliodor fate
-		-> check denkigai a bit
-		-> clear fata endings, 裏, and download requiem
-		new-> take experience from c96 to reserve hotel correctly on c97
-		- maybe I should have nice point card for those hotel (but need to pay hotel directly?)
-			-> keikyuu ex
-			-> tokyu
-			-> or directly to agoda?
+		-> hunt fata reincanation
 		-> use firefox offline power to send 古文 page to work?
 		-> plan sanriku for real
-		
-		- think about fata story in overall
-			-> move on...
-			-> no matter what pain you received... you must forgive at one point
-			   not only for other people... but for youself
-			-> so who granted all morgana wishes and make the stage?
-				: only god knows
-			-> and well, not everyone is truly a bad guy.... they need someone to get them out
-			-> why giselle disappear midway?
-			-> does she stuck in mansion or slipped away?
-			-> so what michel did in the end? ... reincarnate? ... or wait in mansion?
-				: need vndb forum and other search I suppose
 		
 		-> haircut
 		-> around shiroato 6/15+-
