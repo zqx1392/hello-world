@@ -10,7 +10,9 @@ now
 	up next
 	
 		wed
-		-> fata
+		-> abs a bit and ramen
+		-> yoyaku tokyu 11-13 ?
+		-> clear fata endings, 裏, and download requiem
 		-> plan sanriku for real
 		
 		
