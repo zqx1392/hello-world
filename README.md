@@ -13,6 +13,7 @@ now
 		1 laundry pillow.... yike.... maybe should buy new one also
 		1.5 grocery
 			-> shrimp, squid
+			-> or beef for new menu (with broc or paprika)
 			-> steak?
 			-> milk, juice
 			-> negi and other veg
