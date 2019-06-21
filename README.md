@@ -7,14 +7,32 @@ now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
 
-	up next
-	
+	weekend
+		
+		sat
+		1 laundry pillow.... yike.... maybe should buy new one also
+		1.5 grocery
+			-> shrimp, squid
+			-> steak?
+			-> milk, juice
+			-> negi and other veg
+			-> pasta
+			-> wrapper
+		2 定食?
+		3 haircut
+		4 run more, abs more
+		5 steak or thai curry.... at least make curry I suppose
+		6 full focus on nukitashi + sakuuta since a lot are coming right now
+		7 plan sanriku and decide I should go sooner or later
+			-> go cave first, visit beach evening, and decide if I could do star
+		sun
+		1 pasta or steak
+		2 start planning 花火..
+		3 clear DR3 + morgana mini game
+		4 plan star
+		
 		-> hunt fata reincanation
 		-> use firefox offline power to send 古文 page to work?
-		-> plan sanriku for real
-		
-		-> haircut
-		-> around shiroato 6/15+-
 		-> really, focus japanese a bit more?
 		
 		
