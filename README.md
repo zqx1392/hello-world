@@ -9,6 +9,7 @@ now
 
 	next
 	
+		12th hotel
 		4 plan star
 		5 broccoli, egg, hakusai.....　potato + shrimp
 		   : create prikpao with potato + left over shrimp?
