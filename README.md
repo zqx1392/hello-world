@@ -11,7 +11,7 @@ now
 	
 		12th hotel
 		4 plan star
-		5 broccoli, egg, hakusai.....　potato + shrimp
+		5 broccoli, egg, hakusai.....　potato + shrimp, negi, mushroom, tamanegi
 		   : create prikpao with potato + left over shrimp?
 		   : normal yasai itame...
 		-> play seven coast, and requiem next
