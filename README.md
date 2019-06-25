@@ -9,10 +9,7 @@ now
 		
 	tonight
 			
-		   : 151,725 - 39691 (23040)
-		   : pig + potato + prikpao + mushroom..... yup chahan
 		   : full ram nukitashi + sakuuta
-		   : probably ot a bit tonight?
 		
 	next
 	
