@@ -6,26 +6,29 @@ don't forget to 峰打ち
 now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
 
-
+		
+	tonight
+	
+		   : pig + potato + prikpao + mushroom..... yup chahan
+		   : full ram nukitashi + sakuuta
+		   : probably ot a bit tonight?
+		
 	next
 	
-		12th hotel
-		4 plan star
-		5 broccoli, egg, hakusai.....　potato + shrimp, negi, mushroom, tamanegi
-		   : create prikpao with potato + left over shrimp?
-		   : normal yasai itame...
-		-> play seven coast, and requiem next
-		-> hunt fata reincanation
-		-> use firefox offline power to send 古文 page to work?
-		-> really, focus japanese a bit more?
-		-> plan star
-		
-		
+		   : normal yasai itame (broc, egg, hakusai, meat)
+		   : run wednes
+		   : scout hotel war on thursday
+		   : maybe start seven coast on tue, or fri
+		   : research that 島 a bit for star...
+
+		   -> hunt fata reincanation
+		   -> use firefox offline power to send 古文 page to work? wait I free
+			
 	food
 		
-		-> teishoku or gyoza　or south とんかつ?
+		-> gyoza　or south とんかつ?
 		-> unlock new pasta recipe?
-		-> juice, fish, steak, azuki, prikprao or curry-based food again
+		-> fish, steak, azuki, prikprao 
 		
 	soon
 		
