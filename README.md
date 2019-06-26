@@ -10,6 +10,9 @@ now
 	tonight
 			
 		   : keep ramming sakuuta + nukitashi
+		   https://www.reddit.com/r/AskReddit/comments/c2rcss/sex_workers_of_reddit_who_was_the_grossest/
+		   https://www.reddit.com/r/AskReddit/comments/c3ouco/males_of_reddit_when_was_the_absolute_worse_time/
+		   https://www.reddit.com/r/AskReddit/comments/c4pt32/nsfwsex_workers_of_reddit_have_you_ever_become/
 		
 	next
 	
