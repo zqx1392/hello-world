@@ -9,14 +9,16 @@ now
 		
 	tonight
 			
-		   : full ram nukitashi + sakuuta
+		   : run run run
+		   : keep ramming sakuuta + nukitashi
 		
 	next
 	
 		   : normal yasai itame (broc, egg, hakusai, meat)
-		   : run wednes
 		   : scout hotel war on thursday
 		   : maybe start seven coast on tue, or fri
+		   : concrete sanriku plan a bit (into beautiful af time table)
+		   : really want to eat tonkatsu or gyoza... friday we go (to 地下)
 		   : research that 島 a bit for star...
 
 		   -> hunt fata reincanation
