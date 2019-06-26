@@ -9,10 +9,7 @@ now
 		
 	tonight
 			
-		   : run run run
 		   : keep ramming sakuuta + nukitashi
-		   : time to take fata morgana soundtrack into library
-		   : try to increase brightness on my phone when in close
 		
 	next
 	
