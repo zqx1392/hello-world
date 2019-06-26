@@ -11,6 +11,8 @@ now
 			
 		   : run run run
 		   : keep ramming sakuuta + nukitashi
+		   : time to take fata morgana soundtrack into library
+		   : try to increase brightness on my phone when in close
 		
 	next
 	
@@ -34,7 +36,7 @@ now
 		
 		- try cleaning firefox (maybe except password, facebook, twitter cookies?)
 			: disable all add-on and hardware acc, safemode?
-		- hanabi ans sanriku plan
+		- get all newer songs into my phone... also fix my phone someway?
 	house
 	
 	work, career
