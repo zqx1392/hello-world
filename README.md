@@ -10,14 +10,15 @@ now
 	tonight
 			
 		   : keep ramming sakuuta + nukitashi
+		   : normal yasai itame (broc, egg, hakusai, meat)
+		   : scout hotel war on thursday 
+		   
 		   https://www.reddit.com/r/AskReddit/comments/c2rcss/sex_workers_of_reddit_who_was_the_grossest/
 		   https://www.reddit.com/r/AskReddit/comments/c3ouco/males_of_reddit_when_was_the_absolute_worse_time/
 		   https://www.reddit.com/r/AskReddit/comments/c4pt32/nsfwsex_workers_of_reddit_have_you_ever_become/
 		
 	next
 	
-		   : normal yasai itame (broc, egg, hakusai, meat)
-		   : scout hotel war on thursday
 		   : maybe start seven coast on tue, or fri
 		   : concrete sanriku plan a bit (into beautiful af time table)
 		   : really want to eat tonkatsu or gyoza... friday we go (to 地下)
@@ -25,6 +26,24 @@ now
 
 		   -> hunt fata reincanation
 		   -> use firefox offline power to send 古文 page to work? wait I free
+		   
+		   fri
+		- to eat tonkatsu and gyoza
+		- beer
+	sat
+		- clean
+		- run
+		- teishoku
+		- curry
+		- sakuuta route
+		- hotel
+		- buy tissue, flask cleaner, disk washer
+	sun
+		- pasta
+		- add more weight
+		- refined sanriku route
+		- seven coast
+
 			
 	food
 		
@@ -68,6 +87,7 @@ now
 			> island
 			> baldr
 			> aokana
+			> venus blood
 
 			
 		
