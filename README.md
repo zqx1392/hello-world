@@ -9,9 +9,6 @@ now
 		
 	tonight
 			
-		   : keep ramming sakuuta + nukitashi
-		   : normal yasai itame (broc, egg, hakusai, meat)
-		   : scout hotel war on thursday 
 		   
 		   https://www.reddit.com/r/AskReddit/comments/c2rcss/sex_workers_of_reddit_who_was_the_grossest/
 		   https://www.reddit.com/r/AskReddit/comments/c3ouco/males_of_reddit_when_was_the_absolute_worse_time/
@@ -29,7 +26,6 @@ now
 		   
 		   fri
 		- to eat tonkatsu and gyoza
-		- beer
 	sat
 		- clean
 		- run
