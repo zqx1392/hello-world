@@ -9,23 +9,21 @@ now
 		
 	tonight
 			
-		   
-		   https://www.reddit.com/r/AskReddit/comments/c2rcss/sex_workers_of_reddit_who_was_the_grossest/
-		   https://www.reddit.com/r/AskReddit/comments/c3ouco/males_of_reddit_when_was_the_absolute_worse_time/
-		   https://www.reddit.com/r/AskReddit/comments/c4pt32/nsfwsex_workers_of_reddit_have_you_ever_become/
+		   : really want to eat tonkatsu or gyoza... friday we go (to 地下)
+		   : banana + milk + tissue + flask cleanr + dish washer
+		  
 		
 	next
 	
-		   : maybe start seven coast on tue, or fri
+		   : start seven coast on sun
 		   : concrete sanriku plan a bit (into beautiful af time table)
-		   : really want to eat tonkatsu or gyoza... friday we go (to 地下)
+		  
 		   : research that 島 a bit for star...
 
 		   -> hunt fata reincanation
 		   -> use firefox offline power to send 古文 page to work? wait I free
 		   
-		   fri
-		- to eat tonkatsu and gyoza
+
 	sat
 		- clean
 		- run
