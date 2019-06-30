@@ -5,38 +5,16 @@ don't forget to 峰打ち
 
 now
 - 取り組む日本？ (新しい単語ー＞創意工夫になろうー＞記録するー＞ぎこちないところを退治するー＞繰り返す)
+- think about self new project.... to improve my ability (web,windows app, database, etc.)
 
 		
-	tonight
-			
-		   : really want to eat tonkatsu or gyoza... friday we go (to 地下)
-		   : banana + milk + tissue + flask cleanr + dish washer
 		  
 		
 	next
-	
-		   : start seven coast on sun
-		   : concrete sanriku plan a bit (into beautiful af time table)
-		  
-		   : research that 島 a bit for star...
 
 		   -> hunt fata reincanation
 		   -> use firefox offline power to send 古文 page to work? wait I free
-		   
-
-	sat
-		- clean
-		- run
-		- teishoku
-		- curry
-		- sakuuta route
-		- hotel
-		- buy tissue, flask cleaner, disk washer
-	sun
-		- pasta
-		- add more weight
-		- refined sanriku route
-		- seven coast
+		   -> seven coast
 
 			
 	food
@@ -82,6 +60,7 @@ now
 			> baldr
 			> aokana
 			> venus blood
+		: need to play bladr or vb or other gameplay
 
 			
 		
