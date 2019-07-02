@@ -11,10 +11,12 @@ now
 		  
 		
 	next
-
+		
+		-> seven coast
+		-> melonbooks order (ask mood after 7.14)
 		   -> hunt fata reincanation
 		   -> use firefox offline power to send 古文 page to work? wait I free
-		   -> seven coast
+		   
 
 			
 	food
@@ -29,6 +31,7 @@ now
 			: disable all add-on and hardware acc, safemode?
 		- get all newer songs into my phone... also fix my phone someway?
 		- reserve 8月 train ticket (大曲, comiket <- still reserve 8/8 10am+ just in case)
+		- prepare towels + hiyaketome
 	house
 	
 	work, career
