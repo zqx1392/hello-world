@@ -14,6 +14,7 @@ now
 		
 		-> seven coast
 		-> melonbooks order (ask mood after 7.14)
+		-> can I shut off water heater?
 		   -> hunt fata reincanation
 		   -> use firefox offline power to send 古文 page to work? wait I free
 		   
