@@ -50,6 +50,7 @@ conclusion
 		yokohama
 		visit utsunomiya again?
 		to find himawari...
+		join anmi and death note event
 
 route:
 	※ dont forget the objective is to find new location, not browse already exist goods
