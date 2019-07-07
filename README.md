@@ -8,23 +8,12 @@ now
 - think about self new project.... to improve my ability (web,windows app, database, etc.)
 
 		
-		  
-		
-	next
-		
-		-> seven coast
-		-> melonbooks order (ask mood after 7.14)
-		-> can I shut off water heater?
-		   -> hunt fata reincanation
-		   -> use firefox offline power to send 古文 page to work? wait I free
-		   
-
 			
 	food
 		
 		-> gyoza　or south とんかつ?
 		-> unlock new pasta recipe?
-		-> fish, steak, azuki, prikprao 
+		-> fish, steak, azuki, prikprao, broc + meat
 		
 	soon
 		
