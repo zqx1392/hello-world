@@ -19,10 +19,7 @@ now
 		
 		- try cleaning firefox (maybe except password, facebook, twitter cookies?)
 			: disable all add-on and hardware acc, safemode?
-		- get all newer songs into my phone... also fix my phone someway?
-		- reserve 8月 train ticket (大曲, comiket <- still reserve 8/8 10am+ just in case)
-		- prepare towels + hiyaketome
-		- get nukitashi bg (sea)
+
 	house
 	
 	work, career
