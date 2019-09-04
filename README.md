@@ -31,16 +31,15 @@ now
 		> finish nukitashi + sakuuta before 7/26
 		: summer
 			> c+c
-			> summer pocket
-			> higurashi
 			> nukitashi 2
-			> heliodor
+			> aokana
+			> monobeno
 		: autumn
 			> muramasa
-			> oretsuba
-			> muv luv?
+			> きっと、澄みわたる朝色よりも
 			> eustia
 		: winter
+			> oretsuba
 			> hatsuyuki sakura
 			> WA series
 			> KnS3
@@ -48,8 +47,10 @@ now
 			> Yu-NO
 			> Dies
 			> island
+			> muv luv
+			> ryushiki7
+			> key series
 			> baldr
-			> aokana
 			> venus blood
 		: need to play bladr or vb or other gameplay
 
