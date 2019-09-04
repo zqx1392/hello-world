@@ -33,6 +33,7 @@ now
 			> c+c
 			> nukitashi 2
 			> aokana
+			> もしも明日が晴れならば
 			> monobeno
 		: autumn
 			> muramasa
