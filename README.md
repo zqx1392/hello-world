@@ -30,8 +30,6 @@ now
 	
 		> finish nukitashi + sakuuta before 7/26
 		: summer
-			> c+c
-			> nukitashi 2
 			> aokana
 			> もしも明日が晴れならば
 			> monobeno
@@ -44,6 +42,7 @@ now
 			> hatsuyuki sakura
 			> WA series
 			> KnS3
+			> amakano
 		: ???
 			> Yu-NO
 			> Dies
